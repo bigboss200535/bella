@@ -413,7 +413,7 @@
     position: relative;
     display: inline-block;
     text-transform: uppercase;
-    color: var(--bs-primary);
+    color: var(--bs-gold);
 }
 
 .about .container .section-about-title::before {
@@ -424,7 +424,7 @@
     right: 0;
     transform: translateY(-50%);
     margin-right: -50px;
-    border: 1px solid var(--bs-primary) !important;
+    border: 1px solid var(--bs-gold) !important;
 }
 /*** About End ***/
 
@@ -926,6 +926,11 @@
     background-color: var(--bs-gold) !important;
 }
 
+.bg-gold{
+    color:#ffffff !important;
+    background-color: var(--bs-gold) !important;
+}
+
 
 /*** Tour Booking end ***/
 
@@ -1183,7 +1188,7 @@
 
 .contact .container form .btn.btn-primary:hover {
     box-shadow: inset 1000px 0 0 0 var(--bs-light) !important;
-    color: var(--bs-primary) !important;
+    color: var(--bs-gold) !important;
 }
 /*** Contact End ***/
 
