@@ -1,8 +1,9 @@
  <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
                     <h1 class="m-0">
-                        <img src="img/logo.jpg" height="50px" class="rounded-circle" width="50px">
-                    Bellas Prestige</h1>
+                        <img src="img/logo.jpg" height="50px" width="50px" class="rounded-pill">
+                        Bellas Prestige
+                   </h1>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
