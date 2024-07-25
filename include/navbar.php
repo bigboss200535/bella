@@ -1,16 +1,8 @@
  <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
                     <h1 class="m-0">
-<<<<<<< HEAD
-                        <i class="fa fa-map-marker-alt me-3"></i>Bellas Prestige</h1>
-                        <img src="img/logo.jpg" style="width: 30px;" class="rounded-circle" alt="Logo"><small class="fa fa-map-marker- me-5">Your Dream, Our Focus!</small>
-                    
-=======
-                        <!-- <i class="fa fa-map-marker-alt me-3"></i> -->
-                        <img src="img/logo.jpg" height="50px" width="50px">
+                        <img src="img/logo.jpg" height="50px" class="rounded-circle" width="50px">
                     Bellas Prestige</h1>
-                    <!-- <img src="img/logo.png" alt="Logo"> -->
->>>>>>> 51c49eb5550935acd5d85f1b7da4b4cf265fffd7
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
