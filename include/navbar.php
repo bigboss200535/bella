@@ -1,7 +1,9 @@
  <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
                     <h1 class="m-0">
-                        <i class="fa fa-map-marker-alt me-3"></i>Bellas Prestige</h1>
+                        <!-- <i class="fa fa-map-marker-alt me-3"></i> -->
+                        <img src="img/logo.jpg" height="50px" width="50px">
+                    Bellas Prestige</h1>
                     <!-- <img src="img/logo.png" alt="Logo"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -26,7 +28,7 @@
                                 <a href="404.html" class="dropdown-item">404 Page</a>
                             </div>
                         </div>
-                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                        <a href="contact.php" class="nav-item nav-link">Contact</a>
                     </div>
                     <a href="" class="btn btn-gold rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
                 </div>
