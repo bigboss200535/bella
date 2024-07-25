@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php include ('include/head.php'); ?>
 
     <body>
@@ -76,6 +77,22 @@
                     <a href="" class="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
                 </div>
             </nav>
+=======
+<?php include('include/head.php'); ?>
+    <body>
+
+        <!-- Spinner Start -->
+       <?php include('include/preloader.php');?>
+        <!-- Spinner End -->
+
+        <!-- Topbar Start -->
+        <?php   include('include/topbar.php');     ?>
+        <!-- Topbar End -->
+
+        <!-- Navbar & Hero Start -->
+         <div class="container-fluid position-relative p-0">
+             <?php  include('include/navbar.php');?>
+>>>>>>> 51c49eb5550935acd5d85f1b7da4b4cf265fffd7
         </div>
         <!-- Navbar & Hero End -->
 
@@ -159,9 +176,16 @@
                     </div>
                     <div class="col-12">
                         <div class="rounded">
+<<<<<<< HEAD
                             <iframe class="rounded w-100" 
                             style="height: 450px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.33750346623!2d-73.97968099999999!3d40.6974881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1694259649153!5m2!1sen!2sbd" 
                             loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+=======
+                            <!-- <iframe class="rounded w-100" 
+                            style="height: 450px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.33750346623!2d-73.97968099999999!3d40.6974881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1694259649153!5m2!1sen!2sbd" 
+                            loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+                            <iframe class="rounded w-100" style="height: 450px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.33750346623!2d-73.97968099999999!3d40.6974881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1694259649153!5m2!1sen!2sbd" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+>>>>>>> 51c49eb5550935acd5d85f1b7da4b4cf265fffd7
                         </div>
                     </div>
                 </div>
@@ -178,7 +202,11 @@
                     <p class="text-white mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum tempore nam, architecto doloremque velit explicabo? Voluptate sunt eveniet fuga eligendi! Expedita laudantium fugiat corrupti eum cum repellat a laborum quasi.
                     </p>
                     <div class="position-relative mx-auto">
+<<<<<<< HEAD
                         <input class="form-control border-primary rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
+=======
+                        <input class="form-control border-primary rounded-pill w-100 py-3 ps-4 pe-5" disabled type="text" placeholder="Your email">
+>>>>>>> 51c49eb5550935acd5d85f1b7da4b4cf265fffd7
                         <button type="button" class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 px-4 mt-2 me-2">Subscribe</button>
                     </div>
                 </div>
@@ -187,6 +215,7 @@
         <!-- Subscribe End -->
 
         <!-- Footer Start -->
+<<<<<<< HEAD
         <div class="container-fluid footer py-5">
             <div class="container py-5">
                 <div class="row g-5">
@@ -296,6 +325,17 @@
         <a href="#" class="btn btn-primary btn-primary-outline-0 btn-md-square back-to-top"><i class="fa fa-arrow-up"></i></a>   
 
         
+=======
+        <?php include('include/footer.php');?>
+        <!-- Footer End -->
+        
+        <!-- Copyright Start -->
+        <?php include('include/copyright.php');?>
+        <!-- Copyright End -->
+
+        <!-- Back to Top -->
+        <?php include('include/back_to_top.php');?>  
+>>>>>>> 51c49eb5550935acd5d85f1b7da4b4cf265fffd7
         <!-- JavaScript Libraries -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
