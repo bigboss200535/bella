@@ -7,14 +7,15 @@
                             <h4 class="text-white">KUMASI</h4>
                             <a href="" style="font-size: 12px;"><i class="fas fa-home me-2"></i> Bantama market, opposite the Revoli cinema</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a>
-                            <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 530 525 791</a>
-                            <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-print me-2"></i> +012 345 67890</a>
+                            <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 53 052 5791</a>
+                            <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 27 371 3324 | +233 53 882 3861</a>
+                            <!-- <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> </a> -->
 
                             <h4 class="mt- 4 text-white">ACCRA</h4>
                             <a href=""style="font-size: 12px;"><i class="fas fa-home me-2" ></i> 123 Street, New York, USA</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a>
-                            <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 530 525 791</a>
-                            <a href="" style="font-size: 12px;" class="mb-3"><i class="fas fa-print me-2"></i> +012 345 67890</a>
+                            <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 20 236 5461</a>
+                            <a href="" style="font-size: 12px;" class="mb-3"><i class="fas fa-phone me-2"></i> +233 53 882 3863</a>
                             <div class="d-flex align-items-center">
                                 <i class="fas fa-share fa-2x text-white me-2"></i>
                                 <a class="btn-square btn btn-gold rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
