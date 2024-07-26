@@ -67,7 +67,7 @@
                     </div>
                     <div class="col-lg-8">
                         <h3 class="mb-2">Send us a message</h3>
-                        <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                        <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done.
                         <form>
                             <div class="row g-3">
                                 <div class="col-md-6">
