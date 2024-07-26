@@ -1,9 +1,8 @@
 
 <?php include('include/head.php'); ?>
     <body>
-
         <!-- Spinner Start -->
-       <?php include('include/preloader.php');?>
+       <?php //include('include/preloader.php');?>
         <!-- Spinner End -->
 
         <!-- Topbar Start -->
@@ -42,12 +41,12 @@
                         <div class="bg-white rounded p-4">
                             <div class="text-center mb-4">
                                 <i class="fa fa-map-marker-alt fa-3x text-primary"></i>
-                                <h4 class="text-primary"><Address>KUMASI</Address></h4>
+                                <h4 class="text-primary"><Address>Kumasi Branch</Address></h4>
                                 <p class="mb-0">Bantama market, opposite the Revoli cinema, GHANA</p>
                             </div>
                             <div class="text-center mb-4">
                                 <i class="fa fa-map-marker-alt fa-3x text-primary"></i>
-                                <h4 class="text-primary"><Address>ACCRA</Address></h4>
+                                <h4 class="text-primary"><Address>Accra Branch</Address></h4>
                                 <p class="mb-0">Labadi Polyclinic Bus stop, opposite Marwako GHANA</p>
                             </div>
                             <div class="text-center mb-4">
@@ -68,29 +67,29 @@
                     <div class="col-lg-8">
                         <h3 class="mb-2">Send us a message</h3>
                         <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done.
-                        <form>
+                        <form method="post" action="action/contact_submission.php">
                             <div class="row g-3">
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control border-0" id="name" placeholder="Your Name">
+                                        <input type="text" class="form-control border-0" id="name" name="name" placeholder="Your Name" autocomplete="off">
                                         <label for="name">Your Name</label>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <input type="email" class="form-control border-0" id="email" placeholder="Your Email">
+                                        <input type="email" class="form-control border-0" id="email" name="email" placeholder="Your Email" autocomplete="off">
                                         <label for="email">Your Email</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control border-0" id="subject" placeholder="Subject">
+                                        <input type="text" class="form-control border-0" name="subject" id="subject" placeholder="Subject" autocomplete="off">
                                         <label for="subject">Subject</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <textarea class="form-control border-0" placeholder="Leave a message here" id="message" style="height: 160px"></textarea>
+                                        <textarea class="form-control border-0" placeholder="Leave a message here" name="message" id="message" style="height: 160px"></textarea>
                                         <label for="message">Message</label>
                                     </div>
                                 </div>
@@ -122,18 +121,13 @@
                     <p class="text-white mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum tempore nam, architecto doloremque velit explicabo? Voluptate sunt eveniet fuga eligendi! Expedita laudantium fugiat corrupti eum cum repellat a laborum quasi.
                     </p>
                     <div class="position-relative mx-auto">
-                        <input class="form-control border-primary rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
+                        <input class="form-control border-primary rounded-pill w-100 py-3 ps-4 pe-5" disabled type="text" placeholder="Your email">
                         <button type="button" class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 px-4 mt-2 me-2">Subscribe</button>
                     </div>
                 </div>
             </div>
         </div>
         <!-- Subscribe End -->
-
-
-        <!-- Back to Top -->
-        <a href="#" class="btn btn-primary btn-primary-outline-0 btn-md-square back-to-top"><i class="fa fa-arrow-up"></i></a>   
-
         <?php include('include/footer.php');?>
         <!-- Footer End -->
         
@@ -144,16 +138,12 @@
         <!-- Back to Top -->
         <?php include('include/back_to_top.php');?>  
 
-        <!-- JavaScript Libraries -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
         <script src="lib/easing/easing.min.js"></script>
         <script src="lib/waypoints/waypoints.min.js"></script>
         <script src="lib/owlcarousel/owl.carousel.min.js"></script>
         <script src="lib/lightbox/js/lightbox.min.js"></script>
-        
-
-        <!-- Template Javascript -->
         <script src="js/main.js"></script>
     </body>
 
