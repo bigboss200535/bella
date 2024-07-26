@@ -1,38 +1,30 @@
 <?php 
-
-date_default_timezone_set('Africa/Accra');
-
-include('include/head.php'); 
-
-
+        date_default_timezone_set('Africa/Accra');
+        include('include/head.php'); 
 ?>
-
     <body>
        <?php include('include/preloader.php');?>
         <!-- Spinner End -->
-
         <!-- Topbar Start -->
         <?php   include('include/topbar.php');     ?>
         <!-- Topbar End -->
         
         <!-- Navbar & Hero Start -->
         <div class="container-fluid position-relative p-0">
-
            <?php  include('include/navbar.php');?>
-            
             <!-- Carousel Start -->
             <?php include('include/carousel.php');?>
             
             <!-- Carousel End -->
         </div>
-        <div class="container-fluid search-bar position-relative" style="top: -50%; transform: translateY(-50%);">
+       <!--  <div class="container-fluid search-bar position-relative" style="top: -50%; transform: translateY(-50%);">
             <div class="container">
                 <div class="position-relative rounded-pill w-100 mx-auto p-5" style="background: rgba(218,165,32, 0.8);">
                     <input class="form-control border-0 rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Eg: Thailand">
                     <button type="button" class="btn btn-gold rounded-pill py-2 px-4 position-absolute me-2" style="top: 50%; right: 46px; transform: translateY(-50%);">Search</button>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Navbar & Hero End -->
 
         <!-- About Start -->
@@ -44,7 +36,7 @@ include('include/head.php');
         <!-- About End -->
 
         <!-- Services Start -->
-        <?php include('include/ourservices.php'); ?>
+        <?php include('include/our_services.php'); ?>
         <!-- Services End -->
 
         <!-- Destination Start -->

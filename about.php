@@ -131,23 +131,17 @@
             </div>
         </div>
         <!-- Travel Guide End -->
-
         <!-- Subscribe Start -->
        <?php include('include/news_letter.php');?>
         <!-- Subscribe End -->
-
         <!-- Footer Start -->
         <?php include('include/footer.php');?>
         <!-- Footer End -->
-        
         <!-- Copyright Start -->
         <?php include('include/copyright.php');?>
         <!-- Copyright End -->
-
         <!-- Back to Top -->
         <?php include('include/back_to_top.php');?>  
-
-        
         <!-- JavaScript Libraries -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
@@ -155,9 +149,6 @@
         <script src="lib/waypoints/waypoints.min.js"></script>
         <script src="lib/owlcarousel/owl.carousel.min.js"></script>
         <script src="lib/lightbox/js/lightbox.min.js"></script>
-        
-
-        <!-- Template Javascript -->
         <script src="js/main.js"></script>
     </body>
 

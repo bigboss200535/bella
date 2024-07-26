@@ -109,7 +109,7 @@
         <!-- Contact End -->
 
         <!-- Subscribe Start -->
-       <?php include('include/news_letter.php');?>
+         <?php include('include/news_letter.php');?>
         <!-- Subscribe End -->
         <?php include('include/footer.php');?>
         <!-- Footer End -->
@@ -128,7 +128,6 @@
         <script src="lib/owlcarousel/owl.carousel.min.js"></script>
         <script src="lib/lightbox/js/lightbox.min.js"></script>
         <script src="js/main.js"></script>
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
             <script>
                 $(document).ready(function(){
