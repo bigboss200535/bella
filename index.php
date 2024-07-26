@@ -1,4 +1,11 @@
-<?php include('include/head.php'); ?>
+<?php 
+
+date_default_timezone_set('Africa/Accra');
+
+include('include/head.php'); 
+
+
+?>
 
     <body>
        <?php include('include/preloader.php');?>
