@@ -12,10 +12,11 @@
                             <!-- <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> </a> -->
 
                             <h4 class="mt- 4 text-white">ACCRA</h4>
-                            <a href=""style="font-size: 12px;"><i class="fas fa-home me-2" ></i> 123 Street, New York, USA</a>
+                            <a href=""style="font-size: 12px;"><i class="fas fa-home me-2" ></i> Labadi, Polyclinic Bus stop, opposite Marwako</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 20 236 5461</a>
-                            <a href="" style="font-size: 12px;" class="mb-3"><i class="fas fa-phone me-2"></i> +233 53 882 3863</a>
+                            <a href="" style="font-size: 12px;" class="mb-3"><i class="fas fa-phone me-2"></i> +233 53 882 3863 | +233 20 236 5461</a>
+                            <!-- <a href="" style="font-size: 12px;" class=""><i class="fas fa-phone me-2"></i> </a> -->
                             <div class="d-flex align-items-center">
                                 <i class="fas fa-share fa-2x text-white me-2"></i>
                                 <a class="btn-square btn btn-gold rounded-circle mx-1" href="https://www.facebook.com/profile.php?id=61561359982115&mibextid=kFxxJD"><i class="fab fa-facebook-f"></i></a>
