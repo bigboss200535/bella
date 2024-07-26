@@ -3,15 +3,15 @@
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
-                            <h3 class="mb-4 text-white">OUR <span style="color: goldenrod;">BRANCHES</span> </h3>
-                            <h4 class="text-white">KUMASI</h4>
+                            <h3 class="mb-4 text-white">Bellas  <span style="color: goldenrod;">Prestige</span> </h3>
+                            <h4 class="text-white">Kumasi Branch</h4>
                             <a href="" style="font-size: 12px;"><i class="fas fa-home me-2"></i> Bantama market, opposite the Revoli cinema</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 53 052 5791</a>
                             <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 27 371 3324 | +233 53 882 3861</a>
                             <!-- <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> </a> -->
 
-                            <h4 class="mt- 4 text-white">ACCRA</h4>
+                            <h4 class="mt- 4 text-white">Accra Branch</h4>
                             <a href=""style="font-size: 12px;"><i class="fas fa-home me-2" ></i> Labadi, Polyclinic Bus stop, opposite Marwako</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 20 236 5461</a>
@@ -19,7 +19,8 @@
                             <!-- <a href="" style="font-size: 12px;" class=""><i class="fas fa-phone me-2"></i> </a> -->
                             <div class="d-flex align-items-center">
                                 <i class="fas fa-share fa-2x text-white me-2"></i>
-                                <a class="btn-square btn btn-gold rounded-circle mx-1" href="https://www.facebook.com/profile.php?id=61561359982115&mibextid=kFxxJD"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn-square btn btn-gold rounded-circle mx-1" target="_blank" href="https://www.facebook.com/profile.php?id=61561359982115&mibextid=kFxxJD"><i class="fab fa-facebook-f"></i>
+                                </a>
                                 <a class="btn-square btn btn-gold rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
                                 <a class="btn-square btn btn-gold rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
                                 <a class="btn-square btn btn-gold rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
@@ -40,7 +41,7 @@
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <h4 class="mb-4 text-white">Support</h4>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Contact</a>
+                            <a href="contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Legal Notice</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Privacy Policy</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Terms and Conditions</a>
