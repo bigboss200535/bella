@@ -42,21 +42,26 @@
                         <div class="bg-white rounded p-4">
                             <div class="text-center mb-4">
                                 <i class="fa fa-map-marker-alt fa-3x text-primary"></i>
-                                <h4 class="text-primary"><Address></Address></h4>
-                                <p class="mb-0">123 ranking Street, <br> New York, USA</p>
+                                <h4 class="text-primary"><Address>KUMASI</Address></h4>
+                                <p class="mb-0">Bantama market, opposite the Revoli cinema, GHANA</p>
+                            </div>
+                            <div class="text-center mb-4">
+                                <i class="fa fa-map-marker-alt fa-3x text-primary"></i>
+                                <h4 class="text-primary"><Address>ACCRA</Address></h4>
+                                <p class="mb-0">Labadi Polyclinic Bus stop, opposite Marwako GHANA</p>
                             </div>
                             <div class="text-center mb-4">
                                 <i class="fa fa-phone-alt fa-3x text-primary mb-3"></i>
                                 <h4 class="text-primary">Mobile</h4>
-                                <p class="mb-0">+012 345 67890</p>
-                                <p class="mb-0">+012 345 67890</p>
+                                <p class="mb-0">KUMASI: <br>(+233) 53 052 5791 <br> (+233) 27 371 3324 <br>(+233) 53 882 3861</p><p class="mb-0">ACCRA: <br>(+233) 20 236 5461 <br> (+233) 53 882 3863 <br>(+233) 20 236 5461</p>
+                                <!-- <p class="mb-0">+012 345 67890</p> -->
                             </div>
                            
                             <div class="text-center">
                                 <i class="fa fa-envelope-open fa-3x text-primary mb-3"></i>
                                 <h4 class="text-primary">Email</h4>
-                                <p class="mb-0">info@example.com</p>
-                                <p class="mb-0">info@example.com</p>
+                                <p class="mb-0">info@bellasprestige.com</p>
+                                <!-- <p class="mb-0">info@example.com</p> -->
                             </div>
                         </div>
                     </div>
