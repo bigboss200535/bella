@@ -15,10 +15,10 @@
                     <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>First Class Flights</p>
                 </div>
                 <div class="col-sm-6">
-                    <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Handpicked Hotels</p>
+                    <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Rapid and Safe Application of Passport</p>
                 </div>
                 <div class="col-sm-6">
-                    <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>5 Star Accommodations</p>
+                    <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Birth Certificate</p>
                 </div>
                 <div class="col-sm-6">
                     <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Latest Model Vehicles</p>
