@@ -15,7 +15,7 @@
                                     <p class="mb-5 fs-5">At Bellas Prestige, we understand that planning a trip can be overwhelming and time-consuming. That's why our team of dedicated travel experts is here to assist you every step of the way.
                                     </p>
                                     <div class="d-flex align-items-center justify-content-center">
-                                        <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="#">Discover Now</a>
+                                        <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="travel.php">Discover Now</a>
                                     </div>
                                 </div>
                             </div>
@@ -30,7 +30,7 @@
                                     <p class="mb-5 fs-5">Bellas Prestige Homecare Service consists of highly trained and dedicated staff, ready to provide exceptional care and support in the comfort of your own home, 
                                     </p>
                                     <div class="d-flex align-items-center justify-content-center">
-                                        <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="#">Discover Now</a>
+                                        <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="homecare.php">Discover Now</a>
                                     </div>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@
                                     <p class="mb-5 fs-5">With Bellas prestige, you can acquire Estate houses, Sell and Buy lands, Rent Houses and Rooms, Sell and Buy Houses.We also quarantee you a rent loan and pay later with flexible terms. 
                                     </p>
                                     <div class="d-flex align-items-center justify-content-center">
-                                        <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="#">Discover Now</a>
+                                        <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="property.php">Discover Now</a>
                                     </div>
                                 </div>
                             </div>
