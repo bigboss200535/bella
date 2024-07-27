@@ -18,9 +18,9 @@
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Explore</a>
                             <div class="dropdown-menu m-0">
-                                <a href="destination.html" class="dropdown-item">Travel</a>
+                                <a href="destination.html" class="dropdown-item">Travel and Tour</a>
                                 <a href="tour.html" class="dropdown-item">Homecare Services</a>
-                                <a href="booking.html" class="dropdown-item">Property</a>
+                                <a href="booking.html" class="dropdown-item">Estate Agency</a>
                                 <!-- <a href="gallery.html" class="dropdown-item">Our Gallery</a>
                                 <a href="guides.html" class="dropdown-item">Travel Guides</a>
                                 <a href="testimonial.html" class="dropdown-item">Testimonial</a>
