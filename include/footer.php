@@ -5,14 +5,15 @@
                         <div class="footer-item d-flex flex-column">
 
                             <h3 class="mb-4 text-white">
-                                <img src="img/logo.jpg" height="40px" width="40px" class="rounded-pill"> Bellas  <span style="color: goldenrod;">Prestige</span> 
+                                <img src="img/logo.jpg" height="40px" width="40px" class="rounded-pill"> 
+                                Bellas  <span style="color: goldenrod;">Prestige</span> 
                             </h3>
                             <h4 class="text-white">Kumasi Branch</h4>
                             <a href="" style="font-size: 12px;"><i class="fas fa-home me-2"></i> Bantama market, opposite the Revoli cinema</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 53 052 5791</a>
                             <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 27 371 3324 | +233 53 882 3861</a>
-                            <!-- <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> </a> -->
+                          
 
                             <h4 class="mt- 4 text-white">Accra Branch</h4>
                             <a href=""style="font-size: 12px;"><i class="fas fa-home me-2" ></i> Labadi Polyclinic Bus stop, opposite Marwako</a>

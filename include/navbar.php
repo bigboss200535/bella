@@ -14,13 +14,13 @@
                         <a href="about.php" class="nav-item nav-link">About</a>
                         <a href="services.php" class="nav-item nav-link">Services</a>
                         <!-- <a href="packages.html" class="nav-item nav-link">Packages</a> -->
-                        <a href="blog.html" class="nav-item nav-link">Blog</a>
+                        <!-- <a href="blog.html" class="nav-item nav-link">Blog</a> -->
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Explore</a>
                             <div class="dropdown-menu m-0">
-                                <a href="destination.html" class="dropdown-item">Travel</a>
-                                <a href="tour.html" class="dropdown-item">Homecare Services</a>
-                                <a href="booking.html" class="dropdown-item">Property</a>
+                                <a href="travel.php" class="dropdown-item">Travel with us</a>
+                                <a href="homecare.php" class="dropdown-item">Homecare Services</a>
+                                <a href="property.php" class="dropdown-item">Acquire Property</a>
                                 <!-- <a href="gallery.html" class="dropdown-item">Our Gallery</a>
                                 <a href="guides.html" class="dropdown-item">Travel Guides</a>
                                 <a href="testimonial.html" class="dropdown-item">Testimonial</a>
@@ -29,6 +29,6 @@
                         </div>
                         <a href="contact.php" class="nav-item nav-link">Contact</a>
                     </div>
-                    <a href="" class="btn btn-gold rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
+                    <a href="contact.php" class="btn btn-gold rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
                 </div>
             </nav>
