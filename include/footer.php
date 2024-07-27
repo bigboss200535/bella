@@ -3,7 +3,10 @@
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
-                            <h3 class="mb-4 text-white">Bellas  <span style="color: goldenrod;">Prestige</span> </h3>
+
+                            <h3 class="mb-4 text-white">
+                                <img src="img/logo.jpg" height="40px" width="40px" class="rounded-pill"> Bellas  <span style="color: goldenrod;">Prestige</span> 
+                            </h3>
                             <h4 class="text-white">Kumasi Branch</h4>
                             <a href="" style="font-size: 12px;"><i class="fas fa-home me-2"></i> Bantama market, opposite the Revoli cinema</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a>
@@ -30,12 +33,12 @@
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <h4 class="mb-4 text-white">Company</h4>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> About</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Careers</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Blog</a>
+                            <a href="index.php"><i class="fas fa-angle-right me-2"></i> Home</a>
+                            <a href="about.php"><i class="fas fa-angle-right me-2"></i> About</a>
+                            <a href="services.php"><i class="fas fa-angle-right me-2"></i> Services</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Press</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Gift Cards</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Magazine</a>
+                            <a href="contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3">

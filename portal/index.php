@@ -54,7 +54,7 @@
 
       <div class="social-auth-links text-center mb-3">
        
-        <a href="#" class="btn btn-block btn-danger">
+        <a href="../index.php" class="btn btn-block btn-danger">
           <i class="fab fa-google-plus mr-2"></i>   Go to website
         </a>
       </div>
