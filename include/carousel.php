@@ -39,9 +39,9 @@
                             <img src="img/home/carousel-6.jpg" class="img-fluid" alt="Image">
                             <div class="carousel-caption">
                                 <div class="p-3" style="max-width: 900px;">
-                                    <h4 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore The World</h4>
+                                    <h4 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Own a property</h4>
                                     <h1 class="display-2 text-capitalize text-white mb-4">Are you yearning for property acquisition?</h1>
-                                    <p class="mb-5 fs-5">With Bellas prestige, you can acquire Estate houses, Sell and Buy lands, Rent houses and rooms, Sell Houses and we also quarantee you a rent loan and pay later, 
+                                    <p class="mb-5 fs-5">With Bellas prestige, you can acquire Estate houses, Sell and Buy lands, Rent Houses and Rooms, Sell and Buy Houses.We also quarantee you a rent loan and pay later with flexible terms. 
                                     </p>
                                     <div class="d-flex align-items-center justify-content-center">
                                         <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="#">Discover Now</a>

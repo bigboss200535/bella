@@ -26,7 +26,7 @@
             </div>
         </div>
         <!-- Header End -->
-        <?php include ('include/ourservices.php'); ?>
+        <?php include ('include/our_services.php'); ?>
 
         <!-- Services End -->
 
