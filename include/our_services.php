@@ -11,7 +11,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Group tour packages</h5>
-                                        <p class="mb-0">Our Group tour packages offer a convenient and cost-effective way for travelers to explore new destinations and create lasting memories together.
+                                        <p class="mb-0">Our Group tour packages offer a convenient and cost-effective way for travelers to explore new destinations and create lasting memories.
                                         </p>
                                     </div>
                                     <div class="service-icon p-4 shadow rounded-circle">
@@ -66,7 +66,8 @@
                                     </div>
                                     <div class="service-content">
                                         <h5 class="mb-4">Airline Ticketing</h5>
-                                        <p class="mb-0">Booking an airline ticket is a necessary step in planning a trip by air.
+                                        <p class="mb-0">Booking an airline ticket is a necessary step in planning a trip by air. <br>
+                                            We have you in mind
                                         </p>
                                     </div>
                                 </div>

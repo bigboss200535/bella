@@ -131,36 +131,17 @@
             </div>
         </div>
         <!-- Travel Guide End -->
-
         <!-- Subscribe Start -->
-        <div class="container-fluid subscribe py-5">
-            <div class="container text-center py-5">
-                <div class="mx-auto text-center" style="max-width: 900px;">
-                    <h5 class="subscribe-title px-3">Subscribe</h5>
-                    <h1 class="text-white mb-4">Our Newsletter</h1>
-                    <p class="text-white mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum tempore nam, architecto doloremque velit explicabo? Voluptate sunt eveniet fuga eligendi! Expedita laudantium fugiat corrupti eum cum repellat a laborum quasi.
-                    </p>
-                    <div class="position-relative mx-auto">
-                        <input class="form-control border-primary rounded-pill w-100 py-3 ps-4 pe-5" disabled type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-gold rounded-pill position-absolute top-0 end-0 py-2 px-4 mt-2 me-2">Subscribe</button>
-                    </div>
-                </div>
-            </div>
-        </div>
+       <?php include('include/news_letter.php');?>
         <!-- Subscribe End -->
-
         <!-- Footer Start -->
         <?php include('include/footer.php');?>
         <!-- Footer End -->
-        
         <!-- Copyright Start -->
         <?php include('include/copyright.php');?>
         <!-- Copyright End -->
-
         <!-- Back to Top -->
         <?php include('include/back_to_top.php');?>  
-
-        
         <!-- JavaScript Libraries -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
@@ -168,9 +149,6 @@
         <script src="lib/waypoints/waypoints.min.js"></script>
         <script src="lib/owlcarousel/owl.carousel.min.js"></script>
         <script src="lib/lightbox/js/lightbox.min.js"></script>
-        
-
-        <!-- Template Javascript -->
         <script src="js/main.js"></script>
     </body>
 

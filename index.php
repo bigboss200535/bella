@@ -1,31 +1,30 @@
-<?php include('include/head.php'); ?>
-
+<?php 
+        date_default_timezone_set('Africa/Accra');
+        include('include/head.php'); 
+?>
     <body>
        <?php include('include/preloader.php');?>
         <!-- Spinner End -->
-
         <!-- Topbar Start -->
         <?php   include('include/topbar.php');     ?>
         <!-- Topbar End -->
         
         <!-- Navbar & Hero Start -->
         <div class="container-fluid position-relative p-0">
-
            <?php  include('include/navbar.php');?>
-            
             <!-- Carousel Start -->
             <?php include('include/carousel.php');?>
             
             <!-- Carousel End -->
         </div>
-        <div class="container-fluid search-bar position-relative" style="top: -50%; transform: translateY(-50%);">
+       <!--  <div class="container-fluid search-bar position-relative" style="top: -50%; transform: translateY(-50%);">
             <div class="container">
                 <div class="position-relative rounded-pill w-100 mx-auto p-5" style="background: rgba(218,165,32, 0.8);">
                     <input class="form-control border-0 rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Eg: Thailand">
                     <button type="button" class="btn btn-gold rounded-pill py-2 px-4 position-absolute me-2" style="top: 50%; right: 46px; transform: translateY(-50%);">Search</button>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Navbar & Hero End -->
 
         <!-- About Start -->
@@ -37,7 +36,7 @@
         <!-- About End -->
 
         <!-- Services Start -->
-        <?php include('include/ourservices.php'); ?>
+        <?php include('include/our_services.php'); ?>
         <!-- Services End -->
 
         <!-- Destination Start -->
@@ -1358,21 +1357,7 @@
         <!-- Testimonial End -->
 
         <!-- Subscribe Start -->
-        <div class="container-fluid subscribe py-5">
-            <div class="container text-center py-5">
-                <div class="mx-auto text-center" style="max-width: 900px;">
-                    <h5 class="subscribe-title px-3">Subscribe</h5>
-                    <h1 class="text-white mb-4">Our Newsletter</h1>
-                    <p class="text-white mb-5">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum tempore nam, architecto doloremque velit explicabo? Voluptate sunt eveniet fuga eligendi! Expedita laudantium fugiat corrupti eum cum repellat a laborum quasi.
-                    </p>
-                    <div class="position-relative mx-auto">
-                        <input class="form-control border-primary rounded-pill w-100 py-3 ps-4 pe-5"  disabled type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-gold rounded-pill position-absolute top-0 end-0 py-2 px-4 mt-2 me-2">Subscribe</button>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include('include/news_letter.php');?>
         <!-- Subscribe End -->
 
         <!-- Footer Start -->
