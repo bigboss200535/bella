@@ -10,22 +10,15 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0">
-                        <a href="index.php" id="navLinks" class="nav-item nav-link">Home</a>
-                        <a href="about.php" id="navLinks" class="nav-item nav-link">About</a>
-                        <a href="services.php" id="navLinks" class="nav-item nav-link">Services</a>
-                        <!-- <a href="packages.html" class="nav-item nav-link">Packages</a> -->
-                        <!-- <a href="blog.html" class="nav-item nav-link">Blog</a> -->
+                        <a href="index.php" class="nav-item nav-link">Home</a>
+                        <a href="about.php" class="nav-item nav-link">About</a>
+                        <a href="services.php" class="nav-item nav-link">Services</a>
                         <div class="nav-item dropdown">
                             <a href="#" id="navLinks" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Explore</a>
                             <div class="dropdown-menu m-0">
                                 <a href="travel.php" class="dropdown-item">Travel and Tour</a>
                                 <a href="homecare.php" class="dropdown-item">Homecare Services</a>
                                 <a href="property.php" class="dropdown-item">Estate Agency</a>
-
-                                <!-- <a href="gallery.html" class="dropdown-item">Our Gallery</a>
-                                <a href="guides.html" class="dropdown-item">Travel Guides</a>
-                                <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                <a href="404.html" class="dropdown-item">404 Page</a> -->
                             </div>
                         </div>
                         <a href="contact.php" class="nav-item nav-link">Contact</a>
