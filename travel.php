@@ -1,19 +1,19 @@
-<?php include('include/head.php'); ?>
+<?php include ('include/head.php'); ?>
 
     <body>
 
-        <!-- Spinner Start -->
-        <?php include ('include/preloader.php'); ?>
+       <?php include('include/preloader.php');?>
         <!-- Spinner End -->
 
         <!-- Topbar Start -->
-        <?php include('include/topbar.php'); ?>
+        <?php   include('include/topbar.php');     ?>
         <!-- Topbar End -->
-
+        
         <!-- Navbar & Hero Start -->
-        <?php include('include/navbar.php'); ?>
-        <!-- Navbar & Hero End -->
+        <div class="container-fluid position-relative p-0">
 
+           <?php  include('include/navbar.php');?>
+        </div>
         <!-- Header Start -->
         <div class="container-fluid bg-breadcrumb">
             <div class="container text-center py-5" style="max-width: 900px;">
