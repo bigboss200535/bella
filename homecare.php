@@ -31,33 +31,32 @@
         <div class="container-fluid blog py-5">
             <div class="container py-5">
                 <div class="mx-auto text-center mb-5">
-                    <h5 class="section-title text-center px-3">Home Care Services</h5>
                     <h1 class="mb-4">Why choose us</h1>
                     <div class="row">
                     <div class="col-md-6" align="left">
                     <li>
-                        <p class="">Experience the difference with our compassionate and highly trained caregivers, dedicated to providing exceptional care in the comfort of your home.
-                        </p>
+                        Experience the difference with our compassionate and highly trained caregivers, dedicated to providing exceptional care in the comfort of your home.
+                        
                     </li>
                     <li>
-                        <p class="">Trust our team to deliver peronalized care with dignity, respected, and kindness, exceeding your expectations.
-                    </p>
+                        Trust our team to deliver peronalized care with dignity, respected, and kindness, exceeding your expectations.
+                    
                     </li>
                     <li>
-                        <p class="">Our commitment to quality care and customer satisfaction sets us apart - let us be your partner in healthcare.
-                    </p>
+                        Our commitment to quality care and customer satisfaction sets us apart - let us be your partner in healthcare.
+                    
                     </li>
                     <li>
-                        <p class="">With our comprehensive services and flexible scheduling, we have got you covered - choose us for peace of mind.
-                    </p>
+                        With our comprehensive services and flexible scheduling, we have got you covered - choose us for peace of mind.
+                    
                     </li>
                     <li>
-                        <p class="">At Bellas Prestige Homecare, we believe in empowering individuals to age gracefully in their homes, with dignity and independence.
-                    </p>
+                        At Bellas Prestige Homecare, we believe in empowering individuals to age gracefully in their homes, with dignity and independence.
+                    
                     </li>
                     <li>
-                        <p class="">Our passion is delivering top-notch care that improves lives - let us make a difference in yours.
-                    </p>
+                        Our passion is delivering top-notch care that improves lives - let us make a difference in yours.
+                    
                     </li>
                 </div>
                <div class="col-lg-6 col-md-6">
@@ -85,27 +84,29 @@
                     </div>
             </div>
         </div>
+        <div class="text-center">
+            <h5 class="section-title text-center mb-3">Home Care Services</h5>
+        </div>
                 <div class="row g-4 justify-content-center">
                     <div class="col-lg-4 col-md-6">
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/blog-1.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                                <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                                <!-- <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
                                     <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
                                     <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
                                     <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <p class="mb-3">Posted By: Royal Hamblin </p>
-                                <a href="#" class="h4">Adventures Trip</a>
-                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
+                                <a href="#" class="h4">Personal Care</a>
+                                <p class="my-3">Bathing, Dressing, Grooming</p>
+                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
                     </div>
@@ -113,22 +114,22 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/blog-2.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/medicaltreatment.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                                <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
                                     <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
                                     <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
                                     <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <p class="mb-3">Posted By: Royal Hamblin </p>
-                                <a href="#" class="h4">Adventures Trip</a>
-                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
+                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                                <a href="#" class="h4">Medical Management</a>
+                                <p class="my-3">........</p>
+                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
                     </div>
@@ -136,36 +137,173 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/blog-3.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/nursefeeding.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                                <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
                                     <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
                                     <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
                                     <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <p class="mb-3">Posted By: Royal Hamblin </p>
-                                <a href="#" class="h4">Adventures Trip</a>
-                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
+                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                                <a href="#" class="h4">Preparing Meal and Feeding</a>
+                                <p class="my-3">.....................</p>
+                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
                     </div>
-                     <div class="mx-auto text-center mb-5" style="max-width: 900px;">
-                    <h5 class="section-title px-3">About our home care</h5>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/nursefeeding.jpg" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                                </div> -->
+                            </div>
+                            <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                                <a href="#" class="h4">Housekeeping and laundry</a>
+                                <p class="my-3">.....................</p>
+                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                            </div>
+                        </div>
+                    </div> <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/nursefeeding.jpg" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                                </div> -->
+                            </div>
+                            <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                                <a href="#" class="h4">Skilled nursing care</a>
+                                <p class="my-3">(wound care, injections, etc)</p>
+                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare.jpg" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                                </div> -->
+                            </div>
+                            <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                                <a href="#" class="h4" style="font-size: 20px;">Companionship and social support</a>
+                                <p class="my-3">.....................</p>
+                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare.jpg" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                                </div> -->
+                            </div>
+                            <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                                <a href="#" class="h4">Nanny Care</a>
+                                <p class="my-3">.....................</p>
+                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare.jpg" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                                </div> -->
+                            </div>
+                            <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                                <a href="#" class="h4">Cleaning</a>
+                                <p class="my-3">.....................</p>
+                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare.jpg" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                                </div> -->
+                            </div>
+                            <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                                <a href="#" class="h4">Cooking</a>
+                                <p class="my-3">.....................</p>
+                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                            </div>
+                        </div>
+                    </div>
+                <div class="mx-auto text-center mb-5">
+                    <h5 class="section-title px-3">Our Vision and Mission</h5>
                     <!-- <h1 class="mb-4">About Our Home Care</h1> -->
                     <div class="row">
-                    <div class="col-md-6" align="left">
-                        <h3>Our Vision</h3>
+                    <div class="col-md-5" align="left">
+                        <h3 style="text-decoration: underline; font-weight: bolder;">Vision</h3>
                         <p class="mb-0">"To be the leading provider of home care services, delivering exceptional domestic help, nanny, and caregiving solutions that enhance the quality of life for families and individuals, fostering a supportive and nurturing environment where every client feels valued and  cared for."
                     </p>
                     </div>
-                    <div class="col-md-6" align="left">
-                        <h3>Our Mission</h3>
+                    <div class="col-md-7" align="left">
+                        <h3 style="text-decoration: underline; font-weight: bolder;">Mission</h3>
                         <p class="mb-0">
                             At Bellas Prestige Limited, our mission is to offer reliable, compassionate, and professional home care services that cater for the unique needs of our clients. We are dedicated to:
                             <li>providing highly trained and trustworthy domestic Assistance who help with household tasks to ensure a clean, orderly and comfortable living environment.
