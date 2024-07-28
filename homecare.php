@@ -105,7 +105,7 @@
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <a href="#" class="h4">Personal Care</a>
-                                <p class="my-3">Bathing, Dressing, Grooming</p>
+                                <!-- <p class="my-3">Bathing, Dressing, Grooming</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Medical Management</a>
-                                <p class="my-3">........</p>
+                                <!-- <p class="my-3">........</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Preparing Meal and Feeding</a>
-                                <p class="my-3">.....................</p>
+                                <!-- <p class="my-3">.....................</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
@@ -174,7 +174,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Housekeeping and laundry</a>
-                                <p class="my-3">.....................</p>
+                                <!-- <p class="my-3">.....................</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
@@ -196,7 +196,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Skilled Nursing Care</a>
-                                <p class="my-3">(wound care, injections, etc)</p>
+                                <!-- <p class="my-3">(wound care, injections, etc)</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
@@ -219,7 +219,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4" style="font-size: 20px;">Companionship and social support</a>
-                                <p class="my-3">.....................</p>
+                                <!-- <p class="my-3">.....................</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
@@ -242,7 +242,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Nanny Care</a>
-                                <p class="my-3">.....................</p>
+                                <!-- <p class="my-3">.....................</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
@@ -265,7 +265,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Cleaning</a>
-                                <p class="my-3">.....................</p>
+                                <!-- <p class="my-3">.....................</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
@@ -288,7 +288,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Cooking</a>
-                                <p class="my-3">.....................</p>
+                                <!-- <p class="my-3">.....................</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
