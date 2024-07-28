@@ -63,7 +63,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/homecare.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/homecare7.png" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -293,7 +293,7 @@
                             </div>
                         </div>
                     </div>
-                <div class="mx-auto text-center mb-5">
+                <div class="mx-auto text-center">
                     <h3 class="section-title px-3">Our Vision and Mission</h3>
                     <!-- <h1 class="mb-4">About Our Home Care</h1> -->
                     <div class="row">
@@ -315,13 +315,117 @@
                     </div>
                     </div>
                 </div>
+     <!-- Testimonial Start -->
+        <div class="container-fluid testimonial py-5">
+            <div class="container py-5">
+                <div class="mx-auto text-center mb-5" style="max-width: 900px;">
+                    <h5 class="section-title px-3">Testimonial</h5>
+                    <h1 class="mb-0">Our Clients Say!!!</h1>
+                </div>
+                <div class="testimonial-carousel owl-carousel">
+                    <div class="testimonial-item text-center rounded pb-4">
+                        <div class="testimonial-comment bg-light rounded p-4">
+                            <p class="text-center mb-5">"The Marfo family was struggling to care for their loved one with demantia. Our homecare services provided them with respite care, companionship, and emotional support, improving their overall well-being",
+                            </p>
+                        </div>
+                        <div class="testimonial-img p-2">
+                            <img src="img/testimonial-1.jpg" class="img-fluid rounded-circle" alt="Image">
+                        </div>
+                        <div style="margin-top: -35px;">
+                            <h5 class="mb-0">The Marfo Family</h5>
+                            <p class="mb-0">Kumasi, Ghana</p>
+                            <div class="d-flex justify-content-center">
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item text-center rounded pb-4">
+                        <div class="testimonial-comment bg-light rounded p-4">
+                            <p class="text-center mb-5">"Mr. Thompson required wound care and medication management after a hospital stay. Our skilled homecare professionals provided him with expert care, promoting his recovery and independence.",
+                            </p>
+                        </div>
+                        <div class="testimonial-img p-1">
+                            <img src="img/testimonial-2.jpg" class="img-fluid rounded-circle" alt="Image">
+                        </div>
+                        <div style="margin-top: -35px;">
+                            <h5 class="mb-0">Mr. Thompson</h5>
+                            <p class="mb-0">Kumasi, Ghana</p>
+                            <div class="d-flex justify-content-center">
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="testimonial-item text-center rounded pb-4">
+                        <div class="testimonial-comment bg-light rounded p-4">
+                            <p class="text-center mb-5">"After surgery, Mrs. Amoah needed help with daily tasks. Our homecare team provided her with personal care, meal preparation, and light housekeeping, enabling her to recover comfortably at home",
+                            </p>
+                        </div>
+                        <div class="testimonial-img p-1">
+                            <img src="img/testimonial-4.jpg" class="img-fluid rounded-circle" alt="Image">
+                        </div>
+                        <div style="margin-top: -35px;">
+                            <h5 class="mb-0">Mrs. Amoah</h5>
+                            <p class="mb-0">Kumasi, Ghana</p>
+                            <div class="d-flex justify-content-center">
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                                <i class="fas fa-star text-primary"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Testimonial End -->
+
                 </div>
             </div>
         </div>
         <!-- Blog End -->
 
         <!-- Subscribe Start -->
-        <?php include('include/news_letter.php');?>
+         <div class="container-fluid subscribe py-5">
+            <div class="container text-center py-5">
+                <div class="mx-auto text-center">
+                    <h5 class="subscribe-title px-3">Frequently Asked Questions and Answers</h5>
+                    <div class="row">
+                        <div class="col-md-4" align="justify" style="color: white;">
+                            <b style="color: goldenrod;">Q: What is Homecare?</b>
+                            <li class="mb-3">A: Homecare is a medical or non-medical care provided in the comfort of your own home.</li>
+                            <b style="color: goldenrod;">Q: What services do you offer?</b>    
+                            <li class="mb-3">A: We offer personal care, meal preparation, light housekeeping, medication and more.</li>
+                            <b style="color: goldenrod;">Q: Who will provide my care?</b>
+                            <li class="mb-3">A: Our trained and compassionate caregivers will provide your care</li>
+                        </div>
+                        <div class="col-md-4" align="justify" style="color: white;">
+                            <b style="color: goldenrod;">Q: How do I get started?</b>
+                            <li class="mb-3">A: Contact us to schedule a consultation and assessment.</li>
+                            <b style="color: goldenrod;">Q: How much does homecare cost?</b>
+                            <li class="mb-3">A: Costs vary depending on services needed and insurance coverage.</li>
+                            <b style="color: goldenrod;">Q: Do you accept insurance?</b>
+                            <li class="mb-3">A: Yes, we accept various insurance plans and Medicare.</li>
+                        </div>
+                        <div class="col-md-4" align="justify" style="color: white;">
+                            <b style="color: goldenrod;">Q: What if I need care outside regular business hours?</b>
+                            <li class="mb-3">A: We offer 24/7 care, including weekends and holidays.</li>
+                            <b style="color: goldenrod;">Q: How do I know if homecare is right for me or my loved one?</b>
+                            <li class="mb-3">A: Contact us for a free consultation to discuss your needs and determine if homecare is the right fit.</li>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Subscribe End -->
         <!-- Footer Start -->
         <?php include('include/footer.php');?>
