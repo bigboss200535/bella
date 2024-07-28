@@ -11,15 +11,15 @@
                             <h4 class="text-white">Kumasi Branch</h4>
                             <a href="" style="font-size: 12px;"><i class="fas fa-home me-2"></i> Bantama market, opposite the Revoli cinema</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a>
-                            <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 53 052 5791</a>
-                            <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 27 371 3324 | +233 53 882 3861</a>
+                            <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> (+233) 53 052 5791</a>
+                            <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> (+233) 27 371 3324 | (+233) 53 882 3861</a>
                           
 
                             <h4 class="mt- 4 text-white">Accra Branch</h4>
                             <a href=""style="font-size: 12px;"><i class="fas fa-home me-2" ></i> Labadi Polyclinic Bus stop, opposite Marwako</a>
                             <a href="" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a>
-                            <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> +233 20 236 5461</a>
-                            <a href="" style="font-size: 12px;" class="mb-3"><i class="fas fa-phone me-2"></i> +233 53 882 3863 | +233 20 236 5461</a>
+                            <a href="" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> (+233) 20 236 5461</a>
+                            <a href="" style="font-size: 12px;" class="mb-3"><i class="fas fa-phone me-2"></i> (+233) 53 882 3863 | (+233) 20 236 5461</a>
                             <!-- <a href="" style="font-size: 12px;" class=""><i class="fas fa-phone me-2"></i> </a> -->
                             <div class="d-flex align-items-center">
                                 <i class="fas fa-share fa-2x text-white me-2"></i>
