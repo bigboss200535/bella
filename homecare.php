@@ -92,7 +92,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare-1.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -114,7 +114,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/medicaltreatment.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/medicalcare.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -137,7 +137,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/nursefeeding.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/feeding.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -160,7 +160,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/nursefeeding.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning-1.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -182,7 +182,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/nursefeeding.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/nursecare.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -195,7 +195,7 @@
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Skilled nursing care</a>
+                                <a href="#" class="h4">Skilled Nursing Care</a>
                                 <p class="my-3">(wound care, injections, etc)</p>
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
@@ -205,7 +205,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare.jpg" alt="Image">
+                                    <img class="img-fluid rounded-top" style="max-width: 100%; height: 100%;" src="img/homecare/companionship-2.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -228,7 +228,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/nanny-1.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -251,7 +251,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning-2.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -274,7 +274,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/cooking-1.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -398,7 +398,7 @@
          <div class="container-fluid subscribe py-5">
             <div class="container text-center py-5">
                 <div class="mx-auto text-center">
-                    <h5 class="subscribe-title px-3">Frequently Asked Questions and Answers</h5>
+                    <h5 class="subscribe-title px-3">FAQ and Answers</h5>
                     <div class="row">
                         <div class="col-md-4" align="justify" style="color: white;">
                             <b style="color: goldenrod;">Q: What is Homecare?</b>
