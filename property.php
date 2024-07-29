@@ -17,74 +17,88 @@
         <!-- Header Start -->
         <div class="container-fluid bg-breadcrumb">
             <div class="container text-center py-5" style="max-width: 900px;">
-                <h3 class="text-white display-3 mb-4">Our Estate Agency and Properties</h1>
+                <h3 class="text-white display-3 mb-4">Our Estate and Properties</h1>
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                    <li class="breadcrumb-item active text-white">Estate Agency</li>
+                    <li class="breadcrumb-item active text-white">Estate & Properties</li>
                 </ol>    
             </div>
         </div>
         <!-- Header End -->
 
         <!-- Blog Start -->
-        <div class="container-fluid blog py-5">
-            <div class="container py-5">
+        <div class="container-fluid blog py-3">
+            <div class="container py-3">
                 <div class="mx-auto text-center mb-5">
-                    <h5 class="section-title px-3">Our Estate Agency and Properties</h5>
+                    <h5 class="section-title px-3">Our Estate and Properties</h5>
                     <h1 class="mb-4">About Our Services</h1>
                     <div class="row">
                         <div class="col-lg-6 col-md-6" align="justify">
-                        <p class="mb-2">We typically provide a range of services, including, Sales of Land and Marketing, Property Management, Land Acquisition and Development, Valuations and appraisals, Land use planning and consulting, property leasing and rental management, Land Surveying and Mapping, Environmental Assessments and Consulting.
+                        <p class="mb-2">Welcome to Bellas Prestige Estate and Properties! We are thrilled to help you find your dream home or sell your property with ease.
                         </p>
-                        <p class="mb-0">We work with variety of clients, including, Landowners and Property Developers, Government Agencies and Public Entities, Real Estate Investors and Companies, Farmers and Agricultural Businesses, Conservation Organisations and Non-Profits</p>
+                        <p class="mb-0">Our dedicated team of experts are committed to providing top-notch service and guidance every step of the way. Whether you are a first-time buyer, seasoned seller, or  anything in between, we have got you covered. Let us help you navigate the world of real estate with confidence and transparency. </p>
+                        <div class="row">
+                        <div class="col-lg-6 col-md-6 mt-3">
+                            <h5 class=" px-3" style="color: goldenrod; text-decoration: underline;">OUR VISION</h5>
+                            <p class="mb-0">At Bellas Prestige Estate Agency and Properties, our vision, is to provide exceptional services, built on a foundation of trust, integrity and expertise. We aim to enrich lives by finding dream homes, creating unforgettable experiences, fostering long-lasting relationships and making life easy for our clients.</p>
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 mt-3">
+                            <h5 class="px-3" style="color: goldenrod; text-decoration: underline;">OUR MISSION</h5>
+                            <p class="mb-0">Our mission, is to deliver an outstanding property services with passion, professionalism, and a personal touch. We strive to: 
+                                <ul>
+                                    <li>provide expert knowledge and guidance.</li>
+                                    <li>exceed client's expectations.</li>
+                                    <li>foster a culture of trust and transparency.</li>
+                                    <li>build a long-term relationships.</li>
+                                    <li>make every property transaction, a seamless and successful experience.</li>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
                 </div>
+
                 <div class="col-lg-6 col-md-6">
                     <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid rounded-top" style="width:95%; height: 40%;" src="img/blog-1.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top"  src="img/estate/estate-1.png" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
-                            <!-- <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <p class="mb-3">Posted By: Royal Hamblin </p>
-                                <a href="#" class="h4">Adventures Trip</a>
-                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
-                            </div> -->
                         </div>
                 </div>
             </div>
             </div>
+            <div class="text-center">
+            <h3 class="section-title text-center mb-3">&nbsp Our Estate and Property Services &nbsp</h3>
+        </div>
                 <div class="row g-4 justify-content-center">
                     <div class="col-lg-4 col-md-6">
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/blog-1.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/estate/property-2.png" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                                <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                                <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">                                 
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <p class="mb-3">Posted By: Royal Hamblin </p>
-                                <a href="#" class="h4">Adventures Trip</a>
-                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
+                                <a href="#" class="h4">Property Sales</a>
+                                <p  style="font-size: 13px;" class="my-3">Our Property Sales refers to the process of selling out properties to our clients. Other property owners too can come to our aid if they want to sellout their properties. This includes:
+                                    <ul>
+                                        <li style="font-size: 13px;"><span style="font-weight: bolder;">Residential Sales</span> (houses, apartments, condos, etc)
+                                        </li>
+                                        <li style="font-size: 13px;"><span style="font-weight: bolder;">Commercial Sales</span>(offices, retail spaces, warehouses, etc.)</li>
+                                        <li style="font-size:13px;"><span style="font-weight: bolder;">Industrial Sales</span>(factories, land, etc.)</li>
+                                    </ul>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -92,22 +106,16 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/blog-2.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/estate/property-3.png" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                                <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <p class="mb-3">Posted By: Royal Hamblin </p>
-                                <a href="#" class="h4">Adventures Trip</a>
-                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
+                                <a href="#" class="h4">House Construction</a>
+                                <p  align="justify" class="my-3">Our House Construction refers to the process of building a residential property, from preparing the building site to completing the final inspections with the help of our experienced team (Architects, Engineers, Contractors, Builders, Tradespeople (electricians, plumbers, carpenters, etc.)) This includes:   
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -115,22 +123,80 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/blog-3.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/estate/property-4.png" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                                <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                            </div>
+                             <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <a href="#" class="h4">Property Letting</a>
+                                <p  style="font-size: 13px;" class="my-3">Our Property Letting, also known as <b>Rental</b>, refers to the process of allowing an individual or organization to use a property in exchange of regular payments, known as Rent. This can includes:
+                                    <ul>
+                                        <li style="font-size: 13px;"><span style="font-weight: bolder;">Residential Letting</span> (apartments, houses rooms, etc)
+                                        </li>
+                                        <li style="font-size: 13px;"><span style="font-weight: bolder;">Commercial Letting</span> (offices, retail spaces, warehouses, etc.)</li>
+                                        <li style="font-size:13px;"><span style="font-weight: bolder;">Industrial Letting</span> (factories, land, etc.)</li>
+                                    </ul>
+                                </p>
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/estate/property-1.png" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <p class="mb-3">Posted By: Royal Hamblin </p>
-                                <a href="#" class="h4">Adventures Trip</a>
-                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
+                             <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <a href="#" class="h4">Property Management</a>
+                                <p  style="font-size: 15px;" class="my-3">Our Property Management, refers to the oversight and administration of our clients' properties. It involves managing the day-to-day operations and maintenance of properties to ensure they remain safe, profitable, and in good condition. We also act as intermediaries between property owners and tenants, ensuring that properties are well-maintained, profitable, and meet legal requirements. 
+                                </p>
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/estate/land-1.jpg" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <a href="#" class="h4">Lands</a>
+                                <p  style="font-size: 13px;" class="my-2">With our Land Property Service, we specialize in  managing and facilitating transactions related to land and property. 
+                                    <p style="font-size: 13px;" align="justify">We typically provide a range of services, including, Sales of Land and Marketing, Property Management, Land Acquisition and Development, Valuations and appraisals, Land use planning and consulting, property leasing and rental management, Land Surveying and Mapping, Environmental Assessments and Consulting.</p>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/estate/carrent-1.png" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <a href="#" class="h4">Car Rent</a>
+                                <p  style="font-size: 13px;" class="my-3">Our Property Letting, also known as <b>Rental</b>, refers to the process of allowing an individual or organization to use a property in exchange of regular payments, known as Rent. This can includes:
+                                    <ul>
+                                        <li style="font-size: 13px;"><span style="font-weight: bolder;">Residential Letting</span> (apartments, houses rooms, etc)
+                                        </li>
+                                        <li style="font-size: 13px;"><span style="font-weight: bolder;">Commercial Letting</span> (offices, retail spaces, warehouses, etc.)</li>
+                                        <li style="font-size:13px;"><span style="font-weight: bolder;">Industrial Letting</span> (factories, land, etc.)</li>
+                                    </ul>
+                                </p>
                             </div>
                         </div>
                     </div>

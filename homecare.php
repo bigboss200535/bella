@@ -68,11 +68,6 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
                         </div>
                     </div>
