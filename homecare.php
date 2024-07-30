@@ -240,7 +240,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning-2.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning-4.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
