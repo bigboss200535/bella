@@ -245,11 +245,6 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
@@ -268,11 +263,6 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
@@ -295,11 +285,12 @@
                         <h3 style="text-decoration: underline; font-weight: bolder;">Mission</h3>
                         <p class="mb-0">
                             At Bellas Prestige Homecare, our mission is to offer reliable, compassionate, and professional home care services that cater for the unique needs of our clients. We are dedicated to:
+                            <ul>
                             <li>providing highly trained and trustworthy domestic Assistance who help with household tasks to ensure a clean, orderly and comfortable living environment.
                             </li>
                             <li>offering experienced and nurturing nannies who support the developmental and emotional well-being of children in a safe and stimulating setting.
                             </li>
-                            <li>delivering skilled and empathetic caregiving services that promote the health, independence, and dignity of the elderly and individuals with special needs. With our clients, our aim is to establish enduring relationships founded on mutual respect, trust, and a strong dedication to providing exceptional home care.</li>
+                            <li>delivering skilled and empathetic caregiving services that promote the health, independence, and dignity of the elderly and individuals with special needs. With our clients, our aim is to establish enduring relationships founded on mutual respect, trust, and a strong dedication to providing exceptional home care.</li></ul>
                         </p>
                     </div>
                     </div>

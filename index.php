@@ -1094,7 +1094,7 @@
                         <div class="guide-item">
                             <div class="guide-img">
                                 <div class="guide-img-efects">
-                                    <img src="img/guide-1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                                    <img src="img/home/derrickboateng.png" class="img-fluid w-100 rounded-top" alt="Image">
                                 </div>
                                 <div class="guide-icon rounded-pill p-2">
                                     <a class="btn btn-square btn-primary rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -1105,7 +1105,7 @@
                             </div>
                             <div class="guide-title text-center rounded-bottom p-4">
                                 <div class="guide-title-inner">
-                                    <h4 class="mt-3">Full Name</h4>
+                                    <h4 class="mt-3">Derrick Boateng</h4>
                                     <p class="mb-0">Designation</p>
                                 </div>
                             </div>
@@ -1115,7 +1115,7 @@
                         <div class="guide-item">
                             <div class="guide-img">
                                 <div class="guide-img-efects">
-                                    <img src="img/guide-2.jpg" class="img-fluid w-100 rounded-top" alt="Image">
+                                    <img src="img/home/calebohene.png" class="img-fluid w-100 rounded-top" alt="Image">
                                 </div>
                                 <div class="guide-icon rounded-pill p-2">
                                     <a class="btn btn-square btn-primary rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -1126,7 +1126,7 @@
                             </div>
                             <div class="guide-title text-center rounded-bottom p-4">
                                 <div class="guide-title-inner">
-                                    <h4 class="mt-3">Full Name</h4>
+                                    <h4 class="mt-3">Caleb Ohene</h4>
                                     <p class="mb-0">Designation</p>
                                 </div>
                             </div>
