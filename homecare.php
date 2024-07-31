@@ -30,6 +30,7 @@
         <!-- Blog Start -->
         <div class="container-fluid blog py-5">
             <div class="container py-5">
+                <!-- start of why choose us -->
                 <div class="mx-auto text-center mb-5">
                     <h1 class="mb-4">Why choose us</h1>
                     <div class="row">
@@ -37,27 +38,21 @@
                         <ul>
                         <li>
                         At Bellas Prestige Homecare, we believe in empowering individuals to age gracefully in their homes, with dignity and independence.
-                    
                     </li> 
                     <li>
                         Our passion is delivering top-notch care that improves lives - let us make a difference in yours.
-                    
                     </li>
                     <li>
                         Experience the difference with our compassionate and highly trained caregivers, dedicated to providing exceptional care in the comfort of your home.
-                        
                     </li>
                     <li>
                         Trust our team to deliver peronalized care with dignity, respected, and kindness, exceeding your expectations.
-                    
                     </li>
                     <li>
                         Our commitment to quality care and customer satisfaction sets us apart - let us be your partner in healthcare.
-                    
                     </li>
                     <li>
                         With our comprehensive services and flexible scheduling, we have got you covered - choose us for peace of mind.
-                    
                     </li>
                 </ul>
                 </div>
@@ -75,6 +70,7 @@
                     </div>
             </div>
         </div>
+        <!-- end of why choose us -->
         <div class="text-center">
             <h3 class="section-title text-center mb-3">&nbsp Our Home Care Services &nbsp</h3>
         </div>
@@ -88,16 +84,9 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                                <!-- <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <a href="#" class="h4">Personal Care</a>
-                                <!-- <p class="my-3">Bathing, Dressing, Grooming</p> -->
-                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
                     </div>
@@ -110,17 +99,10 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Medical Management</a>
-                                <!-- <p class="my-3">........</p> -->
-                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
                     </div>
@@ -133,11 +115,6 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
@@ -156,17 +133,10 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Housekeeping and laundry</a>
-                                <!-- <p class="my-3">.....................</p> -->
-                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
                             </div>
                         </div>
                     </div> <div class="col-lg-4 col-md-6">
