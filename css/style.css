@@ -392,7 +392,42 @@
 /*** Carousel Hero Header End ***/
 
 
-/*** Single Page Hero Header Start ***/
+/*** Single Homecare Header Start ***/
+.bg-breadcrumbs {
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/homecare/homecare7.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 150px 0 50px 0;
+}
+
+.bg-breadcrumbs .breadcrumb-item a {
+    color: var(--bs-secondary) !important;
+}
+/*** Single Homecare Header End ***/
+
+/*** Single Estate Header Start ***/
+.bg-estate {
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/home/carousel-2.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 150px 0 50px 0;
+}
+
+.bg-estate .breadcrumb-item a {
+    color: var(--bs-secondary) !important;
+}
+/*** Single Estate Header End ***/
+.bg-breadcrumbs .breadcrumb-item a {
+    color: var(--bs-secondary) !important;
+}
+/*** Single Homecare Header End ***/
+
+
+/*** Single Estate Header Start ***/
 .bg-breadcrumb {
     background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/breadcrumb-bg.jpg);
     background-position: center center;
@@ -405,7 +440,7 @@
 .bg-breadcrumb .breadcrumb-item a {
     color: var(--bs-secondary) !important;
 }
-/*** Single Page Hero Header End ***/
+/*** Single Estate Header End ***/
 
 
 /*** About Start ***/
@@ -1193,8 +1228,27 @@
 /*** Contact End ***/
 
 /*** Subscribe Start ***/
+.subscribe-homecare {
+    background: linear-gradient(rgba(19, 53, 123, .6), rgba(19, 53, 123, .6)), url(../img/homecare/nursefeeding.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/**Subscribe for Homecare ends**/
+
 .subscribe {
     background: linear-gradient(rgba(19, 53, 123, .6), rgba(19, 53, 123, .6)), url(../img/subscribe-img.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/**Subscribe for Homecare ends**/
+
+/**Subscribe for Estate and property start**/
+.subscribe-estate {
+    background: linear-gradient(rgba(19, 53, 123, .6), rgba(19, 53, 123, .6)), url(../img/estate/property-2.png);
     background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat;

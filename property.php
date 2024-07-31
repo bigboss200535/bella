@@ -15,7 +15,7 @@
         <!-- Navbar & Hero End -->
 
         <!-- Header Start -->
-        <div class="container-fluid bg-breadcrumb">
+        <div class="container-fluid bg-estate">
             <div class="container text-center py-5" style="max-width: 900px;">
                 <h3 class="text-white display-3 mb-4">Our Estate and Properties</h1>
                 <ol class="breadcrumb justify-content-center mb-0">
@@ -39,12 +39,12 @@
                         </p>
                         <p class="mb-0">Our dedicated team of experts are committed to providing top-notch service and guidance every step of the way. Whether you are a first-time buyer, seasoned seller, or  anything in between, we have got you covered. Let us help you navigate the world of real estate with confidence and transparency. </p>
                         <div class="row">
-                        <div class="col-lg-6 col-md-6 mt-3">
+                        <div class="col-lg-12 col-md-6 mt-3">
                             <h5 class=" px-3" style="color: goldenrod; text-decoration: underline;">OUR VISION</h5>
                             <p class="mb-0">At Bellas Prestige Estate Agency and Properties, our vision, is to provide exceptional services, built on a foundation of trust, integrity and expertise. We aim to enrich lives by finding dream homes, creating unforgettable experiences, fostering long-lasting relationships and making life easy for our clients.</p>
                         </div>
 
-                        <div class="col-lg-6 col-md-6 mt-3">
+                        <div class="col-lg-12 col-md-6 mt-3">
                             <h5 class="px-3" style="color: goldenrod; text-decoration: underline;">OUR MISSION</h5>
                             <p class="mb-0">Our mission, is to deliver an outstanding property services with passion, professionalism, and a personal touch. We strive to: 
                                 <ul>
@@ -177,36 +177,30 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/estate/carrent-1.png" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                             <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <a href="#" class="h4">Car Rent</a>
-                                <p  style="font-size: 13px;" class="my-3">Our Property Letting, also known as <b>Rental</b>, refers to the process of allowing an individual or organization to use a property in exchange of regular payments, known as Rent. This can includes:
-                                    <ul>
-                                        <li style="font-size: 13px;"><span style="font-weight: bolder;">Residential Letting</span> (apartments, houses rooms, etc)
-                                        </li>
-                                        <li style="font-size: 13px;"><span style="font-weight: bolder;">Commercial Letting</span> (offices, retail spaces, warehouses, etc.)</li>
-                                        <li style="font-size:13px;"><span style="font-weight: bolder;">Industrial Letting</span> (factories, land, etc.)</li>
-                                    </ul>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                   <!--  -->
                 </div>
             </div>
         </div>
         <!-- Blog End -->
 
         <!-- Subscribe Start -->
-        <?php include('include/news_letter.php');?>
+        <div class="container-fluid subscribe-estate py-5">
+            <div class="container text-center py-5">
+                <div class="mx-auto text-center" style="max-width: 900px;">
+                    <h5 class="subscribe-title px-3">Subscribe</h5>
+                    <h1 class="text-white mb-4">Our Newsletter</h1>
+                    <p class="text-white mb-5">
+                        Kindly subscribe to our newsletter, so that we bring you the latest updates on travels and more....  
+                    </p>
+                    <div class="position-relative mx-auto">
+                        <form id="newsletter_submission">
+                            <input class="form-control border-primary rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
+                            <button type="button" class="btn btn-gold rounded-pill position-absolute top-0 end-0 py-2 px-4 mt-2 me-2">Subscribe</button>
+                         </form>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Subscribe End -->
         <!-- Footer Start -->
         <?php include('include/footer.php');?>

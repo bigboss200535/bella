@@ -15,9 +15,9 @@
         <!-- Navbar & Hero End -->
 
         <!-- Header Start -->
-        <div class="container-fluid bg-breadcrumb">
+        <div class="container-fluid bg-breadcrumbs">
             <div class="container text-center py-5" style="max-width: 900px;">
-                <h3 class="text-white display-3 mb-4">Home Care</h1>
+                <h3 class="text-white display-3 mb-4">Our Home Care</h1>
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Pages</a></li>
@@ -34,6 +34,7 @@
                     <h1 class="mb-4">Why choose us</h1>
                     <div class="row">
                     <div class="col-md-6" align="justify">
+                        <ul>
                         <li>
                         At Bellas Prestige Homecare, we believe in empowering individuals to age gracefully in their homes, with dignity and independence.
                     
@@ -58,6 +59,7 @@
                         With our comprehensive services and flexible scheduling, we have got you covered - choose us for peace of mind.
                     
                     </li>
+                </ul>
                 </div>
                <div class="col-lg-6 col-md-6">
                         <div class="blog-item">
@@ -375,7 +377,7 @@
         <!-- Blog End -->
 
         <!-- Subscribe Start -->
-         <div class="container-fluid subscribe py-5">
+         <div class="container-fluid subscribe-homecare py-5">
             <div class="container text-center py-5">
                 <div class="mx-auto text-center">
                     <h5 class="subscribe-title px-3">FAQ and Answers</h5>
