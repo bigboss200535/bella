@@ -218,10 +218,14 @@
                             </div>
                         </div>
                     </div>
+
+                      <!-- Packages start -->
+              <?php include('include/packages.php'); ?>
+              <!-- Packages end -->
                 
      <!-- Testimonial Start -->
-        <div class="container-fluid testimonial py-5">
-            <div class="container py-5">
+        <div class="container-fluid testimonial py-2">
+            <div class="container py-2">
                 <div class="mx-auto text-center mb-5" style="max-width: 900px;">
                     <h5 class="section-title px-3">Testimonial</h5>
                     <h1 class="mb-0">Our Clients Say!!!</h1>
@@ -297,6 +301,7 @@
             </div>
         </div>
               <!-- End Blog -->
+
         <!-- Destination Start -->
         <div class="container-fluid destination py-2">
             <div class="container py-2">
