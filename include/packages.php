@@ -51,7 +51,7 @@
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
                                 <h5 class="mb-0">Secure your visitor's visa</h5>
-                                <small class="text-uppercase">Hotel Deals</small>
+                                <small class="text-uppercase">Planning of visiting your love ones? try us</small>
                                 <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
@@ -70,12 +70,12 @@
                     </div>
                     <div class="packages-item">
                         <div class="packages-img">
-                            <img src="img/travel/package-3.png" class="img-fluid w-100 rounded-top" alt="Image">
+                            <img src="img/travel/package-5.png" class="img-fluid w-100 rounded-top" alt="Image">
                         </div>
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
-                                <h5 class="mb-0">Discover Japan</h5>
-                                <small class="text-uppercase">Hotel Deals</small>
+                                <h5 class="mb-0">Airline Ticketing</h5>
+                                <small class="text-uppercase">contact us for all your airline ticketing</small>
                                 <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
@@ -97,8 +97,8 @@
                         </div>
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
-                                <h5 class="mb-0">Grab your Passport and Birth Certificate Now</h5>
-                                <small class="text-uppercase">Hotel Deals</small>
+                                <h5 class="mb-0">Passport & Birth Certificate</h5>
+                                <small class="text-uppercase">We make Passport and Birth Cerificate readily available in no time</small>
                                 <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
