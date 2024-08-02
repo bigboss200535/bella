@@ -1,6 +1,6 @@
-<div class="container-fluid packages py-5">
-            <div class="container py-5">
-                <div class="mx-auto text-center mb-5" style="max-width: 900px;">
+<div class="container-fluid packages py-2">
+            <div class="container py-3">
+                <div class="mx-auto text-center mb-3" style="max-width: 900px;">
                     <h5 class="section-title px-3">Packages</h5>
                     <h1 class="mb-0">Awesome Packages</h1>
                 </div>
@@ -51,7 +51,7 @@
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
                                 <h5 class="mb-0">Secure your visitor's visa</h5>
-                                <small class="text-uppercase">Planning of visiting your love ones? try us</small>
+                                <small class="text-uppercase" style="font-size:12px;">Planning of visiting your love ones? try us</small>
                                 <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
@@ -75,7 +75,7 @@
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
                                 <h5 class="mb-0">Airline Ticketing</h5>
-                                <small class="text-uppercase">contact us for all your airline ticketing</small>
+                                <small class="text-uppercase" style="font-size:13px;">contact us for all your airline ticketing</small>
                                 <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
@@ -98,7 +98,7 @@
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
                                 <h5 class="mb-0">Passport & Birth Certificate</h5>
-                                <small class="text-uppercase">We make Passport and Birth Cerificate readily available in no time</small>
+                                <small class="text-uppercase" style="font-size:12px;">We make Passport and Birth Cerificate readily available in no time</small>
                                 <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>

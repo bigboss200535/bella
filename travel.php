@@ -306,7 +306,7 @@
         <div class="container-fluid destination py-2">
             <div class="container py-2">
 
-                <div class="mx-auto text-center mb-5" style="max-width: 900px;">
+                <div class="mx-auto text-center mb-2" style="max-width: 900px;">
                     <h5 class="section-title px-3">Destination</h5>
                     <h1 class="mb-0">Popular Destination</h1>
                 </div>
