@@ -86,7 +86,8 @@
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <a href="#" class="h4">Personal Care</a>
+                                <a href="#" class="h4">Personal Care</a><br>
+                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -102,7 +103,8 @@
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Medical Management</a>
+                                <a href="#" class="h4">Medical Management</a><br>
+                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -118,9 +120,8 @@
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Preparing Meal and Feeding</a>
-                                <!-- <p class="my-3">.....................</p> -->
-                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                                <a href="#" class="h4">Preparing Meal and Feeding</a><br>
+                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -136,7 +137,8 @@
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Housekeeping and laundry</a>
+                                <a href="#" class="h4">Housekeeping and laundry</a><br>
+                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div> <div class="col-lg-4 col-md-6">
@@ -148,17 +150,11 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Skilled Nursing Care</a>
-                                <!-- <p class="my-3">(wound care, injections, etc)</p> -->
-                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                                <a href="#" class="h4">Skilled Nursing Care</a><br>
+                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div> 
@@ -171,17 +167,11 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4" style="font-size: 20px;">Companionship and social support</a>
-                                <!-- <p class="my-3">.....................</p> -->
-                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                                <a href="#" class="h4" style="font-size: 20px;">Companionship and social support</a><br>
+                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -194,17 +184,11 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Nanny Care</a>
-                                <!-- <p class="my-3">.....................</p> -->
-                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                                <a href="#" class="h4">Nanny Care</a><br>
+                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -220,9 +204,8 @@
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Cleaning</a>
-                                <!-- <p class="my-3">.....................</p> -->
-                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                                <a href="#" class="h4">Cleaning</a><br>
+                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -240,7 +223,8 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Cooking</a>
                                 <!-- <p class="my-3">.....................</p> -->
-                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> -->
+                                <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> --><br>
+                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
