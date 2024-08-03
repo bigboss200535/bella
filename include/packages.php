@@ -33,7 +33,7 @@
                                     <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
                                 </div> -->
                                 <div class="col-6 text-start px-0">
-                                    <a href="#" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
                                 </div>
                             </div>
                         </div>
@@ -63,7 +63,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="#" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
                                 </div>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="#" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
                                 </div>
                             </div>
                         </div>
@@ -109,7 +109,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="#" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
                                 </div>
                             </div>
                         </div>

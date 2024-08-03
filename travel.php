@@ -65,13 +65,13 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/travel/documentprocessing-1.jpeg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <a href="#" class="h4">Document Processing</a><br>
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -81,14 +81,14 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/travel/hotel-2.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Hotel Reservations</a><br>
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/travel/ticket-1.jpeg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -106,7 +106,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Airline Ticketing</a><br>
                                 <!-- <p class="my-3">.....................</p> -->
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -116,14 +116,14 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/travel/studyabroad-1.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Study Abroad</a><br>
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div> <div class="col-lg-4 col-md-6">
@@ -132,7 +132,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/travel/holiday-2.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                                <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
@@ -145,7 +145,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Holiday Visa</a><br>
                                 <!-- <p class="my-3">(wound care, injections, etc)</p> -->
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div> 
@@ -155,7 +155,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid rounded-top" style="max-width: 100%; height: 100%;" src="img/travel/workpermit-2.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -163,7 +163,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Work Permit</a><br>
                                 <!-- <p class="my-3">.....................</p> -->
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -173,7 +173,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/travel/permanentvisa-2.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Settlement Visa</a><br>
                                 <!-- <p class="my-3">.....................</p> -->
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -191,7 +191,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/travel/visitvisa-2.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -199,7 +199,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Visit Visa</a><br>
                                 <!-- <p class="my-3">.....................</p> -->
-                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -209,7 +209,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/travel/airbnb-2.png" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -217,7 +217,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4 mb-2">Air BnB (Short Stay)</a><br>
                                 <!-- <p class="">.....................</p> -->
-                                <a href="#" class="btn btn-primary rounded-pill">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill">Book Now</a>
                             </div>
                         </div>
                     </div>

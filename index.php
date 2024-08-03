@@ -675,12 +675,13 @@
             <div class="container py-5">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6">
-                        <h5 class="section-booking-title pe-3" style="color:#000000">Booking</h5>
-                        <h1 class="text-black mb-4">Online Booking</h1>
-                        <p class="text-black" style="color:#000000">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
+                        <h5 class="section-booking-title pe-3" style="color:#000000">Apply online</h5>
+                        <h1 class="text-black mb-4">Seeking for a job?</h1>
+                        <p class="text-black" style="color:#000000">At Bellas Prestige Limited, we offer any individual seeking to apply for a job in our various job offers. These offers include:
                         </p>
-                        <p class="text-black mb-4" style="color:#000000">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
-                        </p>
+                        <ul><li><p class="text-black mb-4" style="color:#000000">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
+                        </p></li>
+                    </ul>
                         <a href="#" class="btn btn-light text-primary rounded-pill py-3 px-5 mt-2">Read More</a>
                     </div>
                     <div class="col-lg-6">
