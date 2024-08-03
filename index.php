@@ -679,14 +679,21 @@
                         <h1 class="text-black mb-4">Seeking for a job?</h1>
                         <p class="text-black" style="color:#000000">At Bellas Prestige Limited, we offer any individual seeking to apply for a job in our various job offers. These offers include:
                         </p>
-                        <ul><li><p class="text-black mb-4" style="color:#000000">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
-                        </p></li>
+                        <ul>
+                            <li>
+                                <p class="text-black mb-1" style="color:#000000">Apply as a Nanny</p>
+                        <li>
+                                <p class="text-black mb-1" style="color:#000000">Apply as a cook</p>
+                    </li>
+                    <li>
+                        <p class="text-black mb-1" style="color:#000000">Apply as a cleaner</p>
+                    </li>
                     </ul>
                         <a href="#" class="btn btn-light text-primary rounded-pill py-3 px-5 mt-2">Read More</a>
                     </div>
                     <div class="col-lg-6">
-                        <h1 class="text-black mb-3" style="color:#000000">Book A Tour Deals</h1>
-                        <p class="text-black mb-4" style="color:#000000">Get <span class="text-danger">50% Off</span> On Your First Adventure Trip With Travela. Get More Deal Offers Here.</p>
+                        <h1 class="text-black mb-3 text-uppercase" style="color:#000000">Apply here</h1>
+                        <p class="text-black mb-4" style="color:#000000">After filling ALL the required fields, click or tab on the submit button and our able team will contact you to submit the necessary requirements for recruitment.</p>
                         <form>
                             <div class="row g-3">
                                 <div class="col-md-6">
@@ -745,7 +752,7 @@
                                     </div>
                                 </div>
                                 <div class="col-12">
-                                    <button class="btn btn-primary text-white w-100 py-3" type="submit">Book Now</button>
+                                    <button class="btn btn-primary text-white w-100 py-3" type="submit">Apply Now</button>
                                 </div>
                             </div>
                         </form>
