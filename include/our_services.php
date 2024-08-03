@@ -43,7 +43,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12">
+                            <!-- <div class="col-12">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Our Car Rental Services</h5>
@@ -54,7 +54,7 @@
                                         <i class="fa fa-car fa-4x text-primary"></i>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     <div class="col-lg-6">

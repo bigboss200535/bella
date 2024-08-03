@@ -81,13 +81,13 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare-1.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <a href="#" class="h4">Personal Care</a><br>
-                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -97,14 +97,14 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/homecare/medicalcare.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Medical Management</a><br>
-                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -114,14 +114,14 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/homecare/feeding.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Preparing Meal and Feeding</a><br>
-                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -131,14 +131,14 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning-1.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Housekeeping and laundry</a><br>
-                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div> <div class="col-lg-4 col-md-6">
@@ -147,14 +147,14 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/homecare/nursecare.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Skilled Nursing Care</a><br>
-                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div> 
@@ -164,14 +164,14 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid rounded-top" style="max-width: 100%; height: 100%;" src="img/homecare/companionship-2.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4" style="font-size: 20px;">Companionship and social support</a><br>
-                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -181,14 +181,14 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/homecare/nanny-1.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Nanny Care</a><br>
-                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -198,14 +198,14 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning-4.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Cleaning</a><br>
-                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -215,7 +215,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/homecare/cooking-1.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -224,7 +224,7 @@
                                 <a href="#" class="h4">Cooking</a>
                                 <!-- <p class="my-3">.....................</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> --><br>
-                                <a href="#" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
