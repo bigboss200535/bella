@@ -13,6 +13,7 @@
                         <a href="index.php" class="nav-item nav-link">Home</a>
                         <a href="about.php" class="nav-item nav-link">About</a>
                         <a href="services.php" class="nav-item nav-link">Services</a>
+                        <a href="contact.php" class="nav-item nav-link">Contact</a>
                         <div class="nav-item dropdown">
                             <a href="#" id="navLinks" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Explore</a>
                             <div class="dropdown-menu m-0">
@@ -21,7 +22,7 @@
                                 <a href="property.php" class="dropdown-item">Estate Agency & Properties</a>
                             </div>
                         </div>
-                        <a href="contact.php" class="nav-item nav-link">Contact</a>
+                      
                     </div>
                     <a href="contact.php" class="btn btn-gold rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
                 </div>

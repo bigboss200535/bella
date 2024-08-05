@@ -252,7 +252,7 @@
                     </div>
                 </div>
      <!-- Testimonial Start -->
-        <div class="container-fluid testimonial py-5">
+ <!--        <div class="container-fluid testimonial py-5">
             <div class="container py-5">
                 <div class="mx-auto text-center mb-5" style="max-width: 900px;">
                     <h5 class="section-title px-3">Testimonial</h5>
@@ -322,7 +322,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Testimonial End -->
 
                 </div>

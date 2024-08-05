@@ -31,7 +31,7 @@
         <!-- Services End -->
 
         <!-- Testimonial Start -->
-        <?php include('include/testimony.php'); ?>
+        <?php //include('include/testimony.php'); ?>
         <!-- Testimonial End -->
 
         <!-- Subscribe Start -->

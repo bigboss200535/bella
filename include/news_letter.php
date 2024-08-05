@@ -8,7 +8,7 @@
                     </p>
                     <div class="position-relative mx-auto">
                         <form id="newsletter_submission">
-                            <input class="form-control border-primary rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
+                            <input class="form-control border-primary rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email" autocomplete="off" name="news_letter" id="news_letter">
                             <button type="button" class="btn btn-gold rounded-pill position-absolute top-0 end-0 py-2 px-4 mt-2 me-2">Subscribe</button>
                          </form>
                     </div>
