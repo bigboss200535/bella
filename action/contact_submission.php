@@ -45,8 +45,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com'; // Specify main and backup SMTP servers
             $mail->SMTPAuth = true;
-            $mail->Username = 'bigboss200535@gmail.com'; // SMTP username
-            $mail->Password = '@WebEdge2024'; // SMTP password
+            $mail->Username = ''; // SMTP username
+            $mail->Password = ''; // SMTP password
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
             $mail->Port = 587;
 
