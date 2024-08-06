@@ -18,7 +18,7 @@
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
                                 <h5 class="mb-0">Nurses and Dependants Needed</h5>
-                                <small class="text-uppercase">Hotel Deals</small>
+                                <small class="text-uppercase">contact us.</small>
                                 <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
@@ -68,14 +68,15 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="packages-item">
                         <div class="packages-img">
-                            <img src="img/travel/package-5.png" class="img-fluid w-100 rounded-top" alt="Image">
+                            <img src="img/travel/package-4.png" class="img-fluid w-100 rounded-top" alt="Image">
                         </div>
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
-                                <h5 class="mb-0">Airline Ticketing</h5>
-                                <small class="text-uppercase" style="font-size:13px;">contact us for all your airline ticketing</small>
+                                <h5 class="mb-0">Passport & Birth Certificate</h5>
+                                <small class="text-uppercase" style="font-size:12px;">We make Passport and Birth Certificate readily available in no time</small>
                                 <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
@@ -93,12 +94,104 @@
                     </div>
                     <div class="packages-item">
                         <div class="packages-img">
-                            <img src="img/travel/package-4.png" class="img-fluid w-100 rounded-top" alt="Image">
+                            <img src="img/homecare/home-4.png" class="img-fluid w-100 rounded-top" alt="Image">
                         </div>
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
-                                <h5 class="mb-0">Passport & Birth Certificate</h5>
-                                <small class="text-uppercase" style="font-size:12px;">We make Passport and Birth Cerificate readily available in no time</small>
+                                <h5 class="mb-0">Are you looking for helpers?</h5>
+                                <small class="text-uppercase" style="font-size:12px;">We provide you with well trained staff.</small>
+                                <div class="mb-3">
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                </div>
+                            </div>
+                            <div class="row bg-gold rounded-bottom mx-0">
+                                <div class="col-6 text-start px-0">
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="packages-item">
+                        <div class="packages-img">
+                            <img src="img/homecare/home-6.png" class="img-fluid w-100 rounded-top" alt="Image">
+                        </div>
+                        <div class="packages-content bg-light">
+                            <div class="p-4 pb-0">
+                                <h5 class="mb-0">Are you a professional cook?</h5>
+                                <small class="text-uppercase" style="font-size:12px;">We provide you with an offer to apply for a job.</small>
+                                <div class="mb-3">
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                </div>
+                            </div>
+                            <div class="row bg-gold rounded-bottom mx-0">
+                                <div class="col-6 text-start px-0">
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="packages-item">
+                        <div class="packages-img">
+                            <img src="img/estate/property-5.png" class="img-fluid w-100 rounded-top" alt="Image">
+                        </div>
+                        <div class="packages-content bg-light">
+                            <div class="p-4 pb-0">
+                                <h5 class="mb-0">Acquire and own a land.</h5>
+                                <small class="text-uppercase" style="font-size:12px;">we make acquisition of land easy. contact us.</small>
+                                <div class="mb-3">
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                </div>
+                            </div>
+                            <div class="row bg-gold rounded-bottom mx-0">
+                                <div class="col-6 text-start px-0">
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="packages-item">
+                        <div class="packages-img">
+                            <img src="img/estate/property-6.png" class="img-fluid w-100 rounded-top" alt="Image">
+                        </div>
+                        <div class="packages-content bg-light">
+                            <div class="p-4 pb-0">
+                                <h5 class="mb-0">Acquire and own a land.</h5>
+                                <small class="text-uppercase" style="font-size:12px;">contact us.</small>
+                                <div class="mb-3">
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                </div>
+                            </div>
+                            <div class="row bg-gold rounded-bottom mx-0">
+                                <div class="col-6 text-start px-0">
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="packages-item">
+                        <div class="packages-img">
+                            <img src="img/estate/property-7.png" class="img-fluid w-100 rounded-top" alt="Image">
+                        </div>
+                        <div class="packages-content bg-light">
+                            <div class="p-4 pb-0">
+                                <h5 class="mb-0">Need a rent loan?</h5>
+                                <small class="text-uppercase" style="font-size:12px;">contact us.</small>
                                 <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
