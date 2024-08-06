@@ -681,12 +681,21 @@
                         </p>
                         <ul>
                             <li>
-                                <p class="text-black mb-1" style="color:#000000">Apply as a Nanny</p>
+                                <p class="text-black mb-1" style="color:#000000">Nanny</p>
                         <li>
-                                <p class="text-black mb-1" style="color:#000000">Apply as a cook</p>
+                                <p class="text-black mb-1" style="color:#000000">Cook</p>
                     </li>
                     <li>
-                        <p class="text-black mb-1" style="color:#000000">Apply as a cleaner</p>
+                        <p class="text-black mb-1" style="color:#000000">Cleaner</p>
+                    </li>
+                    <li>
+                        <p class="text-black mb-1" style="color:#000000">HouseHelp</p>
+                    </li> 
+                    <li>
+                        <p class="text-black mb-1" style="color:#000000">Domestic Assistants</p>
+                    </li>
+                    <li>
+                        <p class="text-black mb-1" style="color:#000000">Caregiver</p>
                     </li>
                     </ul>
                         <a href="#" class="btn btn-light text-primary rounded-pill py-3 px-5 mt-2">Read More</a>
@@ -709,46 +718,64 @@
                                     </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <div class="form-floating date" id="date3" data-target-input="nearest">
-                                        <input type="text" class="form-control bg-white border-0" id="datetime" placeholder="Date & Time" data-target="#date3" data-toggle="datetimepicker" />
-                                        <label for="datetime">Date & Time</label>
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control bg-white border-0" id="email" placeholder="Your Email">
+                                        <label for="email">Your Contact</label>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
                                         <select class="form-select bg-white border-0" id="select1">
-                                            <option value="1">Destination 1</option>
-                                            <option value="2">Destination 2</option>
-                                            <option value="3">Destination 3</option>
+                                            <!-- <option selected disabled>-select-</option> -->
+                                            <option value="Nanny">Nanny</option>
+                                            <option value="Cook">Cook</option>
+                                            <option value="Cleaner">Cleaner</option>
+                                            <option value="Domestic Assistant">Domestic Assistant</option>
+                                            <option value="Househelp">Househelp</option>
+                                            <option value="Caregiver">Caregiver</option>
                                         </select>
-                                        <label for="select1">Destination</label>
+                                        <label for="select1">Job Type</label>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
                                         <select class="form-select bg-white border-0" id="SelectPerson">
-                                            <option value="1">Persons 1</option>
-                                            <option value="2">Persons 2</option>
-                                            <option value="3">Persons 3</option>
+                                            <option value="Ahafo">Ahafo</option>
+                                            <option selected value="Ashanti">Ashanti</option>
+                                            <option value="Bono East">Bono East</option>
+                                            <option value="Brong Ahafo">Brong Ahafo</option>
+                                            <option value="Central">Central</option>
+                                            <option value="Eastern">Eastern</option>
+                                            <option value="Greater Accra">Greater Accra</option>
+                                            <option value="North East">North East</option>
+                                            <option value="Northen">Northen</option>
+                                            <option value="Oti">Oti</option>
+                                            <option value="Savannah">Savannah</option>
+                                            <option value="Upper East">Upper East</option>
+                                            <option value="Upper West">Upper West</option>
+                                            <option value="Volta">Volta</option>
+                                            <option value="Western">Western</option>  
+                                            <option value="Western North">Western North</option>  
                                         </select>
-                                        <label for="SelectPerson">Persons</label>
+                                        <label for="SelectPerson">Region</label>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <select class="form-select bg-white border-0" id="CategoriesSelect">
-                                            <option value="1">Kids</option>
-                                            <option value="2">1</option>
-                                            <option value="3">2</option>
-                                            <option value="3">3</option>
+                                        <select class="form-select bg-white border-0" id="SelectPerson">
+                                            <option value="Christian">Christian</option>
+                                            <option value="Muslim">Muslim</option>
+                                            <option value="Traditional">Traditional</option>
+                                            <!-- <option value="Brong Ahafo">Brong Ahafo</option> -->
                                         </select>
-                                        <label for="CategoriesSelect">Categories</label>
+                                        <label for="SelectPerson">Religion</label>
                                     </div>
                                 </div>
+                                
                                 <div class="col-12">
                                     <div class="form-floating">
                                         <textarea class="form-control bg-white border-0" placeholder="Special Request" id="message" style="height: 100px"></textarea>
-                                        <label for="message">Special Request</label>
+                                        <label for="message">Write something short about yourself</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
