@@ -59,19 +59,19 @@
                                 <div class="col-xl-6">
                                     <form>
                                         <div class="form-floating">
-                                            <select class="form-select bg-dark border" id="select1">
+                                            <!-- <select class="form-select bg-dark border" id="select1">
                                                 <option value="1">Arabic</option>
                                                 <option value="2">German</option>
                                                 <option value="3">Greek</option>
                                                 <option value="3">New York</option>
                                             </select>
-                                            <label for="select1">English</label>
+                                            <label for="select1">English</label> -->
                                         </div>
                                     </form>
                                 </div>
                                 <div class="col-xl-6">
                                     <form>
-                                        <div class="form-floating">
+                                        <!-- <div class="form-floating">
                                             <select class="form-select bg-dark border" id="select1">
                                                 <option value="1">USD</option>
                                                 <option value="2">EUR</option>
@@ -79,18 +79,18 @@
                                                 <option value="3">GBP</option>
                                             </select>
                                             <label for="select1">$</label>
-                                        </div>
+                                        </div> -->
                                     </form>
                                 </div>
                             </div>
-                            <h4 class="text-white mb-3">Payments</h4>
+                            <!-- <h4 class="text-white mb-3">Payments</h4> -->
                             <div class="footer-bank-card">
-                                <a href="#" class="text-white me-2"><i class="fab fa-cc-amex fa-2x"></i></a>
+                                <!-- <a href="#" class="text-white me-2"><i class="fab fa-cc-amex fa-2x"></i></a>
                                 <a href="#" class="text-white me-2"><i class="fab fa-cc-visa fa-2x"></i></a>
                                 <a href="#" class="text-white me-2"><i class="fas fa-credit-card fa-2x"></i></a>
                                 <a href="#" class="text-white me-2"><i class="fab fa-cc-mastercard fa-2x"></i></a>
                                 <a href="#" class="text-white me-2"><i class="fab fa-cc-paypal fa-2x"></i></a>
-                                <a href="#" class="text-white"><i class="fab fa-cc-discover fa-2x"></i></a>
+                                <a href="#" class="text-white"><i class="fab fa-cc-discover fa-2x"></i></a> -->
                             </div>
                         </div>
                     </div>
