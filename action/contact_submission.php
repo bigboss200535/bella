@@ -33,49 +33,42 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $response['status'] = 'error';
         $response['message'] = 'Invalid email format.';
     } else {
-        // Database insertion code (commented out)
-        // $query = $dbh->prepare("INSERT INTO contacts (name, email, message, subject, telephone) 
-        // VALUES (:name, :email, :message, :subject, :telephone)");
-        // $query->execute(['name'=>$name,'email'=>$email,'message'=>$message,'subject'=>$subject, 'telephone'=>$telephone]);
+                // Database insertion code (commented out)
+                // $query = $dbh->prepare("INSERT INTO contacts (name, email, message, subject, telephone) 
+                // VALUES (:name, :email, :message, :subject, :telephone)");
+                // $query->execute(['name'=>$name,'email'=>$email,'message'=>$message,'subject'=>$subject, 'telephone'=>$telephone]);
 
-        // Configure PHPMailer
-        $mail = new PHPMailer(true);
-        try {
-            //Server settings
-            $mail->isSMTP();
-            $mail->Host = 'smtp.gmail.com'; // Specify main and backup SMTP servers
-            $mail->SMTPAuth = true;
-            $mail->Username = ''; // SMTP username
-            $mail->Password = ''; // SMTP password
-            $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-            $mail->Port = 587;
+                // Configure PHPMailer
+                $mail = new PHPMailer(true);
+                try {
+                    //Server settings
+                    $mail->isSMTP();
+                    $mail->Host = 'smtp.gmail.com'; // Specify main and backup SMTP servers
+                    $mail->SMTPAuth = false;
+                    $mail->Username = 'bigboss200535@gmail.com'; // SMTP username
+                    $mail->Password = ''; // SMTP password
+                    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+                    $mail->Port = 587;
 
-            //Recipients
-            $mail->setFrom($email, $name);
-            $mail->addAddress('alhassan.mohammedga@gmail.com', 'Bella'); // Add a recipient
+                    //Recipients
+                    $mail->setFrom($email, $name);
+                    $mail->addAddress('alhassan.mohammedga@gmail.com', 'Bella'); // Add a recipient
 
-            // Content
-            $mail->isHTML(true);
-            $mail->Subject = $subject;
-            $mail->Body    = nl2br($message.". My Details are telephone:".$telephone);
-            $mail->AltBody = strip_tags($message);
+                    // Content
+                    $mail->isHTML(true);
+                    $mail->Subject = $subject;
+                    $mail->Body    = nl2br($message.". My Details are telephone:".$telephone);
+                    $mail->AltBody = strip_tags($message);
 
-            $mail->send();
-            $response['status'] = 'success';
-            $response['message'] = 'Message sent successfully!';
+                    $mail->send();
+                    $response['status'] = 'success';
+                    $response['message'] = 'Message sent successfully!';
 
-            // if(!$mail->send()){
-            //     $response['status'] = 'error';
-            //     $response['message'] = 'Mail not sent';
-            // }else {
-            //      $response['status'] = 'success';
-            //     $response['message'] = 'Mail sent';
-            // }
-        } catch (Exception $e) {
-            $response['status'] = 'error';
-            $response['message'] = "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-        }
-    }
+                } catch (Exception $e) {
+                    $response['status'] = 'error';
+                    $response['message'] = "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+                }
+            }
 } else {
     $response['status'] = 'error';
     $response['message'] = 'Invalid request method.';

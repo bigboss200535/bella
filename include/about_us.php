@@ -32,7 +32,7 @@
                     <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>24/7 Service</p>
                 </div>
             </div>
-            <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="">Read More...</a>
+            <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="about.php">Read More...</a>
         </div>
     </div>
 </div>
