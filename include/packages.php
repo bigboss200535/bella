@@ -13,7 +13,7 @@
                                 <!-- <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt me-2"></i>3 days</small> -->
                                 <!-- <small class="flex-fill text-center py-2"><i class="fa fa-user me-2"></i>2 Person</small> -->
                             </div>
-                            <!-- <div class="packages-price py-2 px-4">$349.00</div> -->
+                            <!-- <div class="packages-price py-2 px-4"></div> -->
                         </div>
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
@@ -69,6 +69,29 @@
                         </div>
                     </div>
                     
+                    <div class="packages-item">
+                        <div class="packages-img">
+                            <img src="img/travel/package-5.png" class="img-fluid w-100 rounded-top" alt="Image">
+                        </div>
+                        <div class="packages-content bg-light">
+                            <div class="p-4 pb-0">
+                                <h5 class="mb-0">Flight Ticketing</h5>
+                                <small class="text-uppercase" style="font-size:12px;">contact us now</small>
+                                <div class="mb-3">
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                </div>
+                            </div>
+                            <div class="row bg-gold rounded-bottom mx-0">
+                                <div class="col-6 text-start px-0">
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="packages-item">
                         <div class="packages-img">
                             <img src="img/travel/package-4.png" class="img-fluid w-100 rounded-top" alt="Image">
@@ -191,6 +214,29 @@
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
                                 <h5 class="mb-0">Need a rent loan?</h5>
+                                <small class="text-uppercase" style="font-size:12px;">contact us.</small>
+                                <div class="mb-3">
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                    <small class="fa fa-star text-primary"></small>
+                                </div>
+                            </div>
+                            <div class="row bg-gold rounded-bottom mx-0">
+                                <div class="col-6 text-start px-0">
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div> 
+                    <div class="packages-item">
+                        <div class="packages-img">
+                            <img src="img/estate/property-8.png" class="img-fluid w-100 rounded-top" alt="Image">
+                        </div>
+                        <div class="packages-content bg-light">
+                            <div class="p-4 pb-0">
+                                <h5 class="mb-0">Do you need tenants?</h5>
                                 <small class="text-uppercase" style="font-size:12px;">contact us.</small>
                                 <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
