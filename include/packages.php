@@ -77,13 +77,13 @@
                             <div class="p-4 pb-0">
                                 <h5 class="mb-0">Flight Ticketing</h5>
                                 <small class="text-uppercase" style="font-size:12px;">contact us now</small>
-                                <div class="mb-3">
+                               <!--  <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
@@ -238,13 +238,6 @@
                             <div class="p-4 pb-0">
                                 <h5 class="mb-0">Do you need tenants?</h5>
                                 <small class="text-uppercase" style="font-size:12px;">contact us.</small>
-                                <div class="mb-3">
-                                    <small class="fa fa-star text-primary"></small>
-                                    <small class="fa fa-star text-primary"></small>
-                                    <small class="fa fa-star text-primary"></small>
-                                    <small class="fa fa-star text-primary"></small>
-                                    <small class="fa fa-star text-primary"></small>
-                                </div>
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">

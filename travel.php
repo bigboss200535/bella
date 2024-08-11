@@ -223,7 +223,7 @@
                     </div>
 
                       <!-- Packages start -->
-              <?php include('include/packages.php'); ?>
+              
               <!-- Packages end -->
     
         <!-- Testimonial End -->
