@@ -80,7 +80,7 @@
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
                                 <div class="gallery-item h-100">
-                                    <img src="img/homecare/cleaning-1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="img/homecare/laundry.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
                                             <h5 class="text-white text-uppercase mb-2">House Keeping and laundry</h5>
@@ -88,13 +88,13 @@
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="img/homecare/cleaning-1.jpg" data-lightbox="gallery-4" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="img/homecare/laundry.jpg" data-lightbox="gallery-4" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                                 <div class="gallery-item h-100">
-                                    <img src="img/homecare/personalcare-1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="img/homecare/nursecare.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
                                             <h5 class="text-white text-uppercase mb-2">Personal Care</h5>
@@ -102,13 +102,13 @@
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="img/homecare/personalcare-1.jpg" data-lightbox="gallery-5" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="img/homecare/nursecare.jpg" data-lightbox="gallery-5" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
                                 <div class="gallery-item h-100">
-                                    <img src="img/homecare/companionship-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="img/homecare/companionship.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
                                             <h5 class="text-white text-uppercase mb-2">Companionship & Support</h5>

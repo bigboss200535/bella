@@ -70,12 +70,12 @@
                         </li>
                         <li class="nav-item">
                             <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#tab-5">
-                                <span class="text-dark" style="width: 150px;">China</span>
+                                <span class="text-dark" style="width: 150px;">France</span>
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#tab-6">
-                                <span class="text-dark" style="width: 150px;">Singapore</span>
+                                <span class="text-dark" style="width: 150px;">Portugal</span>
                             </a>
                         </li>
                     </ul>
