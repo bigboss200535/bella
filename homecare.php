@@ -79,7 +79,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare-1.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare-2.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -112,7 +112,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/feeding.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/homecare7.png" alt="Image">
                                     <div class="blog-icon">
                                         <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -129,7 +129,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning-1.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/laundry.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -162,7 +162,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid rounded-top" style="max-width: 100%; height: 100%;" src="img/homecare/companionship-2.jpg" alt="Image">
+                                    <img class="img-fluid rounded-top" style="max-width: 100%; height: 100%;" src="img/homecare/companionship.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -179,7 +179,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/nanny-1.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/nanny.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -196,7 +196,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning-4.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -213,7 +213,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/cooking-1.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/cooking.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
