@@ -6,20 +6,24 @@
         <?php   include('include/topbar.php');     ?>
         <!-- Topbar End -->
         <!-- Navbar & Hero Start -->
+        <!-- Navbar & Hero Start -->
         <div class="container-fluid position-relative p-0">
-           <?php  include('include/navbar.php');?>
+             <?php  include('include/navbar.php');?>
         </div>
+        <!-- Navbar & Hero End -->
+
         <!-- Header Start -->
-        <div class="container-fluid bg-travel">
+        <div class="container-fluid bg-estate">
             <div class="container text-center py-5" style="max-width: 900px;">
-                <h3 class="text-white display-3 mb-4">Travel and Tour</h1>
+                <h3 class="text-white display-3 mb-4">Travel</h1>
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                    <li class="breadcrumb-item active text-white">Travel and Tour</li>
+                    <li class="breadcrumb-item active text-white">About</li>
                 </ol>    
             </div>
         </div>
+        <!-- Header End -->
         <!-- Header End -->
         <!-- Begin blog -->
         <div class="container-fluid blog py-5">
