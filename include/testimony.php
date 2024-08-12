@@ -27,14 +27,14 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
+                            <p class="text-center mb-5">“Just wanted to let you know that the trip was fantastic and everything worked out seamlessly! The hotels and the tours you recommended were excellent! Hotel locations in particular were ideal. Also, the Trip Plan app made things very easy for us. " .
                             </p>
                         </div>
                         <div class="testimonial-img p-1">
                             <!-- <img src="img/testimonial-2.jpg" class="img-fluid rounded-circle" alt="Image"> -->
                         </div>
                         <div style="margin-top: -35px;">
-                            <h5 class="mb-0">John Abraham</h5>
+                            <h5 class="mb-0">Mr. Aboagye Simon</h5>
                             <p class="mb-0">New York, USA</p>
                             <div class="d-flex justify-content-center">
                                 <!-- <i class="fas fa-star text-primary"></i>
@@ -47,14 +47,14 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
+                            <p class="text-center mb-5">"Hi Bellas Prestige, The trip was great overall. The cruise itself was amazing. Going to College Fjord was probably the highlight followed by Glacier Bay (a close second). We saw a lot of glacial calving of the Harvard Glacier in College Fjord.
                             </p>
                         </div>
                         <div class="testimonial-img p-1">
                             <!-- <img src="img/testimonial-3.jpg" class="img-fluid rounded-circle" alt="Image"> -->
                         </div>
                         <div style="margin-top: -35px;">
-                            <h5 class="mb-0">John Abraham</h5>
+                            <h5 class="mb-0">Michael Ofosu</h5>
                             <p class="mb-0">New York, USA</p>
                             <div class="d-flex justify-content-center">
                                <!--  <i class="fas fa-star text-gold"></i>
