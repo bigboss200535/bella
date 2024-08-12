@@ -1,19 +1,17 @@
 <?php include ('include/head.php'); ?>
 
     <body>
-
        <?php include('include/preloader.php');?>
         <!-- Spinner End -->
 
         <!-- Topbar Start -->
-        <?php   include('include/topbar.php');     ?>
+        <?php   include('include/topbar.php'); ?>
         <!-- Topbar End -->
-        
         <!-- Navbar & Hero Start -->
         <div class="container-fluid position-relative p-0">
-
            <?php  include('include/navbar.php');?>
         </div>
+        
         <!-- Header Start -->
         <div class="container-fluid bg-estate">
             <div class="container text-center py-5" style="max-width: 900px;">

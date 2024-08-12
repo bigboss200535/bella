@@ -1,17 +1,12 @@
 <?php include ('include/head.php'); ?>
-
     <body>
-
        <?php include('include/preloader.php');?>
         <!-- Spinner End -->
-
         <!-- Topbar Start -->
         <?php   include('include/topbar.php');     ?>
         <!-- Topbar End -->
-        
         <!-- Navbar & Hero Start -->
         <div class="container-fluid position-relative p-0">
-
            <?php  include('include/navbar.php');?>
         </div>
         <!-- Header Start -->
@@ -26,7 +21,7 @@
             </div>
         </div>
         <!-- Header End -->
-              <!-- Begin blog -->
+        <!-- Begin blog -->
         <div class="container-fluid blog py-5">
             <div class="container py-5">
                 <!-- start of why choose us -->
@@ -34,10 +29,7 @@
                     <h1 class="mb-4">Why choose us</h1>
                     <div class="row">
                     <div class="col-md-6" align="justify">
-    
-
                         Bellas Prestige is a company that aims to provide exceptional services that meet the unique needs of its clients, ensuring their satisfaction and success. 
-
                         <p class="mt-3">The company offers personalized travel and tour services, such as, Travel Documents Processing, Study Abroad, Work Permit, Visit Visa, Holidays Visa, Settlement Visa, Hotel Reservations, Airline Ticketing, Organizing of tours for churches and Holidayers, Airbnb (short stays).</p>
                 </div>
                <div class="col-lg-6 col-md-6">

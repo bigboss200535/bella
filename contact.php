@@ -1,9 +1,4 @@
-<?php 
-
-include('include/head.php'); 
-
-
-?>
+<?php include('include/head.php'); ?>
     <body>
         <!-- Spinner Start -->
        <?php include('include/preloader.php');?>
@@ -11,19 +6,21 @@ include('include/head.php');
         <!-- Topbar Start -->
         <?php   include('include/topbar.php');     ?>
         <!-- Topbar End -->
+       
         <!-- Navbar & Hero Start -->
-         <div class="container-fluid position-relative p-0">
+        <div class="container-fluid position-relative p-0">
              <?php  include('include/navbar.php');?>
         </div>
         <!-- Navbar & Hero End -->
+
         <!-- Header Start -->
-        <div class="container-fluid bg-travel">
+        <div class="container-fluid bg-estate">
             <div class="container text-center py-5" style="max-width: 900px;">
-                <h3 class="text-white display-3 mb-4">Contact Us</h1>
+                <h3 class="text-white display-3 mb-4">About Us</h1>
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                    <li class="breadcrumb-item active text-white">Contact</li>
+                    <li class="breadcrumb-item active text-white">About</li>
                 </ol>    
             </div>
         </div>
