@@ -47,7 +47,7 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">"Hi Bellas Prestige, The trip was great overall. The cruise itself was amazing. Going to College Fjord was probably the highlight followed by Glacier Bay (a close second). We saw a lot of glacial calving of the Harvard Glacier in College Fjord.
+                            <p class="text-center mb-5">"Hi Bellas Prestige Limited, The trip was great overall. The cruise itself was amazing. Going to College Fjord was probably the highlight followed by Glacier Bay (a close second). We saw a lot of glacial calving of the Harvard Glacier in College Fjord.
                             </p>
                         </div>
                         <div class="testimonial-img p-1">

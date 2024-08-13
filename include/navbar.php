@@ -2,7 +2,7 @@
                 <a href="index.php" class="navbar-brand p-0">
                     <h1 class="m-0">
                         <img src="img/logo.jpg" height="50px" width="50px" class="rounded-pill">
-                        Bellas Prestige
+                        Bellas Prestige Limited
                    </h1>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -24,6 +24,6 @@
                         </div>
                       
                     </div>
-                    <a href="contact.php" class="btn btn-gold rounded-pill py-2 px-4 ms-lg-4">contact Now</a>
+                    <a href="contact.php" class="btn btn-gold rounded-pill py-2 px-4 ms-lg-4">Contact Now</a>
                 </div>
             </nav>

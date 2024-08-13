@@ -35,7 +35,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Travel Guides</h5>
-                                        <p class="mb-0">A travel guide helps you explore the unexplored streets, corners, food joints, and architectural structures, cultural and historical information. They also help you see the best version of the country you are visiting.
+                                        <p class="mb-0">A travel guide helps you explore the unexplored streets, corners, food joints, and architectural structures, cultural and historical information.   
                                         </p>
                                     </div>
                                     <div class="service-icon p-4 shadow rounded-circle">
@@ -43,18 +43,18 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- <div class="col-12">
+                            <div class="col-12">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
-                                        <h5 class="mb-4">Our Car Rental Services</h5>
-                                        <p class="mb-0">Car rental services allow individuals to temporarily use a vehicle for personal or business purposes without the commitment of ownership.
+                                        <h5 class="mb-4">Apply for a job.</h5>
+                                        <p class="mb-0" align="justify">We put the interest of the individuals who are seeking for a job offer, to apply as a Caregiver, Nanny, Domestic Assistant, A Cook, Househelp, etc.
                                         </p>
                                     </div>
                                     <div class="service-icon p-4 shadow rounded-circle">
-                                        <i class="fa fa-car fa-4x text-primary"></i>
+                                        <i class="fa fa-users fa-4x text-primary"></i>
                                     </div>
                                 </div>
-                            </div> -->
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -91,7 +91,7 @@
                                     </div>
                                     <div class="service-content">
                                         <h5 class="mb-4">Property Services</h5>
-                                        <p class="mb-0">With Bellas prestige, our clients can acquire Estate houses, Sell and Buy lands, Rent house and rooms, Sell Houses with ease.
+                                        <p class="mb-0">With Bellas Prestige Limited, our clients can acquire Estate houses, Sell and Buy lands, Rent house and rooms, Sell Houses with ease.
                                         </p>
                                     </div>
                                 </div>
