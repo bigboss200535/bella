@@ -479,7 +479,7 @@
         <!-- Tour Booking End -->
 
         <!-- Travel Guide Start -->
-        <?php include('include/our_guide.php'); ?>
+       
         <!-- Travel Guide End -->
 
         <!-- Blog Start -->
