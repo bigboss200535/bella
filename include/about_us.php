@@ -3,7 +3,7 @@
         <div class="col-lg-5">
             <div class="h-100" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
 
-                <img src="img/about/about-img.png" class="img-fluid w-100 h-100" alt="">
+                <img src="img/logo.jpg" class="img-fluid w-100 h-100" alt="">
 
             </div>
         </div>
