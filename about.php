@@ -36,7 +36,7 @@
         <!-- About End -->
 
         <!-- Travel Guide Start -->
-        
+        <?php include('include/our_services.php'); ?>
         <!-- Travel Guide End -->
         <!-- Subscribe Start -->
        <div class="container-fluid aboutsubscribe py-5">
