@@ -270,29 +270,29 @@
                         <div class="row g-2">
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
                                 <div class="gallery-item h-100">
-                                    <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="img/homecare/caregiving.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Care giving</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="img/gallery-2.jpg" data-lightbox="gallery-2" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="img/homecare/caregiving.jpg" data-lightbox="gallery-2" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
                                 <div class="gallery-item h-100">
-                                    <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="img/homecare/cleaning.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">World Tour</h5>
+                                            <h5 class="text-white text-uppercase mb-2">Cleaning</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="img/gallery-3.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="img/homecare/cleaning.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
