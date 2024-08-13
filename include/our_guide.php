@@ -63,7 +63,7 @@
                             <div class="guide-title text-center rounded-bottom p-4">
                                 <div class="guide-title-inner">
                                     <h4 class="mt-3">Derrick Boateng</h4>
-                                    <p class="mb-0">Designation</p>
+                                    <p class="mb-0">I.T Staff</p>
                                 </div>
                             </div>
                         </div>
