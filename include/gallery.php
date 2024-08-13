@@ -309,7 +309,8 @@
                                         <a href="img/homecare/companionship.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                            </div><div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
                                 <div class="gallery-item h-100">
                                     <img src="img/homecare/cooking.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
@@ -322,30 +323,60 @@
                                         <a href="img/homecare/cooking.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                            </div><div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
                                 <div class="gallery-item h-100">
-                                    <img src="img/homecare/cleaning.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="img/homecare/medicalcare.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">Cleaning</h5>
+                                            <h5 class="text-white text-uppercase mb-2">medicalcare</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="img/homecare/cleaning.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="img/homecare/medicalcare.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
-                            </div><div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
                                 <div class="gallery-item h-100">
-                                    <img src="img/homecare/cleaning.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <img src="img/homecare/nanny.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
                                     <div class="gallery-content">
                                         <div class="gallery-info">
-                                            <h5 class="text-white text-uppercase mb-2">Cleaning</h5>
+                                            <h5 class="text-white text-uppercase mb-2">nanny</h5>
                                             <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
                                         </div>
                                     </div>
                                     <div class="gallery-plus-icon">
-                                        <a href="img/homecare/cleaning.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                        <a href="img/homecare/nanny.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                                <div class="gallery-item h-100">
+                                    <img src="img/homecare/laundry.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">laundry and cleaning</h5>
+                                            <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/homecare/laundry.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                                <div class="gallery-item h-100">
+                                    <img src="img/homecare/personalcare-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">personal care</h5>
+                                            <a href="#" class="btn-hover text-white">View All Place <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/homecare/personalcare-2.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
