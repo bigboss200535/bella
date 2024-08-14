@@ -7,7 +7,7 @@
                                 
                             <h3 class="mb-4 text-white">
                                 <img src="img/logo.jpg" height="40px" width="40px" class="rounded-pill"> 
-                                Bellas  <span style="color: goldenrod;">Prestige</span> 
+                                Bellas  <span style="color: goldenrod;">Prestige</span> Limited
                             </h3>
                             <div class="col-md-6">
                                     <h4 class="text-white">Kumasi Branch</h4>
@@ -59,47 +59,15 @@
                             <a href=""><i class="fas fa-angle-right me-2"></i> Cookie policy</a>
                         </div>
                     </div>
-                   <!--  <div class="col-md-6 col-lg-6 col-xl-3">
+                    <div class="col-md-6 col-lg-6 col-xl-4">
                         <div class="footer-item">
-                            <div class="row gy-3 gx-2 mb-4">
-                                <div class="col-xl-6">
-                                    <form>
-                                        <div class="form-floating">
-                                            <select class="form-select bg-dark border" id="select1">
-                                                <option value="1">Arabic</option>
-                                                <option value="2">German</option>
-                                                <option value="3">Greek</option>
-                                                <option value="3">New York</option>
-                                            </select>
-                                            <label for="select1">English</label>
-                                        </div>
-                                    </form>
-                                </div>
-                                <div class="col-xl-6">
-                                    <form>
-                                        <div class="form-floating">
-                                            <select class="form-select bg-dark border" id="select1">
-                                                <option value="1">USD</option>
-                                                <option value="2">EUR</option>
-                                                <option value="3">INR</option>
-                                                <option value="3">GBP</option>
-                                            </select>
-                                            <label for="select1">$</label>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                            <h4 class="text-white mb-3">Payments</h4>
+                            <h4 class="mb-2" style="color: goldenrod;">Working Hours</h4>
                             <div class="footer-bank-card">
-                                <a href="#" class="text-white me-2"><i class="fab fa-cc-amex fa-2x"></i></a>
-                                <a href="#" class="text-white me-2"><i class="fab fa-cc-visa fa-2x"></i></a>
-                                <a href="#" class="text-white me-2"><i class="fas fa-credit-card fa-2x"></i></a>
-                                <a href="#" class="text-white me-2"><i class="fab fa-cc-mastercard fa-2x"></i></a>
-                                <a href="#" class="text-white me-2"><i class="fab fa-cc-paypal fa-2x"></i></a>
-                                <a href="#" class="text-white"><i class="fab fa-cc-discover fa-2x"></i></a>
+                                <b class="text-white">MONDAY - FRIDAY</b> <br><span class="mt-4">9:00 AM - 6:00 PM</span><br><br>
+                                <b class="text-white">SATURDAY</b> <br><span>10:00 AM - 2:00 PM</span>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </div>
