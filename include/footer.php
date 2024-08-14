@@ -44,15 +44,15 @@
                             <a href="index.php"><i class="fas fa-angle-right me-2"></i> Home</a>
                             <a href="about.php"><i class="fas fa-angle-right me-2"></i> About</a>
                             <a href="services.php"><i class="fas fa-angle-right me-2"></i> Services</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Press</a>
-                            <a href=""><i class="fas fa-angle-right me-2"></i> Gift Cards</a>
+                            <!-- <a href=""><i class="fas fa-angle-right me-2"></i> Press</a> -->
+                            <!-- <a href=""><i class="fas fa-angle-right me-2"></i> Gift Cards</a> -->
                             <a href="contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
                         </div>
                     </div>
                     <div class="col-md-4 col-lg-4 col-xl-2">
                         <div class="footer-item d-flex flex-column">
                             <h4 class="mb-4 text-white">Support</h4>
-                            <a href="contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a>
+                            <!-- <a href="contact.php"><i class="fas fa-angle-right me-2"></i> Contact</a> -->
                             <a href=""><i class="fas fa-angle-right me-2"></i> Legal Notice</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Privacy Policy</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> T & Cs</a>
