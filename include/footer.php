@@ -10,21 +10,22 @@
                                 Bellas  <span style="color: goldenrod;">Prestige</span> Limited
                             </h3>
                             <div class="col-md-6">
-                                    <h4 class="text-white">Kumasi Branch</h4>
-                            <a href="" style="font-size: 12px;"><i class="fas fa-home me-2"></i> Bantama market, opposite the Revoli cinema</a><br>
-                            <a href="mailto:info@bellasprestige.com" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a><br>
-                            <a href="https://wa.me/233530525791" style="font-size: 12px;"><i class="bi bi-whatsapp me-2" style="font-size: 15px;"></i> (+233) 53 052 5791</a><br>
-                            <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2"></i> (+233) 27 371 3324 | (+233) 53 882 3861</a>
-                                </div>
+                                <h4 class="text-white">Kumasi Branch</h4>
+                                    <a href="" style="font-size: 12px;"><i class="fas fa-home me-2"></i> Bantama market, opposite the Revoli cinema</a><br>
+                                    <a href="mailto:info@bellasprestige.com" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a><br>
+                                    <a href="https://wa.me/233530525791" style="font-size: 12px;">
+                                        <i class="bi bi-whatsapp me-2" style="font-size: 15px;"></i> (+233) 53 052 5791</a><br>
+                                    <a href="" class="mb-3" style="font-size: 12px;"><i class="fas fa-phone me-2">
+                                    </i> (+233) 27 371 3324 | (+233) 53 882 3861</a>
+                             </div>
                             
-                          
                             <div class="col-md-6 ">
                                 <h4 class="mt- 4 text-white">Accra Branch</h4>
-                            <a href=""style="font-size: 12px;"><i class="fas fa-home me-2" ></i> Labadi Polyclinic Bus stop, opposite Marwako</a><br>
-                            <a href="mailto:info@bellasprestige.com" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a><br>
-                            <a href="https://wa.me/233202365461" style="font-size: 12px;"><i class="bi bi-whatsapp me-2" style="font-size: 15px;"></i> (+233) 20 236 5461</a><br>
-                            <a href="" style="font-size: 12px;" class="mb-3"><i class="fas fa-phone me-2"></i> (+233) 53 882 3863 | (+233) 20 236 5461</a>
-                            <!-- <a href="" style="font-size: 12px;" class=""><i class="fas fa-phone me-2"></i> </a> -->
+                                <a href=""style="font-size: 12px;"><i class="fas fa-home me-2" ></i> Labadi Polyclinic Bus stop, opposite Marwako</a><br>
+                                <a href="mailto:info@bellasprestige.com" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a><br>
+                                <a href="https://wa.me/233202365461" style="font-size: 12px;"><i class="bi bi-whatsapp me-2" style="font-size: 15px;"></i> (+233) 20 236 5461</a><br>
+                                <a href="" style="font-size: 12px;" class="mb-3"><i class="fas fa-phone me-2"></i> (+233) 53 882 3863 | (+233) 20 236 5461</a>
+                                <!-- <a href="" style="font-size: 12px;" class=""><i class="fas fa-phone me-2"></i> </a> -->
                             </div>
                             </div>
                             <div class="d-flex align-items-center">
