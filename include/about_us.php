@@ -7,7 +7,7 @@
 
             </div>
         </div>
-        <div class="col-lg-7" style="background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(img/about-img-1.png);">
+        <div class="col-lg-7" style="background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .8))">
             <h5 class="section-about-title pe-3">About Us</h5>
             <h1 class="mb-4" style="font-size: 39px;">Welcome to <span class="text-primary">Bellas Prestige Limited</span></h1>
             <p class="mb-4" align="justify">Bellas Prestige Limited is a premier agency that specializes in providing exceptional experiences to our clients. We have established ourselves as a trusted and reliable source for all your travel, homecare, education and accomodational needs.</p>
