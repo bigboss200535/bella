@@ -79,7 +79,7 @@
             <div class="h-100" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
                 
                 <img src="img/about/kumasi-1.png" class="img-fluid w-100 h-100 shadow" alt="">
-                <h3 class="section-about-title">Kumasi Branch</h3>
+                <h3 class="section-about-title"></h3>
             </div>
         </div>
         </div>

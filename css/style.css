@@ -393,7 +393,7 @@
 
 
 /*** Single Homecare Header Start ***/
-.bg-breadcrumbs {
+.bg-homecare {
     background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/homecare/homecare7.png);
     background-position: center center;
     background-repeat: no-repeat;
@@ -402,14 +402,14 @@
     padding: 150px 0 50px 0;
 }
 
-.bg-breadcrumbs .breadcrumb-item a {
+.bg-homecare .breadcrumb-item a {
     color: var(--bs-secondary) !important;
 }
 /*** Single Homecare Header End ***/
 
 /*** Single Estate Header Start ***/
 .bg-estate {
-    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/about/carousel-2.png);
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/estate/estate-2.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -421,15 +421,15 @@
     color: var(--bs-secondary) !important;
 }
 /*** Single Estate Header End ***/
-.bg-breadcrumbs .breadcrumb-item a {
+.bg-estate .breadcrumb-item a {
     color: var(--bs-secondary) !important;
 }
 /*** Single Homecare Header End ***/
 
 
 /*** Single Estate Header Start ***/
-.bg-breadcrumb {
-    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/breadcrumb-bg.jpg);
+.bg-services {
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/welcome.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -437,14 +437,14 @@
     padding: 150px 0 50px 0;
 }
 
-.bg-breadcrumb .breadcrumb-item a {
+.bg-services .breadcrumb-item a {
     color: var(--bs-secondary) !important;
 }
 /*** Single Estate Header End ***/
 
 /*** Single Estate Header Start ***/
 .bg-travel {
-    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/travel/breadcrumb-2.jpg);
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/travel/travel-back-2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
