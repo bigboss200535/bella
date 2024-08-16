@@ -5,7 +5,7 @@
                         <i class="fas fa-copyright me-2"></i><a class="text-white" href="#">Bellas Prestige</a>, All right reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-start">
-                        Designed By <a class="text-white" href="#">WebEdge Technologies Ltd</a>
+                        Designed By <a class="text-white" href="https://webedgetek.com/">WebEdge Technologies Ltd</a>
                     </div>
                 </div>
            </div>
