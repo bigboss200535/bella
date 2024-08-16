@@ -12,7 +12,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
                                         <h5 class="mb-4 text-uppercase">Travel and tour</h5>
-                                        <p class="mb-0">At Bellas Prestige Limited, we understand that planning a trip can be overwhelming and time-consuming. That's why our team of dedicated travel experts is here to assist you every step of the way.
+                                        <p class="mb-0" align="justify">At Bellas Prestige Limited, we understand that planning a trip can be overwhelming and time-consuming. That's why our team of dedicated travel experts is here to assist you every step of the way.
                                         </p>
                                     </div>
                                     <div class="service-icon p-4 shadow rounded-circle">
@@ -27,7 +27,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
                                         <h5 class="mb-4 text-uppercase">estate agency and properties</h5>
-                                        <p class="mb-0">You can acquire Estate houses, Sell and Buy lands, Rent Houses and Rooms, Sell and Buy Houses.We also quarantee you a rent loan and pay later with flexible terms.  
+                                        <p class="mb-0" align="justify">You can acquire Estate houses, Sell and Buy lands, Rent Houses and Rooms, Sell and Buy Houses.We also quarantee you a rent loan and pay later with flexible terms.  
                                         </p>
                                     </div>
                                     <div class="service-icon p-4 shadow rounded-circle">
@@ -41,11 +41,11 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
                                         <h5 class="mb-4 text-uppercase">homecare services</h5>
-                                        <p class="mb-0" style="font-size:15px;">Get professional nurses, nannies, house helps & cooks to take care of your home and love ones when you are occupied with other duties. We give the opportunity to individuals to apply for any of the jobs stated.
+                                        <p class="mb-0" style="font-size:15px;" align="justify">Get professional nurses, nannies, house helps & cooks to take care of your home and love ones when you are occupied with other duties. We give the opportunity to individuals to apply for any of the jobs stated.
                                         </p>
                                     </div>
                                     <div class="service-icon p-4 shadow rounded-circle">
-                                        <i class="fa fa-user fa-4x text-primary"></i>
+                                        <i class="fa fa-medkit fa-4x text-primary"></i>
                                     </div>
                                 </div>
                             </a>

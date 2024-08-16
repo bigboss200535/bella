@@ -23,7 +23,7 @@
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php" style="color: #fff">Home</a></li>
                     <!-- <li class="breadcrumb-item"><a href="#">Pages</a></li> -->
-                    <li class="breadcrumb-item active text-white">Travel & Tour</li>
+                    <li class="breadcrumb-item active text-white">About us</li>
                 </ol>    
             </div>
         </div>
@@ -68,10 +68,12 @@
         </div>
         <div class="row mt-3">
             <div class="col-md-6">
-                <h3 class="section-title">Our Mission</h3>
+                <h3 class="section-about-title">Our Mission</h3>
+               <p align="justify">Bellas Prestige Limited is a company that aims to provide exceptional services that meet the unique needs of its clients, ensuring their satisfaction and success.</p> 
             </div>
             <div class="col-md-6">
-                <h3 class="section-title">Our Vision</h3>
+                <h3 class="section-about-title">Our Vision</h3>
+                <p align="justify">The company values excellence, integrity, and customer satisfaction, striving to build long-term relationships with its clients.</p>
             </div>
         </div>
     </div>
