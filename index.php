@@ -64,7 +64,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#tab-4">
-                                <span class="text-dark" style="width: 150px;">Europe</span>
+                                <span class="text-dark" style="width: 150px;">London</span>
                             </a>
                         </li>
                         <li class="nav-item">
