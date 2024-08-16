@@ -67,15 +67,30 @@
             </div> -->
         </div>
         <div class="row mt-3">
-            <div class="col-md-6">
+            <div class="col-md-3">
                 <h3 class="section-about-title">Our Mission</h3>
-               <p align="justify">Bellas Prestige Limited is a company that aims to provide exceptional services that meet the unique needs of its clients, ensuring their satisfaction and success.</p> 
+               <p>Bellas Prestige Limited is a company that aims to provide exceptional services that meet the unique needs of its clients, ensuring their satisfaction and success.</p> 
             </div>
-            <div class="col-md-6">
+            <div class="col-md-3">
                 <h3 class="section-about-title">Our Vision</h3>
-                <p align="justify">The company values excellence, integrity, and customer satisfaction, striving to build long-term relationships with its clients.</p>
+                <p>The company values excellence, integrity, and customer satisfaction, striving to build long-term relationships with its clients.</p>
+            </div>
+            <div class="col-lg-5">
+            <div class="h-100" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
+                
+                <img src="img/about/kumasi-1.png" class="img-fluid w-100 h-100 shadow" alt="">
+                <h3 class="section-about-title">Kumasi Branch</h3>
             </div>
         </div>
+        </div>
+        
+        <!-- <div class="row">
+            <div class="card col-xl-6 col-md-6 shadow-lg">
+                <div class="card-header"><h3 ></h3></div>
+                <img src="" class="rounded shadow-lg" style="width: 500px;">
+                <div class="card-footer"></div>
+            </div>
+        </div> -->
     </div>
 </div>
 
