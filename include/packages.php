@@ -17,7 +17,7 @@
                         </div>
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
-                                <h5 class="mb-0">Care for you and you love ones</h5>
+                                <h5 class="mb-0">We care for you and you love ones</h5>
                                 <small class="text-uppercase">contact us Now.</small>
                                <!--  <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
