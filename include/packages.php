@@ -7,7 +7,7 @@
                 <div class="packages-carousel owl-carousel">
                     <div class="packages-item">
                         <div class="packages-img">
-                            <img src="img/travel/package-1.png" class="img-fluid w-100 rounded-top" alt="Image">
+                            <img src="img/homecare/home1.jpg" class="img-fluid w-100 rounded-top" alt="Image">
                             <div class="packages-info d-flex border border-start-0 border-end-0 position-absolute" style="width: 100%; bottom: 0; left: 0; z-index: 5;">
                                 <!-- <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt me-2"></i>Venice - Italy</small> -->
                                 <!-- <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt me-2"></i>3 days</small> -->
@@ -17,8 +17,8 @@
                         </div>
                         <div class="packages-content bg-light">
                             <div class="p-4 pb-0">
-                                <h5 class="mb-0">Nurses and Dependants Needed</h5>
-                                <small class="text-uppercase">contact us.</small>
+                                <h5 class="mb-0">Care for you and you love ones</h5>
+                                <small class="text-uppercase">contact us Now.</small>
                                <!--  <div class="mb-3">
                                     <small class="fa fa-star text-primary"></small>
                                     <small class="fa fa-star text-primary"></small>
@@ -33,7 +33,7 @@
                                     <a href="#" class="btn-hover btn text-white py-2 px-4">Read More</a>
                                 </div> -->
                                 <div class="col-6 text-start px-0">
-                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -63,7 +63,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +110,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -133,7 +133,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -156,7 +156,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -179,7 +179,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -225,7 +225,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -241,7 +241,7 @@
                             </div>
                             <div class="row bg-gold rounded-bottom mx-0">
                                 <div class="col-6 text-start px-0">
-                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Book Now</a>
+                                    <a href="https://wa.me/233530525791" class="btn-hover btn text-white py-2 px-4">Contact Us</a>
                                 </div>
                             </div>
                         </div>

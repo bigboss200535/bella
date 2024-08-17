@@ -40,7 +40,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/travel/documentprocessing-1.jpeg" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/travel/travel-back.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -67,7 +67,7 @@
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <a href="#" class="h4">Document Processing</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Hotel Reservations</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -102,7 +102,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Airline Ticketing</a><br>
                                 <!-- <p class="my-3">.....................</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -119,7 +119,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Study Abroad</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div> <div class="col-lg-4 col-md-6">
@@ -141,7 +141,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Holiday Visa</a><br>
                                 <!-- <p class="my-3">(wound care, injections, etc)</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div> 
@@ -159,7 +159,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Work Permit</a><br>
                                 <!-- <p class="my-3">.....................</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -177,7 +177,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Settlement Visa</a><br>
                                 <!-- <p class="my-3">.....................</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -195,7 +195,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Visit Visa</a><br>
                                 <!-- <p class="my-3">.....................</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -213,7 +213,7 @@
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4 mb-2">Air BnB (Short Stay)</a><br>
                                 <!-- <p class="">.....................</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill">Contact Us</a>
                             </div>
                         </div>
                     </div>

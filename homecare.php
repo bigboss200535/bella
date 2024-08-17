@@ -60,7 +60,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/homecare7.png" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/homecare.png" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -87,7 +87,7 @@
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <a href="#" class="h4">Personal Care</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -104,7 +104,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Medical Management</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/homecare7.png" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/homecare/feeding-1.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -121,7 +121,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Preparing Meal and Feeding</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -138,7 +138,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Housekeeping and laundry</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div> <div class="col-lg-4 col-md-6">
@@ -154,7 +154,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Skilled Nursing Care</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div> 
@@ -171,7 +171,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4" style="font-size: 20px;">Companionship and social support</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -188,7 +188,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Nanny Care</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -205,7 +205,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                                 <a href="#" class="h4">Cleaning</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -224,7 +224,7 @@
                                 <a href="#" class="h4">Cooking</a>
                                 <!-- <p class="my-3">.....................</p> -->
                                 <!-- <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a> --><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>

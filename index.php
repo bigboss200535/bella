@@ -387,7 +387,7 @@
                         <p class="text-black mb-1" style="color:#000000">Caregiver</p>
                     </li>
                     </ul>
-                        <a href="#" class="btn btn-light text-primary rounded-pill py-3 px-5 mt-2">Read More</a>
+                        <!-- <a href="#" class="btn btn-light text-primary rounded-pill py-3 px-5 mt-2">Read More</a> -->
                     </div>
                     <div class="col-lg-6">
                         <h1 class="text-black mb-3 text-uppercase" style="color:#000000">Apply here</h1>

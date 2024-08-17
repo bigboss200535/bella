@@ -56,7 +56,7 @@
                     </div>
                     <div class="col-lg-8">
                         <h3 class="mb-2">Send us a message</h3>
-                        <p class="mb-4">Kindly leave us a message and we will get back to you in no time. You can also reach us with our contact numbers.
+                        <p class="mb-4">Kindly leave us a message and we will get back to you in no time. You can also reach us on any of our contact numbers.
                         <form method="post" id="contact_form_submission">
                             <div class="row g-3">
                                 <div class="col-md-6">

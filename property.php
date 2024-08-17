@@ -99,7 +99,7 @@
                                         <li style="font-size:13px;"><span style="font-weight: bolder;">Industrial Sales</span>(factories, land, etc.)</li>
                                     </ul>
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                                 <a href="#" class="h4">House Construction</a>
                                 <p  align="justify" class="my-3">Our House Construction refers to the process of building a residential property, from preparing the building site to completing the final inspections with the help of our experienced team (Architects, Engineers, Contractors, Builders, Tradespeople (electricians, plumbers, carpenters, etc.)) This includes:   
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -141,7 +141,7 @@
                                         <li style="font-size:13px;"><span style="font-weight: bolder;">Industrial Letting</span> (factories, land, etc.)</li>
                                     </ul>
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div> 
@@ -159,7 +159,7 @@
                                 <a href="#" class="h4">Property Management</a>
                                 <p  style="font-size: 15px;" class="my-3">Our Property Management, refers to the oversight and administration of our clients' properties. It involves managing the day-to-day operations and maintenance of properties to ensure they remain safe, profitable, and in good condition. We also act as intermediaries between property owners and tenants, ensuring that properties are well-maintained, profitable, and meet legal requirements. 
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div> 
@@ -178,7 +178,7 @@
                                 <p  style="font-size: 13px;" class="my-2">With our Land Property Service, we specialize in  managing and facilitating transactions related to land and property. 
                                     <p style="font-size: 13px;" align="justify">We typically provide a range of services, including, Sales of Land and Marketing, Property Management, Land Acquisition and Development, Valuations and appraisals, Land use planning and consulting, property leasing and rental management, Land Surveying and Mapping, Environmental Assessments and Consulting.</p>
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Book Now</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                             </div>
                         </div>
                     </div>

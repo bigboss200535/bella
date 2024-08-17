@@ -407,6 +407,21 @@
 }
 /*** Single Homecare Header End ***/
 
+/*** Single About Header Start ***/
+.bg-about {
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/bellas.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 150px 0 50px 0;
+}
+
+.bg-about .breadcrumb-item a {
+    color: var(--bs-secondary) !important;
+}
+/*** Single About Header End ***/
+
 /*** Single Estate Header Start ***/
 .bg-estate {
     background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/estate/estate-2.png);
@@ -429,7 +444,7 @@
 
 /*** Single Estate Header Start ***/
 .bg-services {
-    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/welcome.jpg);
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/bellas.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
