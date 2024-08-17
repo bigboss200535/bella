@@ -63,7 +63,7 @@
                     <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top"  src="img/estate/estate-1.png" alt="Image">
+                                    <img class="img-fluid w-100 rounded"  src="img/estate/estate-back-3.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -81,7 +81,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/estate/property-2.png" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/estate/estate-back-2.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
