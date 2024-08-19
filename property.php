@@ -35,7 +35,7 @@
                     <h1 class="mb-4">About Our Services</h1>
                     <div class="row">
                         <div class="col-lg-6 col-md-6" align="justify">
-                        <p class="mb-2">Welcome to Bellas Prestige Estate and Properties! We are thrilled to help you find your dream home or sell your property with ease.
+                        <p class="mb-2">Welcome to Bellas Prestige Properties! We are thrilled to help you find your dream home or sell your property with ease.
                         </p>
                         <p class="mb-0">Our dedicated team of experts are committed to providing top-notch service and guidance every step of the way. Whether you are a first-time buyer, seasoned seller, or  anything in between, we have got you covered. Let us help you navigate the world of real estate with confidence and transparency. </p>
                         <div class="row">
@@ -74,7 +74,7 @@
             </div>
             </div>
             <div class="text-center">
-            <h3 class="section-title text-center mb-3">&nbsp Our Estate and Property Services &nbsp</h3>
+            <h3 class="section-title text-center mb-3">&nbsp Our Property Services &nbsp</h3>
         </div>
                 <div class="row g-4 justify-content-center">
                     <div class="col-lg-4 col-md-6">
@@ -99,7 +99,7 @@
                                         <li style="font-size:13px;"><span style="font-weight: bolder;">Industrial Sales</span>(factories, land, etc.)</li>
                                     </ul>
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                                <a href="propertysales.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">view more...</a>
                             </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/estate/property-3.png" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/estate/construction-1.png" alt="Image">
                                     <div class="blog-icon">
                                         <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
@@ -117,7 +117,7 @@
                                 <a href="#" class="h4">House Construction</a>
                                 <p  align="justify" class="my-3">Our House Construction refers to the process of building a residential property, from preparing the building site to completing the final inspections with the help of our experienced team (Architects, Engineers, Contractors, Builders, Tradespeople (electricians, plumbers, carpenters, etc.)) This includes:   
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                                <a href="house_construction.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">view more...</a>
                             </div>
                         </div>
                     </div>
@@ -125,15 +125,15 @@
                         <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/estate/property-4.png" alt="Image">
+                                    <img class="img-fluid w-100 rounded-top" src="img/estate/propertyletting.png" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="propertyletting.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                              <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <a href="#" class="h4">Property Letting</a>
-                                <p  style="font-size: 13px;" class="my-3">Our Property Letting, also known as <b>Rental</b>, refers to the process of allowing an individual or organization to use a property in exchange of regular payments, known as Rent. This can includes:
+                                <p  style="font-size: 13px;" class="my-3">Our Property Letting, also known as <b>Rental</b>, refers to the process of allowing an individual or organization to use a property in exchange of regular payments, known as Rent. This includes:
                                     <ul>
                                         <li style="font-size: 13px;"><span style="font-weight: bolder;">Residential Letting</span> (apartments, houses rooms, etc)
                                         </li>
@@ -141,7 +141,7 @@
                                         <li style="font-size:13px;"><span style="font-weight: bolder;">Industrial Letting</span> (factories, land, etc.)</li>
                                     </ul>
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                                <a href="propertyletting.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">view more...</a>
                             </div>
                         </div>
                     </div> 
@@ -151,7 +151,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/estate/property-1.png" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="propertyletting.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -159,7 +159,7 @@
                                 <a href="#" class="h4">Property Management</a>
                                 <p  style="font-size: 15px;" class="my-3">Our Property Management, refers to the oversight and administration of our clients' properties. It involves managing the day-to-day operations and maintenance of properties to ensure they remain safe, profitable, and in good condition. We also act as intermediaries between property owners and tenants, ensuring that properties are well-maintained, profitable, and meet legal requirements. 
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                                <a href="propertymanagement.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">view more...</a>
                             </div>
                         </div>
                     </div> 
@@ -169,7 +169,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/estate/land-1.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="propertymanagement.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -178,7 +178,7 @@
                                 <p  style="font-size: 13px;" class="my-2">With our Land Property Service, we specialize in  managing and facilitating transactions related to land and property. 
                                     <p style="font-size: 13px;" align="justify">We typically provide a range of services, including, Sales of Land and Marketing, Property Management, Land Acquisition and Development, Valuations and appraisals, Land use planning and consulting, property leasing and rental management, Land Surveying and Mapping, Environmental Assessments and Consulting.</p>
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">view more...</a>
                             </div>
                         </div>
                     </div>

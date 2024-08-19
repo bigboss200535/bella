@@ -441,6 +441,66 @@
 }
 /*** Single Homecare Header End ***/
 
+/*** Single Property Header Start ***/
+.bg-propertysale {
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/estate/estate-back-2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 150px 0 50px 0;
+}
+
+.bg-propertysale .breadcrumb-item a {
+    color: var(--bs-secondary) !important;
+}
+/*** Single Property Header End ***/
+
+/*** Single HouseConstruction Header Start ***/
+.bg-construction {
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/estate/construction-1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 150px 0 50px 0;
+}
+
+.bg-construction .breadcrumb-item a {
+    color: var(--bs-secondary) !important;
+}
+/*** Single HouseConstruction Header End ***/
+
+/*** Single HouseConstruction Header Start ***/
+.propertyletting {
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/estate/propertyletting.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 150px 0 50px 0;
+}
+
+.propertyletting .breadcrumb-item a {
+    color: var(--bs-secondary) !important;
+}
+/*** Single HouseConstruction Header End ***/
+
+/*** Single HouseConstruction Header Start ***/
+.propertmanagement {
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/estate/property-1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 150px 0 50px 0;
+}
+
+.propertmanagement .breadcrumb-item a {
+    color: var(--bs-secondary) !important;
+}
+/*** Single HouseConstruction Header End ***/
+
 
 /*** Single Estate Header Start ***/
 .bg-services {
