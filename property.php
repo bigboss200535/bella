@@ -20,7 +20,7 @@
                 <h3 class="text-white display-3 mb-4">Our Estate and Properties</h1>
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    <!-- <li class="breadcrumb-item"><a href="#">Pages</a></li> -->
+                    <li class="breadcrumb-item"><a href="#">Pages</a></li>
                     <li class="breadcrumb-item active text-white">Estate & Properties</li>
                 </ol>    
             </div>
@@ -169,7 +169,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/estate/land-1.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="propertymanagement.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="lands.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -178,7 +178,7 @@
                                 <p  style="font-size: 13px;" class="my-2">With our Land Property Service, we specialize in  managing and facilitating transactions related to land and property. 
                                     <p style="font-size: 13px;" align="justify">We typically provide a range of services, including, Sales of Land and Marketing, Property Management, Land Acquisition and Development, Valuations and appraisals, Land use planning and consulting, property leasing and rental management, Land Surveying and Mapping, Environmental Assessments and Consulting.</p>
                                 </p>
-                                <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">view more...</a>
+                                <a href="lands.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">view more...</a>
                             </div>
                         </div>
                     </div>

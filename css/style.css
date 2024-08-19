@@ -501,6 +501,21 @@
 }
 /*** Single HouseConstruction Header End ***/
 
+/*** Single HouseConstruction Header Start ***/
+.bg-lands {
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/estate/land-1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 150px 0 50px 0;
+}
+
+.bg-lands .breadcrumb-item a {
+    color: var(--bs-secondary) !important;
+}
+/*** Single HouseConstruction Header End ***/
+
 
 /*** Single Estate Header Start ***/
 .bg-services {
