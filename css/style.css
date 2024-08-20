@@ -547,6 +547,21 @@
 }
 /*** Single Estate Header End ***/
 
+/*** Single Estate Header Start ***/
+.bg-tuition {
+    background: linear-gradient(rgba(19, 53, 123, 0.5), rgba(19, 53, 123, 0.5)), url(../img/tuition/tuition-back.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 150px 0 50px 0;
+}
+
+.bg-tuition .breadcrumb-item a {
+    color: var(--bs-secondary) !important;
+}
+/*** Single Estate Header End ***/
+
 
 /*** About Start ***/
 .about .container .section-about-title {

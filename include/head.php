@@ -15,5 +15,5 @@
         <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
-        <link rel="icon" type="image/ico" href="img/logo.jpg">
+        <link rel="icon" type="image/ico" href="img/logo.png">
     </head>
