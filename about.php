@@ -67,18 +67,18 @@
             </div> -->
         </div>
         <div class="row mt-3">
-            <div class="col-md-3">
+            <div class="col-md-6">
                 <h3 class="section-about-title">Our Mission</h3>
                <p>Bellas Prestige Limited is a company that aims to provide exceptional services that meet the unique needs of its clients, ensuring their satisfaction and success.</p> 
             </div>
-            <div class="col-md-3">
+            <div class="col-md-6">
                 <h3 class="section-about-title">Our Vision</h3>
                 <p>The company values excellence, integrity, and customer satisfaction, striving to build long-term relationships with its clients.</p>
             </div>
-            <div class="col-lg-5">
-            <div class="h-100" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
+            <div class="col-lg-8">
+            <div class="h-80" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
                 
-                <img src="img/about/kumasi-1.png" class="img-fluid w-100 h-100 shadow" alt="">
+                <img src="img/about/kumasi-1.png" class="img-fluid w-100 h-80 shadow" alt="">
                 <h3 class="section-about-title"></h3>
             </div>
         </div>

@@ -52,7 +52,7 @@
                                 <span class="text-dark" style="width: 150px;">Kumasi</span>
                             </a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#tab-4">
                                 <span class="text-dark" style="width: 150px;">Takoradi</span>
                             </a>
@@ -66,7 +66,7 @@
                             <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#tab-6">
                                 <span class="text-dark" style="width: 150px;">Tarkwa</span>
                             </a>
-                        </li>
+                        </li> -->
                     </ul>
                     <div class="tab-content">
                         <div id="tab-1" class="tab-pane fade show p-0 active">

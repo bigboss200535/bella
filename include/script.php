@@ -28,5 +28,15 @@
                 });
             });
         });
+
+        $('#galleryModal').on('show.bs.modal', function (e) {
+       $('#galleryImage').attr("src",$(e.relatedTarget).data("large-src"));
+    }); 
+        $('#galleryModals').on('show.bs.modal', function (e) {
+       $('#galleryImages').attr("src",$(e.relatedTarget).data("large-src"));
+    }); 
+        $('#galleryModale').on('show.bs.modal', function (e) {
+       $('#galleryImagee').attr("src",$(e.relatedTarget).data("large-src"));
+    });
         </script>
  
