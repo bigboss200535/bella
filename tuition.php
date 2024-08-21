@@ -17,7 +17,7 @@
         <!-- Header Start -->
          <div class="container-fluid bg-tuition">
             <div class="container text-center py-5" style="max-width: 900px;">
-                <h3 class="text-white display-3 mb-4">Our Tuition</h1>
+                <h3 class="text-white display-3 mb-4">Our Tuition</h3>
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <!-- <li class="breadcrumb-item"><a href="#">Pages</a></li> -->
@@ -32,20 +32,28 @@
             <div class="container py-3">
                 <div class="mx-auto text-center mb-5">
                     <h5 class="section-title px-3">Our Tuition</h5>
-                    <h1 class="mb-4">Our Courses</h1>
                     <div class="row">
-                        <!-- <h4></h4> -->
-                       <!--  <div class="col-lg-6 col-md-6" align="justify">
-                        <p class="mb-2">Welcome to Bellas Prestige Properties! We are thrilled to help you find your dream home or sell your property with ease.
+                        <h4></h4>
+                        <div class="col-lg-6 col-md-6" align="justify">
+                        <p class="mb-2">Welcome to Bellas Prestige Tuition! We are thrilled to help you pass your IELTS, OET, GMAT, PTE, GRE, LIFE SKILLS.
                         </p>
-                        <p class="mb-0">Our dedicated team of experts are committed to providing top-notch service and guidance every step of the way. Whether you are a first-time buyer, seasoned seller, or  anything in between, we have got you covered. Let us help you navigate the world of real estate with confidence and transparency. </p>
+                        <p class="mb-0">Our dedicated team of experts are committed to providing top-notch service and guidance every step of the way. We have a well trained teachers, who are readily available to teach any student who is ready to sit for any of the examination to pass and to come out with flying colours. We have also partnered with special organisations to help, support, train and teach our students who are ready to sit for their examinations. </p>
+                        <!-- <h6>Contact us through our email, and our expert team will guide you in all the prerequisites.</h6> -->
                         <div class="row">
                         <div class="col-lg-12 col-md-6 mt-3">
-                            <h5 class=" px-3" style="color: goldenrod; text-decoration: underline;">VISION</h5>
-                            <p class="mb-0">At Bellas Prestige Estate Agency and Properties, our vision, is to provide exceptional services, built on a foundation of trust, integrity and expertise. We aim to enrich lives by finding dream homes, creating unforgettable experiences, fostering long-lasting relationships and making life easy for our clients.</p>
+                            <h5 class="px-3" style="color: goldenrod; text-decoration: underline;">OUR SPONSORS</h5>
+                            <div class="blog-img-inner row">
+                                    <img class="img-fluid w-50 rounded"  src="img/tuition/ielts-1.jpg" alt="Image">
+                                    <img class="img-fluid w-50 rounded"  src="img/tuition/british.png" alt="Image">
+                                    <img class="img-fluid w-50 rounded"  src="img/tuition/idp.png" alt="Image">
+                                    <img class="img-fluid w-50 rounded"  src="img/tuition/cambridge.png" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
                         </div>
 
-                        <div class="col-lg-12 col-md-6 mt-3">
+                        <!-- <div class="col-lg-12 col-md-6 mt-3">
                             <h5 class="px-3" style="color: goldenrod; text-decoration: underline;">MISSION</h5>
                             <p class="mb-0">Our mission, is to deliver an outstanding property services with passion, professionalism, and a personal touch. We strive to: 
                                 <ul>
@@ -56,92 +64,86 @@
                                     <li>make every property transaction, a seamless and successful experience.</li>
                                 </ul>
                             </p>
-                        </div>
+                        </div> -->
                     </div>
-                </div> -->
+                </div> 
 
-                <!-- <div class="col-lg-6 col-md-6">
+               <div class="col-lg-6 col-md-6">
                     <div class="blog-item">
                             <div class="blog-img">
                                 <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded"  src="img/estate/estate-back-3.jpg" alt="Image">
+                                    <img class="img-fluid w-100 rounded"  src="img/tuition/ielts-back.jpg" alt="Image">
                                     <div class="blog-icon">
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                </div> -->
+                </div> 
             </div>
             </div>
             <div class="text-center">
-            <h3 class="section-title text-center mb-3">&nbsp Study with us, both online and in classroom &nbsp</h3>
+            <h3 class="section-title text-center mb-3">&nbsp Our Courses &nbsp</h3>
 
         </div>
         <div class="row g-4 justify-content-center">
-            <div class="col-lg-5 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="blog-item">
                     <div class="blog-img">
                         <div class="blog-img-inner">
                             <img class="img-fluid w-100 rounded-top" src="img/tuition/ielts.jpg" alt="Image">
                             <div class="blog-icon">
-                                <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                <a href="mailto:info@bellasprestige.com" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                             </div>
                         </div>
                         <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">                                 
                         </div>
                     </div>
                     <div class="blog-content border border-top-0 rounded-bottom p-4">
-                        <a href="#" class="h4">IELTS TUITION</a>
-                        <p align="justify" class="my-3">IELTS scores assess an individual's ability to communicate in English effectively. IELTS facilitates international mobility and communication across diverse contexts especially for any individual who wishes to study abroad. The IELTS test assesses <span style="font-weight: bolder;">Listening, Reading, Writing, and Speaking</span>
+                        <a href="mailto:info@bellasprestige.com" class="h4">IELTS TUITION</a>
+                        <p align="justify" class="my-3" style="font-size:14px;">IELTS scores assess an individual's ability to communicate in English effectively. IELTS facilitates international mobility and communication across diverse contexts especially for any individual who wishes to study abroad. The IELTS test assesses <span style="font-weight: bolder;">Listening, Reading, Writing, and Speaking</span>
                         </p>
-                        <a href="propertysales.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">Register now</a>
+                        <a href="mailto:info@bellasprestige.com" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize"><i class="fa fa-envelope" style="font-size: 15px;"></i>  contact us </a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-5 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="blog-item">
                     <div class="blog-img">
                         <div class="blog-img-inner">
                             <img class="img-fluid w-100 rounded-top" src="img/tuition/oet.png" alt="Image">
                             <div class="blog-icon">
-                                <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                <a href="mailto:info@bellasprestige.com" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="blog-content border border-top-0 rounded-bottom p-4">
-                        <a href="#" class="h4">OET TUITION</a>
-                        <p  align="justify" class="my-3">OET is the global leader in English language testing for healthcare workers who wish to continue their study in abroad. The OET Test, unlike other general or academic English tests, has been developed specifically for healthcare professions to test all four language skills: <span style="font-weight: bolder;">reading, writing, listening and speaking.</span>
+                        <a href="mailto:info@bellasprestige.com" class="h4">OET TUITION</a>
+                        <p  align="justify" class="my-3" style="font-size: 14.8px;">OET is the global leader in English language testing for healthcare workers who wish to continue their study in abroad. The OET Test, unlike other general or academic English tests, has been developed specifically for healthcare professions to test all four language skills: <span style="font-weight: bolder;">reading, writing, listening and speaking.</span>
                         </p>
-                        <a href="house_construction.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">register now</a>
+                        <a href="mailto:info@bellasprestige.com" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize"><i class="fa fa-envelope" style="font-size: 15px;"></i>  contact us </a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-5 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="blog-item">
                     <div class="blog-img">
                         <div class="blog-img-inner">
-                            <img class="img-fluid w-100 rounded-top" src="img/tuition/gmat-1.png" alt="Image">
+                            <img class="img-fluid w-100 rounded-top" src="img/tuition/gmat-2.jpg" alt="Image">
                             <div class="blog-icon">
-                                <a href="propertyletting.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                <a href="mailto:info@bellasprestige.com" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                             </div>
                         </div>
                     </div>
                      <div class="blog-content border border-top-0 rounded-bottom p-4">
-                        <a href="#" class="h4">GMAT Tuition</a>
-                        <p  style="font-size: 13px;" class="my-3">Our Property Letting, also known as <b>Rental</b>, refers to the process of allowing an individual or organization to use a property in exchange of regular payments, known as Rent. This includes:
-                            <ul>
-                                <li style="font-size: 13px;"><span style="font-weight: bolder;">Residential Letting</span> (apartments, houses rooms, etc)
-                                </li>
-                                <li style="font-size: 13px;"><span style="font-weight: bolder;">Commercial Letting</span> (offices, retail spaces, warehouses, etc.)</li>
-                                <li style="font-size:13px;"><span style="font-weight: bolder;">Industrial Letting</span> (factories, land, etc.)</li>
-                            </ul>
+                        <a href="mailto:info@bellasprestige.com" class="h4">GMAT Tuition</a>
+                        <p align="justify" style="font-size:14px;" class="my-3">The GMAT exam is the premier business school admission test used to help thousands of graduate business programs make critical admissions decisions. The GMAT helps you prove your commitment to and eligibility for the MBA or business master’s degree you're applying to by demonstrating your problem-solving abilities and critical reasoning skills.
                         </p>
-                        <a href="propertyletting.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">register now</a>
+                        <a href="mailto:info@bellasprestige.com" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize"><i class="fa fa-envelope" style="font-size: 15px;"></i>  contact us </a>
                     </div>
                 </div>
             </div> 
-            <div class="col-lg-4 col-md-6">
+            <!-- <div class="col-lg-5 col-md-6">
                 <div class="blog-item">
                     <div class="blog-img">
                         <div class="blog-img-inner">
@@ -158,8 +160,8 @@
                         <a href="propertymanagement.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">view more...</a>
                     </div>
                 </div>
-            </div> 
-            <div class="col-lg-4 col-md-6">
+            </div> --> 
+            <!-- <div class="col-lg-4 col-md-6">
                 <div class="blog-item">
                     <div class="blog-img">
                         <div class="blog-img-inner">
@@ -177,7 +179,7 @@
                         <a href="lands.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">view more...</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
            <!--  -->
         </div>
             </div>
@@ -185,7 +187,7 @@
         <!-- Blog End -->
 
         <!-- Subscribe Start -->
-        <div class="container-fluid subscribe-estate py-5">
+        <div class="container-fluid subscribe-tuition py-5">
             <div class="container text-center py-5">
                 <div class="mx-auto text-center" style="max-width: 900px;">
                     <h5 class="subscribe-title px-3">Subscribe</h5>

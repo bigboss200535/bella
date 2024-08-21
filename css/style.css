@@ -1356,6 +1356,15 @@
     background-size: cover;
 }
 /**Subscribe for Homecare ends**/
+/*** Subscribe Start ***/
+.subscribe-tuition {
+    background: linear-gradient(rgba(19, 53, 123, .6), rgba(19, 53, 123, .6)), url(../img/tuition/gmat.png);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/**Subscribe for Homecare ends**/
 
 .aboutsubscribe {
     background: linear-gradient(rgba(19, 53, 123, .6), rgba(19, 53, 123, .6)), url(../img/wallpaper.jpg);
