@@ -29,7 +29,7 @@
                     </li>
                     <!-- <li class="nav-item">
                         <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#GalleryTab-5">
-                            <span class="text-dark" style="width: 150px;">Sport Tour</span>
+                            <span class="text-dark" style="width: 150px;">IETLS / OET Tuition</span>
                         </a>
                     </li> -->
                 </ul>

@@ -7,7 +7,7 @@
                 <div class="row g-4">
                     <div class="col-lg-12">
                         <div class="row g-4">
-                            <div class="col-xl-4 col-md-12">
+                            <div class="col-xl-5 col-md-12">
                                 <a href="travel.php">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
@@ -22,7 +22,7 @@
                             </a>
                             </div>
                            
-                            <div class="col-xl-4 col-md-12">
+                            <div class="col-xl-5 col-md-12">
                                 <a href="property.php">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
@@ -36,7 +36,7 @@
                                 </div>
                             </a>
                             </div>
-                            <div class="col-xl-4 col-md-12">
+                            <div class="col-xl-5 col-md-12">
                                 <a href="homecare.php">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
@@ -50,18 +50,19 @@
                                 </div>
                             </a>
                             </div>
-                           <!--  <div class="col-12">
+                            <div class="col-xl-5 col-md-12">
+                                <a href="tuition.php">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
-                                    <div class="service-content text-end">
-                                        <h5 class="mb-4">Apply for a job.</h5>
-                                        <p class="mb-0" align="justify">We put the interest of the individuals who are seeking for a job offer, to apply as a Caregiver, Nanny, Domestic Assistant, A Cook, Househelp, etc.
+                                    <div class="service-content text-start">
+                                        <h5 class="mb-4 text-uppercase">IELTS/OET/PTE/GRE/GMAT Tuition</h5>
+                                        <p class="mb-0" align="justify">Join our preparatory classes today and let our experts prepare you to ace your examination.
                                         </p>
                                     </div>
                                     <div class="service-icon p-4 shadow rounded-circle">
-                                        <i class="fa fa-users fa-4x text-primary"></i>
+                                        <i class="fa fa-university fa-4x text-primary"></i>
                                     </div>
-                                </div>
-                            </div> -->
+                                </div></a>
+                            </div>
                         </div>
                     </div>
                     <!-- <div class="col-lg-6"> -->
