@@ -20,7 +20,7 @@
                 <h3 class="text-white display-3 mb-4">Our Properties</h1>
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                    <!-- <li class="breadcrumb-item"><a href="#">Pages</a></li> -->
                     <li class="breadcrumb-item active text-white">Properties</li>
                 </ol>    
             </div>
@@ -115,7 +115,7 @@
                             </div>
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <a href="#" class="h4">House Construction</a>
-                                <p  align="justify" class="my-3">Our House Construction refers to the process of building a residential property, from preparing the building site to completing the final inspections with the help of our experienced team (Architects, Engineers, Contractors, Builders, Tradespeople (electricians, plumbers, carpenters, etc.)) This includes:   
+                                <p  align="justify" class="my-3">Our House Construction refers to the process of building a residential property, from preparing the building site to completing the final inspections with the help of our experienced team (Architects, Engineers, Contractors, Builders, Tradespeople (electricians, plumbers, carpenters, etc.))   
                                 </p>
                                 <a href="house_construction.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize">view more...</a>
                             </div>

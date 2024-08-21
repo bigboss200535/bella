@@ -32,6 +32,7 @@
             <div class="container py-5">
                 <div class="mx-auto text-center mb-5" style="max-width: 900px;">
                     <h5 class="section-title px-3">Our Construction Houses</h5>
+                    <p>Our House Construction refers to the process of building a residential property, from preparing the building site to completing the final inspections with the help of our experienced team (Architects, Engineers, Contractors, Builders, Tradespeople (electricians, plumbers, carpenters, etc.))</p>
                     <h1 class="mb-0">Popular Locations</h1>
                 </div>
                 <div class="tab-class text-center">
