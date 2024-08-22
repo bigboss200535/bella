@@ -10,12 +10,13 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0">
-                        <a href="index.php" class="nav-item nav-link">Home</a>
-                        <a href="about.php" class="nav-item nav-link">About</a>
-                        <a href="services.php" class="nav-item nav-link">Services</a>
-                        <a href="contact.php" class="nav-item nav-link">Contact</a>
+                        <a href="index.php" class="nav-item nav-link" style="font-size: 14px;">Home</a>
+                        <a href="about.php" class="nav-item nav-link" style="font-size: 14px;">About</a>
+                        <a href="services.php" class="nav-item nav-link" style="font-size: 14px;">Services</a>
+                        <a href="contact.php" class="nav-item nav-link" style="font-size: 14px;">Contact</a>
+                        <a href="jobapplication.php" class="nav-item nav-link" style="font-size: 14px;">Apply for a job</a>
                         <div class="nav-item dropdown">
-                            <a href="#" id="navLinks" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Explore</a>
+                            <a href="#" id="navLinks" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"  style="font-size: 14px;">Explore</a>
                             <div class="dropdown-menu m-0">
                                 <a href="travel.php" class="dropdown-item">Travel Consult Services</a>
                                 <a href="homecare.php" class="dropdown-item">Homecare Services</a>

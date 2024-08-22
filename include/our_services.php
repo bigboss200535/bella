@@ -63,6 +63,19 @@
                                     </div>
                                 </div></a>
                             </div>
+                            <div class="col-xl-10 col-md-12">
+                                <a href="jobapplication.php">
+                                <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
+                                    <div class="service-content text-start">
+                                        <h5 class="mb-4 text-uppercase">Do you wish to apply for a job?</h5>
+                                        <p class="mb-0" align="justify">At Bellas Prestige Limited, we offer any individual seeking to apply for a job in our various job offers. These offers include: Nanny, Cook, Cleaner, HouseHelp, Domestic Assistants, Caregiver, Commercial Cleaning, House Keeping
+                                        </p>
+                                    </div>
+                                    <div class="service-icon p-4 shadow rounded-circle">
+                                        <i class="fa fa-users fa-4x text-primary"></i>
+                                    </div>
+                                </div></a>
+                            </div>
                         </div>
                     </div>
                     <!-- <div class="col-lg-6"> -->

@@ -11,12 +11,13 @@
         <img src="img/home/travel-air.jpg" class="img-fluid" alt="Image">
         <div class="carousel-caption">
             <div class="p-3" style="max-width: 900px;">
-                <h4 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore The World</h4>
+                <!-- <h5 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Explore The World</h5> -->
                 <h1 class="display-2 text-capitalize text-white mb-4">Experience luxury travel with Bellas Prestige</h1>
                 <p class="mb-5 fs-5">At Bellas Prestige Limited, we understand that planning a trip can be overwhelming and time-consuming. That's why our team of dedicated travel experts is here to assist you every step of the way.
                 </p>
                 <div class="d-flex align-items-center justify-content-center">
-                    <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="travel.php">Discover Now...</a>
+                    <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5 m-3" href="travel.php">Discover Now...</a>
+                    <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5 m-3" href="contact.php">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -31,6 +32,7 @@
             </p>
             <div class="d-flex align-items-center justify-content-center">
                 <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="homecare.php">Discover Now...</a>
+                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5 m-3" href="contact.php">Contact Us</a>
             </div>
         </div>
     </div>
@@ -45,6 +47,7 @@
             </p>
             <div class="d-flex align-items-center justify-content-center">
                 <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="property.php">Discover Now...</a>
+                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5 m-3" href="contact.php">Contact Us</a>
             </div>
         </div>
     </div>
@@ -59,6 +62,7 @@
             </p>
             <div class="d-flex align-items-center justify-content-center">
                 <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5" href="tuition.php">Discover Now...</a>
+                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-3 px-5 m-3" href="contact.php">Contact Us</a>
             </div>
         </div>
     </div>
