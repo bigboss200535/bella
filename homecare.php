@@ -81,7 +81,7 @@
                             <div class="blog-img-inner">
                                 <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare-2.jpg" alt="Image">
                                 <div class="blog-icon">
-                                    <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
                     <div class="blog-img-inner">
                         <img class="img-fluid w-100 rounded-top" src="img/homecare/nanny.jpg" alt="Image">
                         <div class="blog-icon">
-                            <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                            <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                         </div>
                     </div>
                 </div>
@@ -117,7 +117,7 @@
                                 <li style="font-size: 14px;">Child Medical Management Support</li>
                                 <li style="font-size: 14px;">House Cleaning Support</li>
                             </ul>
-                    <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -127,7 +127,7 @@
                     <div class="blog-img-inner">
                         <img class="img-fluid w-100 rounded-top" src="img/homecare/laundry.jpg" alt="Image">
                         <div class="blog-icon">
-                            <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                            <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                         </div>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
                                 <li style="font-size: 14px;">Child Medical Management Support</li>
                                 <li style="font-size: 14px;">House Cleaning Support</li>
                             </ul>
-                    <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -150,7 +150,7 @@
                     <div class="blog-img-inner">
                         <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning.jpg" alt="Image">
                         <div class="blog-icon">
-                            <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                            <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                         </div>
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                                 <li style="font-size: 14px;">Child Medical Management Support</li>
                                 <li style="font-size: 14px;">House Cleaning Support</li>
                             </ul>
-                    <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                 </div>
             </div>
         </div> <div class="col-lg-4 col-md-6">
@@ -172,7 +172,7 @@
                     <div class="blog-img-inner">
                         <img class="img-fluid w-100 rounded-top" src="img/homecare/cooking.jpg" alt="Image">
                         <div class="blog-icon">
-                            <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                            <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                         </div>
                     </div>
                 </div>
@@ -184,7 +184,7 @@
                                 <li style="font-size: 14px;">Child Medical Management Support</li>
                                 <li style="font-size: 14px;">House Cleaning Support</li>
                             </ul>
-                    <a href="https://wa.me/233530525791" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
                 </div>
             </div>
         </div> 

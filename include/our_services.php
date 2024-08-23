@@ -7,7 +7,7 @@
                 <div class="row g-4">
                     <div class="col-lg-12">
                         <div class="row g-4">
-                            <div class="col-xl-5 col-md-12">
+                            <div class="col-xl-4 col-md-12">
                                 <a href="travel.php">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
@@ -22,7 +22,7 @@
                             </a>
                             </div>
                            
-                            <div class="col-xl-5 col-md-12">
+                            <div class="col-xl-4 col-md-12">
                                 <a href="property.php">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
@@ -36,7 +36,7 @@
                                 </div>
                             </a>
                             </div>
-                            <div class="col-xl-5 col-md-12">
+                            <div class="col-xl-4 col-md-12">
                                 <a href="homecare.php">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
@@ -50,7 +50,7 @@
                                 </div>
                             </a>
                             </div>
-                            <div class="col-xl-5 col-md-12">
+                            <div class="col-xl-4 col-md-12">
                                 <a href="tuition.php">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
@@ -63,7 +63,7 @@
                                     </div>
                                 </div></a>
                             </div>
-                            <div class="col-xl-10 col-md-12">
+                            <div class="col-xl-6 col-md-12">
                                 <a href="jobapplication.php">
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
