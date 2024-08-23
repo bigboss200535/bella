@@ -22,11 +22,11 @@ $response = array(
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $name = $_POST['name'];
     $email = $_POST['email'];
-    $subject = $_POST['subject'];
+    $services = $_POST['services'];
     $message = $_POST['message'];
     $telephone = $_POST['telephone'];
 
-    if (empty($name) || empty($email) || empty($subject) || empty($message)) {
+    if (empty($name) || empty($email) || empty($services) || empty($message)) {
         $response['status'] = 'error';
         $response['message'] = 'All fields are required.';
     } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -34,9 +34,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $response['message'] = 'Invalid email format.';
     } else {
                 // Database insertion code (commented out)
-                // $query = $dbh->prepare("INSERT INTO contacts (name, email, message, subject, telephone) 
-                // VALUES (:name, :email, :message, :subject, :telephone)");
-                // $query->execute(['name'=>$name,'email'=>$email,'message'=>$message,'subject'=>$subject, 'telephone'=>$telephone]);
+                // $query = $dbh->prepare("INSERT INTO contacts (name, email, message, services, telephone) 
+                // VALUES (:name, :email, :message, :services, :telephone)");
+                // $query->execute(['name'=>$name,'email'=>$email,'message'=>$message,'services'=>$services, 'telephone'=>$telephone]);
 
                 // Configure PHPMailer
                 $mail = new PHPMailer(true);
@@ -56,7 +56,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
                     // Content
                     $mail->isHTML(true);
-                    $mail->Subject = $subject;
+                    $mail->services = $services;
                     $mail->Body    = nl2br($message.". My Details are telephone:".$telephone);
                     $mail->AltBody = strip_tags($message);
 

@@ -68,7 +68,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-start">
                                         <h5 class="mb-4 text-uppercase">Do you wish to apply for a job?</h5>
-                                        <p class="mb-0" align="justify">At Bellas Prestige Limited, we offer any individual seeking to apply for a job in our various job offers. These offers include: Nanny, Cook, Cleaner, HouseHelp, Domestic Assistants, Caregiver, Commercial Cleaning, House Keeping
+                                        <p class="mb-0" align="justify">At Bellas Prestige Limited, we offer any individual seeking to apply for a job in our various job offers. These offers include: Nanny Care, Cook/Chef, Domestic/Commercial Cleaner, Domestic/HouseHelp, Caregiver.
                                         </p>
                                     </div>
                                     <div class="service-icon p-4 shadow rounded-circle">

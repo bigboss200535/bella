@@ -93,17 +93,17 @@
                         <div class="blog-img-inner">
                             <img class="img-fluid w-100 rounded-top" src="img/tuition/ielts.jpg" alt="Image">
                             <div class="blog-icon">
-                                <a href="mailto:info@bellasprestige.com" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                             </div>
                         </div>
                         <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">                                 
                         </div>
                     </div>
                     <div class="blog-content border border-top-0 rounded-bottom p-4">
-                        <a href="mailto:info@bellasprestige.com" class="h4">IELTS TUITION</a>
+                        <a href="contact.php" class="h4">IELTS TUITION</a>
                         <p align="justify" class="my-3" style="font-size:14px;">IELTS scores assess an individual's ability to communicate in English effectively. IELTS facilitates international mobility and communication across diverse contexts especially for any individual who wishes to study abroad. The IELTS test assesses <span style="font-weight: bolder;">Listening, Reading, Writing, and Speaking</span>
                         </p>
-                        <a href="mailto:info@bellasprestige.com" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize"><i class="fa fa-envelope" style="font-size: 15px;"></i>  contact us </a>
+                        <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize"><i class="fa fa-envelope" style="font-size: 15px;"></i>  contact us </a>
                     </div>
                 </div>
             </div>
@@ -113,15 +113,15 @@
                         <div class="blog-img-inner">
                             <img class="img-fluid w-100 rounded-top" src="img/tuition/oet.png" alt="Image">
                             <div class="blog-icon">
-                                <a href="mailto:info@bellasprestige.com" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="blog-content border border-top-0 rounded-bottom p-4">
-                        <a href="mailto:info@bellasprestige.com" class="h4">OET TUITION</a>
+                        <a href="contact.php" class="h4">OET TUITION</a>
                         <p  align="justify" class="my-3" style="font-size: 14.8px;">OET is the global leader in English language testing for healthcare workers who wish to continue their study in abroad. The OET Test, unlike other general or academic English tests, has been developed specifically for healthcare professions to test all four language skills: <span style="font-weight: bolder;">reading, writing, listening and speaking.</span>
                         </p>
-                        <a href="mailto:info@bellasprestige.com" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize"><i class="fa fa-envelope" style="font-size: 15px;"></i>  contact us </a>
+                        <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize"><i class="fa fa-envelope" style="font-size: 15px;"></i>  contact us </a>
                     </div>
                 </div>
             </div>
@@ -131,15 +131,15 @@
                         <div class="blog-img-inner">
                             <img class="img-fluid w-100 rounded-top" src="img/tuition/gmat-2.jpg" alt="Image">
                             <div class="blog-icon">
-                                <a href="mailto:info@bellasprestige.com" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                             </div>
                         </div>
                     </div>
                      <div class="blog-content border border-top-0 rounded-bottom p-4">
-                        <a href="mailto:info@bellasprestige.com" class="h4">GMAT Tuition</a>
+                        <a href="contact.php" class="h4">GMAT TUITION</a>
                         <p align="justify" style="font-size:14px;" class="my-3">The GMAT exam is the premier business school admission test used to help thousands of graduate business programs make critical admissions decisions. The GMAT helps you prove your commitment to and eligibility for the MBA or business master’s degree you're applying to by demonstrating your problem-solving abilities and critical reasoning skills.
                         </p>
-                        <a href="mailto:info@bellasprestige.com" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize"><i class="fa fa-envelope" style="font-size: 15px;"></i>  contact us </a>
+                        <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 text-capitalize"><i class="fa fa-envelope" style="font-size: 15px;"></i>  contact us </a>
                     </div>
                 </div>
             </div> 

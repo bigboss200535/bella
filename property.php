@@ -65,7 +65,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded"  src="img/estate/estate-back-3.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto text-white">Contact Us</a>
                                     </div>
                                 </div>
                             </div>
@@ -83,7 +83,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/estate/estate-back-2.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto text-white">Contact Us</a>
                                     </div>
                                 </div>
                                 <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">                                 
@@ -109,7 +109,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/estate/construction-1.png" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto text-white">Contact Us</a>
                                     </div>
                                 </div>
                             </div>
@@ -127,7 +127,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/estate/propertyletting.png" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="propertyletting.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                       <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto text-white">Contact Us</a>
                                     </div>
                                 </div>
                             </div>
@@ -151,7 +151,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/estate/property-1.png" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="propertyletting.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto text-white">Contact Us</a>
                                     </div>
                                 </div>
                             </div>
@@ -169,7 +169,7 @@
                                 <div class="blog-img-inner">
                                     <img class="img-fluid w-100 rounded-top" src="img/estate/land-1.jpg" alt="Image">
                                     <div class="blog-icon">
-                                        <a href="lands.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                        <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto text-white">Contact Us</a>
                                     </div>
                                 </div>
                             </div>
