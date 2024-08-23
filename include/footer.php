@@ -24,7 +24,7 @@
                                 <a href=""style="font-size: 12px;"><i class="fas fa-home me-2" ></i> Labadi Polyclinic Bus stop, opposite Marwako</a><br>
                                 <a href="mailto:info@bellasprestige.com" style="font-size: 12px;"><i class="fas fa-envelope me-2"></i> info@bellasprestige.com</a><br>
                                 <a href="https://wa.me/233202365461" style="font-size: 12px;"><i class="bi bi-whatsapp me-2" style="font-size: 15px;"></i> (+233) 20 236 5461</a><br>
-                                <a href="" style="font-size: 12px;" class="mb-3"><i class="fas fa-phone me-2"></i> (+233) 53 882 3863 | (+233) 20 236 5461</a>
+                                <a href="" style="font-size: 12px;" class="mb-3"><i class="fas fa-phone me-2"></i> (+233) 53 882 3863 | (+233) 27 369 7441</a>
                                 <!-- <a href="" style="font-size: 12px;" class=""><i class="fas fa-phone me-2"></i> </a> -->
                             </div>
                             </div>

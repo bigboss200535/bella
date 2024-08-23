@@ -39,18 +39,24 @@
                                 <i class="fa fa-map-marker-alt fa-3x text-primary"></i>
                                 <h4 class="text-primary"><Address>Kumasi Branch</Address></h4>
                                 <p class="mb-0" style="color:#000000">Bantama market, opposite the Revoli cinema, Ghana</p>
-                                <p class="mb-0"><b>Contact:</b> <br>(+233) 53 052 5791 / (+233) 27 371 3324 <br>(+233) 53 882 3861</p>
+                                <p class="mb-0"><b>Contact:</b> <br>
+                                   <a href="https://wa.me/233530525791"><i class="bi bi-whatsapp me-2" style="font-size: 15px;"></i>(+233) 53 052 5791</a>  <br> 
+                                    <i class="fa fa-phone me-2" style="font-size: 15px;"></i>(+233) 27 371 3324 <br>
+                                    <i class="fa fa-phone me-2" style="font-size: 15px;"></i>(+233) 53 882 3861</p>
                             </div>
                             <div class="text-center mb-4">
                                 <i class="fa fa-map-marker-alt fa-3x text-primary"></i>
                                 <h4 class="text-primary"><Address>Accra Branch</Address></h4>
                                 <p class="mb-0" style="color:#000000">Labadi Polyclinic Bus stop, opposite Marwako, Ghana</p>
-                                <p class="mb-0"><b>Contact: </b><br>(+233) 20 236 5461 / (+233) 53 882 3863 <br>(+233) 20 236 5461</p>
+                                <p class="mb-0"><b>Contact: </b><br>
+                                    <a href="https://wa.me/233202365461"><i class="bi bi-whatsapp me-2" style="font-size: 15px;"></i>(+233) 20 236 5461</a> <br> 
+                                    <i class="fa fa-phone me-2" style="font-size: 15px;"></i>(+233) 53 882 3863 <br>
+                                    <i class="fa fa-phone me-2" style="font-size: 15px;"></i>(+233) 27 369 7441</p>
                             </div>
                             <div class="text-center">
                                 <i class="fa fa-envelope-open fa-3x text-primary mb-3"></i>
                                 <h4 class="text-primary">Email</h4>
-                                <p class="mb-0" style="color:#000000">info@bellasprestige.com</p>
+                                <a href="mailto:info@bellasprestige.com"><p class="mb-0">info@bellasprestige.com</p></a>
                             </div>
                         </div>
                     </div>
@@ -79,8 +85,37 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control border-0" id="subject" maxlength="150" name="subject" placeholder="Your Email" autocomplete="off">
-                                        <label for="subject">Subject</label>
+                                        <!-- <input type="text" class="form-control border-0" id="subject" maxlength="150" name="subject" placeholder="Your Email" autocomplete="off"> -->
+                                        <select class="form-select border-0" id="service" name="services">
+                                            <option selected disabled>-select-</option>
+                                            <option value="Domestic/House Help">Domestic/House Help</option>
+                                            <option value="Domestic/Commercial Cleaner">Domestic/Commercial Cleaner</option>
+                                            <option value="Caregiver">Care Giver</option>
+                                            <option value="Nanny Care">Nanny Care</option>
+                                            <option value="Cook/Chef">Cook/Chef</option>
+                                            <option value="IELTS Tuition">IELTS Tuition</option>
+                                            <option value="OET Tuition">OET Tuition</option>
+                                            <option value="GMAT Tuition">GMAT Tuition</option>
+                                            <option value="GRE Tuition">GRE Tuition</option>
+                                            <option value="LIFE SKILLS Tuition">LIFE SKILLS Tuition</option>
+                                            <option value="PTE Tuition">PTE Tuition</option>
+                                            <option value="PTE Tuition">PTE Tuition</option>
+                                            <option value="Document Processing">Document Processing</option>
+                                            <option value="Hotel Reservations">Hotel Reservations</option>
+                                            <option value="Airline Ticketing">Airline Ticketing</option>
+                                            <option value="Study Abroad">Study Abroad</option>
+                                            <option value="Holiday Visa">Holiday Visa</option>
+                                            <option value="Work Permit">Work Permit</option>
+                                            <option value="Settlement Visa">Settlement Visa</option>
+                                            <option value="Visit Visa">Visit Visa</option>
+                                            <option value="AirBnB">AirBnB (Short Stay)</option>
+                                            <option value="Property Sale">Property Sale</option>
+                                            <option value="House Construction">House Construction</option>
+                                            <option value="Property Letting">Property Letting</option>
+                                            <option value="Property Management">Property Management</option>
+                                            <option value="Lands">Lands</option>
+                                        </select>
+                                        <label for="subject">Select Service</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
