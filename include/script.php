@@ -38,5 +38,12 @@
         $('#galleryModale').on('show.bs.modal', function (e) {
        $('#galleryImagee').attr("src",$(e.relatedTarget).data("large-src"));
     });
+       
+        $('#caregiverModal').on('show.bs.modal', function (e) {
+       $('#careImage').attr("src",$(e.relatedTarget).data("large-src"));
+    }); $('#nannyModal').on('show.bs.modal', function (e) {
+       $('#nannyImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+       
         </script>
  

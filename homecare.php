@@ -81,46 +81,141 @@
                             <div class="blog-img-inner">
                                 <img class="img-fluid w-100 rounded-top" src="img/homecare/personalcare-2.jpg" alt="Image">
                                 <div class="blog-icon">
-                                    <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    <a href="#caregiverModal" data-bs-toggle="modal" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="blog-content border border-top-0 rounded-bottom p-4">
-                            <a href="#" class="h4">Care Giver Service</a><br>
-                            We provide;
+                            <a href="#" class="h4 mb-3">Care Giver Service</a>
+
+                            
+                            <div class="row bg-primary rounded-bottom mt-5">
+                            <div class="col-6 text-start px-0">
+                            <a href="#caregiverModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded py-2 px-4">View More...</a>
+                        </div>
+                        <div class="col-6 text-end px-0">
+                            <a href="contact.php" class="btn btn-sm btn-primary rounded py-2 px-4">Contact Us</a>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <!-- Start Modal for Caregiver services -->
+                <div id="caregiverModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">CARE GIVER SERVICES</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                    <div class="col-md-5" style="font-size: 14px;">
+                                        <img src="img/homecare/personalcare-2.jpg" style="width: 100%; " id="careImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                        <ul>
+                                            <li class="mb-2"><b >Companionship Support:</b><br>Social Interaction and Emotional Support</li>
+                                            <li class="mb-2"><b >Specialized Care Support:</b><br>Guidance for specific medical conditions, such as dementia or diabetes</li>
+                                            <li class="mb-2"><b >Respite Care Support:</b><br>Temporary relief for family caregivers</li>
+                                        </ul>
+                                    </div>
+                                <div class="text-start col-md-7" style="font-size: 14px;">
                             <ul>
-                                <li style="font-size: 14px;">Personal Care Support</li>
-                                <li style="font-size: 14px;">Medical Management Support</li>
-                                <li style="font-size: 14px;">House Cleaning Support</li>
-                                <li style="font-size: 14px;">Preparing Meal and Feeding Support</li>
+                                <li class="mb-2"><b >Personal Care Support:</b> <br>Assistance with bathing, dressing, grooming and toileting</li>
+                                <li class="mb-2"><b >Medical Management Support:</b> <br> Reminders and assistance with taking medications</li>
+                            
+                                <li class="mb-2"><b >Preparing Meal Support:</b><br>
+                                    Cooking and Serving Meals
+                                    </li>
+                                <li class="mb-2"><b >Light Housekeeping Support:</b><br>Laundry, cleaning and organization</li>
+                                <li class="mb-2"><b >Transportation Support:</b><br>Driving to appointments and errands</li>
+                                <li class="mb-2"><b >Mobility Support:</b><br>Help with walking, transfering and using mobility aids</li>
+                                <li class="mb-2"><b >Incontinence Care Support:</b><br>Management of incontinence supplies and hygiene</li>
+                                
                             </ul>
-                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                                </div>
+                            </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
                         </div>
                     </div>
                 </div>
+                <!-- End Modal for Caregiver services -->
+
+                <!-- start of Nanny care -->
         <div class="col-lg-4 col-md-6">
             <div class="blog-item">
                 <div class="blog-img">
                     <div class="blog-img-inner">
                         <img class="img-fluid w-100 rounded-top" src="img/homecare/nanny.jpg" alt="Image">
                         <div class="blog-icon">
-                            <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                            <a href="#nannyModal"  data-bs-toggle="modal" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="blog-content border border-top-0 rounded-bottom p-4">
                     <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                     <a href="#" class="h4">Nanny Care Service</a><br>
-                    We provide;
-                            <ul>
-                                <li style="font-size: 14px;">Child Care Support</li>
-                                <li style="font-size: 14px;">Child Medical Management Support</li>
-                                <li style="font-size: 14px;">House Cleaning Support</li>
-                            </ul>
-                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                    <div class="row bg-primary rounded-bottom mt-5">
+                            <div class="col-6 text-start px-0">
+                            <a href="#nannyModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded py-2 px-4">View More...</a>
+                        </div>
+                        <div class="col-6 text-end px-0">
+                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                        </div>
+                        </div>
                 </div>
             </div>
         </div>
+        <!-- End of Nanny -->
+
+        <!-- Start Modal for Nanny services -->
+                <div id="nannyModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">NANNY SERVICES</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                    <div class="col-md-5" style="font-size: 14px;">
+                                        <img src="img/homecare/nanny.jpg" style="width: 100%; " id="nannyImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                        <ul>
+                                            <li class="mb-2"><b >Child Care Support:</b><br>Caring for children's physical, emotional, and developmental needs</li>
+                                            <li class="mb-2"><b >Homework Support:</b><br>Assisting children with their school work (Homework) and educational activities after school.</li>
+                                            
+                                        </ul>
+                                    </div>
+                                <div class="text-start col-md-7" style="font-size: 14px;">
+                            <ul>
+                                <li class="mb-2"><b >Meal Preparation Support:</b><br>Preparing healthy meals and snacks for your children</li>
+                                <li class="mb-2"><b >Personal Care Support:</b> <br>Assistance with bathing, dressing, grooming and toileting</li>
+                                <li class="mb-2"><b >Safety and Security Support:</b> <br> Ensuring children's safety and well-being</li>
+                                <li class="mb-2"><b >Communication Support:</b><br>Keeping parents informed about daily activities and issues</li>
+                                <li class="mb-2"><b >Light Housekeeping Support:</b><br>Maintaining a clean and organized home environment</li>
+                                <li class="mb-2"><b >Transportation Support:</b><br>Driving children to activities and appointments</li>
+                                <li class="mb-2"><b >Engaing Activities Support:</b><br>Planning and participating in fun activities with children</li>
+                                <li class="mb-2"><b >Specialized Care Support:</b><br>Guiding children with special needs or medical conditions</li>
+                                
+                            </ul>
+                                </div>
+                            </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for Nanny services -->
         <div class="col-lg-4 col-md-6">
             <div class="blog-item">
                 <div class="blog-img">
@@ -140,7 +235,14 @@
                                 <li style="font-size: 14px;">Child Medical Management Support</li>
                                 <li style="font-size: 14px;">House Cleaning Support</li>
                             </ul>
-                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                    <div class="row bg-primary rounded-bottom">
+                            <div class="col-6 text-start px-0">
+                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        <div class="col-6 text-end px-0">
+                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                        </div>
+                        </div>
                 </div>
             </div>
         </div>
@@ -163,7 +265,14 @@
                                 <li style="font-size: 14px;">Child Medical Management Support</li>
                                 <li style="font-size: 14px;">House Cleaning Support</li>
                             </ul>
-                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                    <div class="row bg-primary rounded-bottom">
+                            <div class="col-6 text-start px-0">
+                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        <div class="col-6 text-end px-0">
+                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                        </div>
+                        </div>
                 </div>
             </div>
         </div> <div class="col-lg-4 col-md-6">
@@ -184,7 +293,14 @@
                                 <li style="font-size: 14px;">Child Medical Management Support</li>
                                 <li style="font-size: 14px;">House Cleaning Support</li>
                             </ul>
-                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                    <div class="row bg-primary rounded-bottom">
+                            <div class="col-6 text-start px-0">
+                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        <div class="col-6 text-end px-0">
+                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
+                        </div>
+                        </div>
                 </div>
             </div>
         </div> 
