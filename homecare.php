@@ -114,7 +114,7 @@
                             <div class="modal-body p-0 bg-alt">
                                 <div class="row p-2">
                                     <div class="col-md-5" style="font-size: 14px;">
-                                        <img src="img/homecare/personalcare-2.jpg" style="width: 100%; " id="careImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                        <img src="img/homecare/personalcare-2.jpg" style="width: 100%; " id="careImage" class="loaded-image mx-auto img-fluid mb-2 rounded"><span class="mb-2">We offer the following services;</span>
                                         <ul>
                                             <li class="mb-2"><b >Companionship Support:</b><br>Social Interaction and Emotional Support</li>
                                             <li class="mb-2"><b >Specialized Care Support:</b><br>Guidance for specific medical conditions, such as dementia or diabetes</li>
@@ -187,7 +187,7 @@
                             <div class="modal-body p-0 bg-alt">
                                 <div class="row p-2">
                                     <div class="col-md-5" style="font-size: 14px;">
-                                        <img src="img/homecare/nanny.jpg" style="width: 100%; " id="nannyImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                        <img src="img/homecare/nanny.jpg" style="width: 100%; " id="nannyImage" class="loaded-image mx-auto img-fluid mb-2 rounded"><span class="mb-2">We offer the following services;</span>
                                         <ul>
                                             <li class="mb-2"><b >Child Care Support:</b><br>Caring for children's physical, emotional, and developmental needs</li>
                                             <li class="mb-2"><b >Homework Support:</b><br>Assisting children with their school work (Homework) and educational activities after school.</li>
@@ -202,7 +202,7 @@
                                 <li class="mb-2"><b >Communication Support:</b><br>Keeping parents informed about daily activities and issues</li>
                                 <li class="mb-2"><b >Light Housekeeping Support:</b><br>Maintaining a clean and organized home environment</li>
                                 <li class="mb-2"><b >Transportation Support:</b><br>Driving children to activities and appointments</li>
-                                <li class="mb-2"><b >Engaing Activities Support:</b><br>Planning and participating in fun activities with children</li>
+                                <li class="mb-2"><b >Engaging Activities Support:</b><br>Planning and participating in fun activities with children</li>
                                 <li class="mb-2"><b >Specialized Care Support:</b><br>Guiding children with special needs or medical conditions</li>
                                 
                             </ul>
@@ -216,28 +216,24 @@
                     </div>
                 </div>
                 <!-- End Modal for Nanny services -->
+
+                <!-- Start of Domestic/Commercial Cleaning -->
         <div class="col-lg-4 col-md-6">
             <div class="blog-item">
                 <div class="blog-img">
                     <div class="blog-img-inner">
                         <img class="img-fluid w-100 rounded-top" src="img/homecare/laundry.jpg" alt="Image">
                         <div class="blog-icon">
-                            <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                            <a href="#domesticModal" data-bs-toggle="modal" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="blog-content border border-top-0 rounded-bottom p-4">
                     <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
                     <a href="#" class="h4"  style="font-size: 21px;">Domestic/Commercial Cleaning</a><br>
-                    We provide;
-                            <ul>
-                                <li style="font-size: 14px;">Child Care Support</li>
-                                <li style="font-size: 14px;">Child Medical Management Support</li>
-                                <li style="font-size: 14px;">House Cleaning Support</li>
-                            </ul>
-                    <div class="row bg-primary rounded-bottom">
+                   <div class="row bg-primary rounded-bottom mt-5">
                             <div class="col-6 text-start px-0">
-                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                            <a href="#domesticModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded py-2 px-4">View More...</a>
                         </div>
                         <div class="col-6 text-end px-0">
                             <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
@@ -246,56 +242,76 @@
                 </div>
             </div>
         </div>
+        <!-- End of Domestic and Commercial Cleaning -->
+
+        <!-- Start Modal for Domestic or commercial cleaninf services -->
+                <div id="domesticModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">DOMESTIC / COMMERCIAL CLEANING SERVICE</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                    <div class="col-md-5" style="font-size: 14px;">
+                                        <img src="img/homecare/laundry.jpg" style="width: 100%; " id="nannyImage" class="loaded-image mx-auto img-fluid mb-2 rounded"><span class="mb-2">We offer the following services;</span>
+                                        <ul>
+                                            <li class="mb-2"><b >Dusting and Polishing:</b><br>Furniture, fixtures and appliances</li>
+                                            <li class="mb-2"><b >Vacuuming and mopping:</b><br>Floors and carpets.</li>
+                                            <li class="mb-2"><b >Bathroom Cleaning:</b><br>Sinks, toilets, showers and bathtubs.</li>
+                                            <li class="mb-2"><b >kitchen Cleaning:</b><br>counters, sinks and appliances.</li>    
+                                        </ul>
+                                    </div>
+                                <div class="text-start col-md-7" style="font-size: 14px;">
+                            <ul>
+                                <li class="mb-2"><b >Window Cleaning:</b><br>Windows and Mirrors.</li>
+                                <li class="mb-2"><b >Organization:</b><br>Decluttering and tidying living spaces.</li>
+                                <li class="mb-2"><b >Laundry:</b> <br>Washing, drying, and folding clothes</li>
+                                <li class="mb-2"><b >Deep Cleaning:</b> <br> Ovens, refrigerators, and other appliances.</li>
+                                <li class="mb-2"><b >Move-In/Move-Out Cleaning:</b><br>Preparing homes for new occupants.</li>
+                                <li class="mb-2"><b >Special Event Cleaning:</b><br>Cleaning before and after parties or events</li>
+                            </ul>
+                            Cleaning Services can also be provided in various settings, including;
+                            <ol>
+                                <li><b >Private Homes</b></li>
+                                <li><b >Offices</b></li>
+                                <li><b >Commercial Spaces</b></li>
+                                <li><b >Industrial Facilities</b></li>
+                                <li><b >Schools</b></li>
+                                <li><b >Hospitals</b></li>
+                            </ol>
+                                </div>
+                            </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for Domestic / Commercial cleaning services -->
+
+ <!-- Start of Domestic / HouseHelp -->
         <div class="col-lg-4 col-md-6">
             <div class="blog-item">
                 <div class="blog-img">
                     <div class="blog-img-inner">
                         <img class="img-fluid w-100 rounded-top" src="img/homecare/cleaning.jpg" alt="Image">
                         <div class="blog-icon">
-                            <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                            <a href="#househelpModal" data-bs-toggle="modal" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="blog-content border border-top-0 rounded-bottom p-4">
                     <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                    <a href="#" class="h4">Domestic / House Help</a><br>
-                    We provide;
-                            <ul>
-                                <li style="font-size: 14px;">Child Care Support</li>
-                                <li style="font-size: 14px;">Child Medical Management Support</li>
-                                <li style="font-size: 14px;">House Cleaning Support</li>
-                            </ul>
-                    <div class="row bg-primary rounded-bottom">
+                    <a href="#" class="h4" style="font-size: 22px;">Domestic Assistant/House help</a><br>
+                    <div class="row bg-primary rounded-bottom mt-5">
                             <div class="col-6 text-start px-0">
-                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
-                        </div>
-                        <div class="col-6 text-end px-0">
-                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
-                        </div>
-                        </div>
-                </div>
-            </div>
-        </div> <div class="col-lg-4 col-md-6">
-            <div class="blog-item">
-                <div class="blog-img">
-                    <div class="blog-img-inner">
-                        <img class="img-fluid w-100 rounded-top" src="img/homecare/cooking.jpg" alt="Image">
-                        <div class="blog-icon">
-                            <a href="contact.php" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="blog-content border border-top-0 rounded-bottom p-4">
-                    <a href="#" class="h4">Cook / Chef</a><br>
-                    We provide;
-                            <ul>
-                                <li style="font-size: 14px;">Food Preparation Support</li>
-                                <li style="font-size: 14px;">Child Medical Management Support</li>
-                                <li style="font-size: 14px;">House Cleaning Support</li>
-                            </ul>
-                    <div class="row bg-primary rounded-bottom">
-                            <div class="col-6 text-start px-0">
-                            <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                            <a href="#househelpModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded py-2 px-4">View More...</a>
                         </div>
                         <div class="col-6 text-end px-0">
                             <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4">Contact Us</a>
@@ -304,7 +320,135 @@
                 </div>
             </div>
         </div> 
-        
+<!-- End of Domestic or Househelp -->
+
+<!-- Start Modal for Domestic or commercial Househelp services -->
+                <div id="househelpModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">DOMESTIC ASSISTANT / HOUSEHELP SERVICE</h3>
+                                <button type="button" class="close float-right bg-warning" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                    <div class="col-xl-5 col-md-6" style="font-size: 14px;">
+                                        <img src="img/homecare/cleaning.jpg" style="width: 100%; " id="nannyImage" class="loaded-image mx-auto img-fluid mb-2 rounded"><span class="mb-2">We offer the following services;</span>
+                                        <ul>
+                                            <li class="mb-2"><b >Cleaning:</b><br>dusting, vacuuming, mopping and sanitizing</li>
+                                            <li class="mb-2"><b >Laundry:</b><br>Washing, drying, folding and ironing.</li>
+                                            <li class="mb-2"><b >Kitchen Duties:</b><br>Cooking, meal preparation, dishwashing, and organization.</li>
+                                            <li class="mb-2"><b >Errands:</b><br>Grocery shopping, picking up, dry cleaning etc.</li>    
+                                        </ul>
+                                    </div>
+                                <div class="text-start col-md-7" style="font-size: 14px;">
+                            <ul>
+                                <li class="mb-2"><b >Pet Care:</b><br>Feeding, walking, and providing fresh water.</li>
+                                <li class="mb-2"><b >Organization:</b><br>Decluttering and tidying living spaces.</li>
+                                <li class="mb-2"><b >Childcare:</b> <br>Homework help, meal preparation, and activities (if needed)</li>
+                                <li class="mb-2"><b >Special Event Preparation:</b> <br> Cleaning, Cooking and Setups for parties.</li>
+                                <li class="mb-2"><b >Yard Work:</b><br>Mowing, Trimming, and basic outdoor maintenance.</li>
+                                <li class="mb-2"><b >Household Management:</b><br>Paying bills, Scheduling appointments etc.</li>
+                            </ul>
+                            <b>Domestic Assistant / Househelp may work as;</b>
+                            <ol>
+                                <li>Live-in housekeepers (residing with the family)</li>
+                                <li>Live-out housekeepers (commuting to the family's home)</li>
+                                <li>Full-time Housekeepers (Working 40+ hours/week)</li>
+                                <li>Part-time Housekeepers (Working < 40 hours/week)</li>
+                                <li>Temporary Housekeepers (Filling in for a short period)</li>
+                                <li>Weekend and Holiday Housekeepers</li>
+                            </ol>
+                                </div>
+                            </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for Domestic / Commercial Househelp services -->
+
+        <!-- Start of Cook or Chef -->
+        <div class="col-lg-4 col-md-6">
+            <div class="blog-item">
+                <div class="blog-img">
+                    <div class="blog-img-inner">
+                        <img class="img-fluid w-100 rounded-top" src="img/homecare/cooking.jpg" alt="Image">
+                        <div class="blog-icon">
+                            <a href="#cookModal" data-bs-toggle="modal" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-content border border-top-0 rounded-bottom p-4">
+                    <a href="#" class="h4">Cook/Chef Services</a><br>
+                   <div class="row bg-primary rounded-bottom mt-5">
+                            <div class="col-6 text-start px-0">
+                            <a href="#cookModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded py-2 px-4">View More...</a>
+                        </div>
+                        <div class="col-6 text-end px-0">
+                            <a href="contact.php" class="btn btn-sm btn-primary rounded py-2 px-4">Contact Us</a>
+                        </div>
+                        </div>
+                </div>
+            </div>
+        </div> 
+        <!-- End of Cook or Chef -->
+
+<!-- Start Modal for Cook or Chef services -->
+    <div id="cookModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="text-center mb-0">COOK/CHEF SERVICE</h3>
+                    <button type="button" class="close float-right bg-warning" aria-label="Close" data-bs-dismiss="modal">
+                      <span aria-hidden="true">&#xD7;</span>
+                    </button>
+                </div>
+                
+                <div class="modal-body p-0 bg-alt">
+                    <div class="row p-2">
+                        <div class="col-xl-5 col-md-6" style="font-size: 14px;">
+                            <img src="img/homecare/cooking.jpg" style="width: 100%; " id="nannyImage" class="loaded-image mx-auto img-fluid mb-2 rounded"><span class="mb-2">We offer the following services;</span>
+                            <ul>
+                                <li class="mb-2"><b >Meal Preparation:</b><br>Planning, shopping, and Cooking meals</li>
+                                <li class="mb-2"><b >Special dietary needs:</b><br>Accomodating specific diets (e.g vegetarian, gluten-free).</li>
+                                
+                                 
+                            </ul>
+                        </div>
+                    <div class="text-start col-md-7" style="font-size: 14px;">
+                <ul>
+                    <li class="mb-2"><b >Food Safety:</b><br>Handling, storing, and serving food safely.</li>
+                    <li class="mb-2"><b >Kitchen Management:</b><br>Maintaining a clean and organized kitchen.</li>   
+                    <li class="mb-2"><b >Food Presentation:</b><br>Presenting meals attractively.</li>
+                    <li class="mb-2"><b >Meal Serving:</b><br>Serving meals and clearing tables.</li>
+                    <li class="mb-2"><b >Cleaning Up:</b> <br>Washing dishes, pots, and pans</li>
+                </ul>
+                <b>WE ALSO OFFER;</b>
+                <ol>
+                    <li>Personal Chefs (private cooking for individuals or families)</li>
+                    <li>Private Cooks (working in private homes</li>
+                    <li>Restaurant Cooks (working in commercial kitchen)</li>
+                    <li>Catering Cooks (preparing food for events)</li>
+                    <li>Meal delivery cooks (preparing meals for delivery services).</li>
+                    <!-- <li>Weekend and Holiday Housekeepers</li> -->
+                </ol>
+                    </div>
+                </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Modal for Domestic / Commercial Househelp services -->
+
     <div class="mx-auto text-center">
         <h3 class="section-title px-3">Our Vision and Mission</h3>
         <!-- <h1 class="mb-4">About Our Home Care</h1> -->

@@ -41,8 +41,18 @@
        
         $('#caregiverModal').on('show.bs.modal', function (e) {
        $('#careImage').attr("src",$(e.relatedTarget).data("large-src"));
-    }); $('#nannyModal').on('show.bs.modal', function (e) {
+    }); 
+        $('#nannyModal').on('show.bs.modal', function (e) {
        $('#nannyImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+        $('#domesticModal').on('show.bs.modal', function (e) {
+       $('#domesticImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+       $('#househelpModal').on('show.bs.modal', function (e) {
+       $('#domesticImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+       $('#cookModal').on('show.bs.modal', function (e) {
+       $('#domesticImage').attr("src",$(e.relatedTarget).data("large-src"));
     });
        
         </script>
