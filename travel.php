@@ -37,194 +37,624 @@
                         <p class="mt-3">The company offers personalized travel and tour services, such as, Travel Documents Processing, Study Abroad, Work Permit, Visit Visa, Holidays Visa, Settlement Visa, Hotel Reservations, Airline Ticketing, Organizing of tours for churches and Holidayers, Airbnb (short stays).</p>
                 </div>
                <div class="col-lg-6 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/travel/travel-back.jpg" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <div class="blog-img-inner">
+                                <img class="img-fluid w-100 rounded-top" src="img/travel/travel-back.jpg" alt="Image">
+                                <div class="blog-icon">
+                                    <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-            </div>
-        </div>
-        <!-- end of why choose us -->
-        <div class="text-center">
-            <h3 class="section-title text-center mb-3">&nbsp Our Travel Consult Services &nbsp</h3>
-        </div>
-                <div class="row g-4 justify-content-center">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/travel/documentprocessing-1.jpeg" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <a href="#" class="h4">Document Processing</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/travel/hotel-2.jpg" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Hotel Reservations</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/travel/ticket-1.jpeg" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Airline Ticketing</a><br>
-                                <!-- <p class="my-3">.....................</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/travel/studyabroad-1.jpg" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Study Abroad</a><br>
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
-                            </div>
-                        </div>
-                    </div> <div class="col-lg-4 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/travel/holiday-2.jpg" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
-                                </div>
-                               <!--  <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
-                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
-                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
-                                </div> -->
-                            </div>
-                            <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Holiday Visa</a><br>
-                                <!-- <p class="my-3">(wound care, injections, etc)</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
-                            </div>
-                        </div>
-                    </div> 
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid rounded-top" style="max-width: 100%; height: 100%;" src="img/travel/workpermit-2.jpg" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Work Permit</a><br>
-                                <!-- <p class="my-3">.....................</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/travel/permanentvisa-2.jpg" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Settlement Visa</a><br>
-                                <!-- <p class="my-3">.....................</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/travel/visitvisa-2.jpg" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4">Visit Visa</a><br>
-                                <!-- <p class="my-3">.....................</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill py-2 px-4">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <div class="blog-img-inner">
-                                    <img class="img-fluid w-100 rounded-top" src="img/travel/airbnb-2.png" alt="Image">
-                                    <div class="blog-icon">
-                                        <a href="https://wa.me/233530525791" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog-content border border-top-0 rounded-bottom p-4">
-                                <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                                <a href="#" class="h4 mb-2">Air BnB (Short Stay)</a><br>
-                                <!-- <p class="">.....................</p> -->
-                                <a href="https://wa.me/233530525791" class="btn btn-primary rounded-pill">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
-
-                      <!-- Packages start -->
-              
-              <!-- Packages end -->
-    
-        <!-- Testimonial End -->
-
                 </div>
+        </div>
+    </div>
+    <!-- end of why choose us -->
+    <div class="text-center">
+        <h3 class="section-title text-center mb-3">&nbsp Our Travel Consult Services &nbsp</h3>
+    </div>
+            <div class="row g-4 justify-content-center">
+                <!-- Start of Travel Abroad processing -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <div class="blog-img-inner">
+                                <img class="img-fluid w-100 rounded-top" src="img/travel/studyabroad-1.jpg" alt="Image">
+                                <div class="blog-icon">
+                                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog-content border border-top-0 rounded-bottom p-4">
+                            <a href="#documentModal" data-bs-toggle="modal" class="h4">Study Abroad</a><br>
+                            <div class="row rounded-bottom mt-3">
+                            <div class="col-6 text-start px-0">
+                            <a href="#documentModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End of Travel Abroad processing -->
+
+                <!-- Start Modal for Travel Abroad processing services -->
+                <div id="documentModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">STUDY ABROAD</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                <div class="col-md-6 p-3" align="justify">
+                                <img src="img/travel/studyabroad-1.jpg" style="width: 100%; height: 100%;" id="documentImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                       
+                            </div>
+                            <div class="col-md-6">
+                                <span style="font-weight: bolder;"> Our expert application assistance team will guide you through every step of the process, from choosing the right school to submitting a winning application. Our Services include:</span>
+                                <ul class="mt-3">
+                                <li class="mb-2"><b >School selection and research</b></li>
+                                <li class="mb-2"><b >Application essay writing and editing</b></li>
+                                <li class="mb-2"><b >Visa application assistance</b></li>
+                                <li class="mb-2"><b >Interview preparation and coaching</b></li>
+                                <li class="mb-2"><b >Scholarship and financial aid guidance</b></li> 
+                            </ul>
+                            </div>
+                            </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for Travel Abroad services -->
+
+                <!-- Start of Hotel Reservation -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <div class="blog-img-inner">
+                                <img class="img-fluid w-100 rounded-top" src="img/travel/hotel-2.jpg" alt="Image">
+                                <div class="blog-icon">
+                                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog-content border border-top-0 rounded-bottom p-4">
+                            <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                            <a href="#hotelModal" class="h4">Hotel Reservations</a><br>
+                            <div class="row rounded-bottom mt-3">
+                            <div class="col-6 text-start px-0">
+                            <a href="#hotelModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End of Hotel Reservation -->
+
+                 <!-- Start Modal for Hotel Reservation processing services -->
+                <div id="hotelModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">HOTEL RESERVATION</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                <div class="col-md-6 p-3" align="justify">
+                                <img src="img/travel/hotel-2.jpg" style="width: 100%; height: 100%;" id="documentImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                          
+                            </div>
+                            <div class="col-md-6">
+                                <span style="font-style: italic;">Are you traveling abroad and looking for a comfortable and convenient place to stay? Look no further!. We are available to help you with, </span>
+                                <ul class="mt-3">
+                                <li class="mb-2"><b >Wide selection of hotels worldwide</b></li>
+                                <li class="mb-2"><b >Competitive rates and discounts</b></li>
+                                <li class="mb-2"><b >Easy online booking and payment</b></li>
+                                <li class="mb-2"><b >24/7 customer support</b></li>
+                                <li class="mb-2"><b >Hotel reviews and ratings from trusted sources</b></li> 
+                            </ul>
+                            </div>
+                            </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for Hotel Reservation services -->
+
+                <!-- Start of Airline Ticketing -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <div class="blog-img-inner">
+                                <img class="img-fluid w-100 rounded-top" src="img/travel/ticket-1.jpeg" alt="Image">
+                               <div class="blog-icon">
+                                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog-content border border-top-0 rounded-bottom p-4">
+                            <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                            <a href="#" class="h4">Airline Ticketing</a><br>
+                            <div class="row rounded-bottom mt-3">
+                            <div class="col-6 text-start px-0">
+                            <a href="#airlineModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End of Airline ticketing -->
+
+                 <!-- Start Modal for Airline ticketing services -->
+                <div id="airlineModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">AIRLINE TICKETING</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                <div class="col-md-6 p-3" align="justify">
+                                <img src="img/travel/ticket-1.jpeg" style="width: 100%;height: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                         
+                            </div>
+                            <div class="col-md-6">
+                                <span style="font-style: italic;">Are you looking for a hassle-free way to book your flights? Look no further! With Bellas Prestige Travel Consult, we help you with, </span>
+                                <ul class="">
+                                <li class="mb-2"><b >Fast and easy booking process</b></li>
+                                <li class="mb-2"><b >Competitive prices and discounts</b></li>
+                                <li class="mb-2"><b >Access to a wide range of airlines and routes</b></li>
+                                <li class="mb-2"><b >Secure payment processing</b></li>
+                                <li class="mb-2"><b >24/7 customer support</b></li> 
+                            </ul>
+                            <span style="font-weight: bolder; font-style: italic;">Book Flights to:</span>
+                            <ul>
+                                <li>Domestic destinations</li>
+                                <li>International destinations</li>
+                                <li>Popular tourist destinations</li>
+                                <li>Business hubs</li>
+                            </ul>
+                            </div>
+                            </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for Airline ticketing services -->
+
+                <!-- Start of Holiday Visa -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <div class="blog-img-inner">
+                                <img class="img-fluid w-100 rounded-top" src="img/travel/holiday-2.jpg" alt="Image">
+                                <div class="blog-icon">
+                                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog-content border border-top-0 rounded-bottom p-4">
+                            <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                            <a href="#" class="h4">Holiday Visa</a><br>
+                            <div class="row rounded-bottom mt-3">
+                            <div class="col-6 text-start px-0">
+                            <a href="#holidayModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                </div> 
+                <!-- End of Holiday Visa -->
+
+                 <!-- Start Modal for Holiday Visa services -->
+                <div id="holidayModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">HOLIDAY VISA</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                <div class="col-md-6 p-3" align="justify">
+                                <img src="img/travel/holiday-2.jpg" style="width: 100%; height: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                      
+                            </div>
+                            <div class="col-md-6">
+                                <span style="font-weight: bolder; font-style: italic;"> Our expert team will guide you through the process of obtaining a holiday visa, so you can focus on what really matters - relaxing and having fun!. With Bellas Prestige Travel Consult, we help you with, </span>
+                                <ul class="">
+                                <li class="mb-2"><b >Holiday visa application assistance</b></li>
+                                <li class="mb-2"><b >Document preparation and submission</b></li>
+                                <li class="mb-2"><b >Access to a wide range of airlines and routes</b></li>
+                                <li class="mb-2"><b >Interview preparation and coaching</b></li>
+                                <li class="mb-2"><b >Fast-track processing options available</b></li> 
+                            </ul>
+                            </div>
+                            </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for Holiday Visa services -->
+               
+               <!-- start of work permit -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <div class="blog-img-inner">
+                                <img class="img-fluid rounded-top" style="max-width: 100%; height: 100%;" src="img/travel/workpermit-2.jpg" alt="Image">
+                                <div class="blog-icon">
+                                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog-content border border-top-0 rounded-bottom p-4">
+                            <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                            <a href="#" class="h4">Work Permit</a><br>
+                              <div class="row rounded-bottom mt-3">
+                            <div class="col-6 text-start px-0">
+                            <a href="#permitModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of work permit -->
+
+                <!-- Start Modal for Work permit services -->
+                <div id="permitModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">WORK PERMIT</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                <div class="col-md-6 p-3" align="justify">
+                                <img src="img/travel/workpermit-2.jpg" style="width: 100%; height: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                      
+                            </div>
+                            <div class="col-md-6">
+                                <span>Are you looking to take your career to the next level by working abroad? Let us help you make it happen! Our expert team will guide you through the complex process of obtaining a work permit, ensuring you can focus on your new job and life abroad. Our services include;</span>
+                                <ul class="mt-3">
+                                <li class="mb-2"><b style="font-style: italic;">Work permit application assistance</b></li>
+                                <li class="mb-2"><b style="font-style: italic;">Job search and placement support</b></li>
+                                <li class="mb-2"><b style="font-style: italic;">Resume and cover letter optimization</b></li>
+                                <li class="mb-2"><b style="font-style: italic;">Interview preparation and coaching</b></li>
+                                <li class="mb-2"><b style="font-style: italic;">Visa application submission and tracking</b></li> 
+                            </ul>
+                            </div>
+                            </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for Work permit services -->
+
+                <!-- start of settlement visa -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <div class="blog-img-inner">
+                                <img class="img-fluid w-100 rounded-top" src="img/travel/permanentvisa-2.jpg" alt="Image">
+                                <div class="blog-icon">
+                                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog-content border border-top-0 rounded-bottom p-4">
+                            <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                            <a href="#workModal" class="h4">Settlement Visa</a><br>
+                            <!-- <p class="my-3">.....................</p> -->
+                            <div class="row rounded-bottom">
+                            <div class="col-6 text-start px-0">
+                            <a href="#workModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of settlement visa -->
+
+                <!-- Start Modal for Work permit services -->
+                <div id="workModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">SETTLEMENT VISA</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                <div class="col-md-6 p-3" align="justify">
+                                <img src="img/travel/permanentvisa-2.jpg" style="width: 100%; height: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                      
+                            </div>
+                            <div class="col-md-6">
+                                <span><h5>Are you moving abroad and looking for a smooth transition? Our settlement services are designed to help you every step of the way! Our expert team will assist with:</h5></span>
+                                <ul class="mt-3">
+                                <li class="mb-2"><h6 align="left" >Visa application and processing</h6></li>
+                                <li class="mb-2"><h6 align="left" >Job search and placement support</h6></li>
+                                <li class="mb-2"><h6 align="left" >Housing and accommodation assistance</h6></li>
+                                <li class="mb-2"><h6 align="left" >School and university admissions</h6></li>
+                                <li class="mb-2"><h6 align="left" >Healthcare and insurance guidance</h6></li> 
+                            </ul>
+                            </div>
+                            </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for Work permit services -->
+
+                <!-- start of visit visa -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <div class="blog-img-inner">
+                                <img class="img-fluid w-100 rounded-top" src="img/travel/visitvisa-2.jpg" alt="Image">
+                                <div class="blog-icon">
+                                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog-content border border-top-0 rounded-bottom p-4">
+                            <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                            <a href="#" class="h4">Visit Visa</a><br>
+                           <div class="row rounded-bottom">
+                            <div class="col-6 text-start px-0">
+                            <a href="#visitModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of visit visa -->
+                 <!-- Start Modal for visit visa services -->
+                <div id="visitModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">VISA VISA</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                <div class="col-md-6 p-3" align="justify">
+                                <img src="img/travel/visitvisa-2.jpg" style="width: 100%; height: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                      
+                            </div>
+                            <div class="col-md-6">
+                                <span><h5>Are you planning a trip abroad and need a visit visa? Let us help you navigate the process! Our expert team will assist with:</h5></span>
+                                <ul class="mt-3">
+                                <li class="mb-2"><h6 align="left" >Visa application and processing</h6></li>
+                                <li class="mb-2"><h6 align="left" >Document preparation and submission</h6></li>
+                                <li class="mb-2"><h6 align="left" >Interview preparation and coaching</h6></li>
+                                <li class="mb-2"><h6 align="left" >Fast-track processing options available</h6></li>
+                                <!-- <li class="mb-2"><h6 align="left" >Healthcare and insurance guidance</h6></li>  -->
+                            </ul>
+                            </div><div class="col-md-5">
+                            <img src="img/travel/family.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                            <h6>Visit the family</h6>
+                        </div>
+                        <div class="col-md-5">
+                            <img src="img/travel/visitvisa-1.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                            <h6>Travel with your love ones</h6>
+                        </div>
+                            </div>
+
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for visit visa services --> 
+
+                <!-- start of tours and holiday visa -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <div class="blog-img-inner">
+                                <img class="img-fluid w-100 rounded-top" src="img/travel/tourism-2.jpg" alt="Image">
+                                <div class="blog-icon">
+                                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog-content border border-top-0 rounded-bottom p-4">
+                            <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                            <a href="#" class="h4">Organizing Tours for Churches and Holidays</a><br>
+                           <div class="row rounded-bottom">
+                            <div class="col-6 text-start px-0">
+                            <a href="#tourModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of Tours and Holiday -->
+                 <!-- Start Modal for visit visa services -->
+                <div id="tourModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">ORGANIZATION OF TOURS FOR CHURCHES AND HOLIDAYS</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                <div class="col-md-6 p-3">
+                                <img src="img/travel/tourism-2.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                <div class="text-center mt-3"><h4 class="section-title mb-2">SERVICES</h4></div>
+                                
+                                <p>Our organization specializes in creating customized tours for churches and holidaymakers, combining faith, culture, and fun. Our expert team will handle every detail, ensuring a stress-free and enriching journey.</p>
+                                 <p>Are you a church group or holidaymaker looking for a unique and meaningful travel experience? Look no further! We provide you with;</p>
+                                 
+                                 <h4 class="text-uppercase p-2 mb-2">Church Tour</h4>
+                                 <div class="row p-3">
+                                 <div class="col-md-12">
+                                   <img src="img/travel/tourism-1.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li>Pilgrimages to holy sites</li>
+                                 </div>
+                                 <div class="col-md-12 mb-3">
+                                   <img src="img/travel/retreat.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li>Spiritual retreats and conferences</li>
+                                 </div>
+                                 </div>      
+                            </div>
+                            <div class="col-md-6">
+                                <div class="col-md-12">
+                                   <img src="img/travel/community.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li>Community service projects</li>
+                                 </div>
+                              <h4 class="text-uppercase p-2 mb-2">Holiday Tours</h4>
+                                 <div class="row p-3">
+                                 <div class="col-md-12">
+                                   <img src="img/travel/tourism-1.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li>Pilgrimages to holy sites</li>
+                                 </div>
+                                 <div class="col-md-12">
+                                   <img src="img/travel/retreat.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li>Spiritual retreats and conferences</li>
+                                 </div>
+                                 <div class="col-md-12">
+                                   <img src="img/travel/community.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li>Community service projects</li>
+                                 </div>
+                                 </div>
+                            </div>
+                            </div>
+
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for visit visa services -->
+                <!-- start of airbnb -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <div class="blog-img-inner">
+                                <img class="img-fluid w-100 rounded-top" src="img/travel/airbnb-2.png" alt="Image">
+                                <div class="blog-icon">
+                                    <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="blog-content border border-top-0 rounded-bottom p-4">
+                            <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
+                            <a href="#" class="h4 mb-2">Air BnB (Short Stay)</a><br>
+                            <div class="row rounded-bottom">
+                            <div class="col-6 text-start px-0">
+                            <a href="#airModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of airbnb -->
+                <!-- Start Modal for visit visa services -->
+                <div id="airModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h3 class="text-center mb-0">AIR BNB (SHORT STAY)</h3>
+                                <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
+                                  <span aria-hidden="true">&#xD7;</span>
+                                </button>
+                            </div>
+                            
+                            <div class="modal-body p-0 bg-alt">
+                                <div class="row p-2">
+                                <div class="col-md-6 p-3" align="justify">
+                                <img src="img/travel/airbnb-2.png" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                 <span><h6>Are you looking for a quick get-away or a short stay abroad? We've got you covered! Our short stay abroad services offer:</h6></span>
+                                 <div class="p-3">
+                                 <img src="img/travel/activities.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                <li>Accommodation, flights, and activities included</li> 
+                            </div>
+                        </div>
+                            <div class="col-md-5 mt-3">
+                                <img src="img/travel/shortstay.png" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                            <li>3-14 day trips to popular destinations</li>
+
+                            <img src="img/travel/guidance.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                            <li>Expert guidance and support</li>
+
+                            <img src="img/travel/shortstay-3.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                               <li>Flexible itineraries to suit your needs</li> 
+                            </div>
+                        
+                            </div>
+
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-primary" data-bs-dismiss="modal" aria-hidden="true">OK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Modal for visit visa services -->
+
+
+                  <!-- Packages start -->
+          
+          <!-- Packages end -->
+
+    <!-- Testimonial End -->
+
+            </div>
             </div>
         </div>
               <!-- End Blog -->

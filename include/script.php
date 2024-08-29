@@ -28,7 +28,7 @@
                 });
             });
         });
-
+               // Start of Property Service Script
         $('#galleryModal').on('show.bs.modal', function (e) {
        $('#galleryImage').attr("src",$(e.relatedTarget).data("large-src"));
     }); 
@@ -38,7 +38,9 @@
         $('#galleryModale').on('show.bs.modal', function (e) {
        $('#galleryImagee').attr("src",$(e.relatedTarget).data("large-src"));
     });
-       
+       // End of Property Service Script
+
+        // Start of Homecare Service SCRIPT
         $('#caregiverModal').on('show.bs.modal', function (e) {
        $('#careImage').attr("src",$(e.relatedTarget).data("large-src"));
     }); 
@@ -54,6 +56,36 @@
        $('#cookModal').on('show.bs.modal', function (e) {
        $('#domesticImage').attr("src",$(e.relatedTarget).data("large-src"));
     });
+       // End of Homecare Service
+
+       // Start of Travel Service SCRIPT
+        $('#documentModal').on('show.bs.modal', function (e) {
+       $('#documentImage').attr("src",$(e.relatedTarget).data("large-src"));
+    }); 
+        $('#hotelModal').on('show.bs.modal', function (e) {
+       $('#hotelImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+        $('#airlineModal').on('show.bs.modal', function (e) {
+       $('#airlineImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+       $('#holidayModal').on('show.bs.modal', function (e) {
+       $('#domesticImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+       $('#permitModal').on('show.bs.modal', function (e) {
+       $('#domesticImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+       $('#workModal').on('show.bs.modal', function (e) {
+       $('#domesticImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+       $('#airModal').on('show.bs.modal', function (e) {
+       $('#domesticImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+       $('#tourModal').on('show.bs.modal', function (e) {
+       $('#domesticImage').attr("src",$(e.relatedTarget).data("large-src"));
+    });
+       // End of Travel Service
+
+       
        
         </script>
  
