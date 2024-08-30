@@ -57,7 +57,7 @@
     <div class="carousel-caption">
         <div class="p-3" style="max-width: 900px;">
             <h4 class="text-white text-uppercase fw-bold mb-3" style="letter-spacing: 3px;">Do you wish to sit for </h4>
-            <h1 class="display-2 text-capitalize text-white mb-3">IELTS/OET/PTE/GRE/GMAT?</h1>
+            <h1 class="display-2 text-capitalize text-white mb-3 text-center">IELTS/OET/PTE/GRE/GMAT?</h1>
             <p class="mb-5 fs-5">International English Language Testing System is an international standardized test of English language proficiency for non-native English language speakers. 
             </p>
             <div class="d-flex align-items-center justify-content-center">

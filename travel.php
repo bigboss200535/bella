@@ -441,7 +441,7 @@
                         </div>
                         <div class="blog-content border border-top-0 rounded-bottom p-4">
                             <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                            <a href="#" class="h4">Visit Visa</a><br>
+                            <a href="#visitModal" data-bs-toggle="modal" class="h4">Visit Visa</a><br>
                            <div class="row rounded-bottom">
                             <div class="col-6 text-start px-0">
                             <a href="#visitModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
@@ -451,40 +451,58 @@
                     </div>
                 </div>
                 <!-- end of visit visa -->
-                 <!-- Start Modal for visit visa services -->
+                 <!-- Start Modal for visit visa services -->                      
+                       
                 <div id="visitModal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
                     <div class="modal-dialog modal-lg">
                         <div class="modal-content">
                             <div class="modal-header">
-                                <h3 class="text-center mb-0">VISA VISA</h3>
+                                <h3 class="text-center mb-0">VISIT VISA</h3>
                                 <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
                                   <span aria-hidden="true">&#xD7;</span>
                                 </button>
                             </div>
-                            
                             <div class="modal-body p-0 bg-alt">
                                 <div class="row p-2">
-                                <div class="col-md-6 p-3" align="justify">
-                                <img src="img/travel/visitvisa-2.jpg" style="width: 100%; height: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
-                                      
+                                <div class="col-md-6 p-3">
+                                <img src="img/travel/visitvisa-2.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                <div class="text-center"><small class="text-capitalize">visit visa</small></div>
+                                <div class="text-center mt-3"><h4 class="section-title mb-2">SERVICES</h4></div>
+                                
+                                <p>Are you planning a trip abroad and need a visit visa? Let us help you navigate the process!</p>                                
+                                 <!-- <h4 class="text-uppercase p-2 mb-2">1. Church Tour</h4> -->
+                                 <div class="row p-3">
+                                 <div class="col-md-12">
+                                   <img src="img/travel/visaapplication.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li><p class="mb-3">Visa application and processing</p></li>
+                                 </div>
+                                 <div class="col-md-12 mb-3">
+                                   <img src="img/travel/visadocument.png" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li><p class="mb-3">Document preparation and submission</p></li>
+                                 </div>
+                                 
+                                 </div>      
                             </div>
                             <div class="col-md-6">
-                                <span><h5>Are you planning a trip abroad and need a visit visa? Let us help you navigate the process! Our expert team will assist with:</h5></span>
-                                <ul class="mt-3">
-                                <li class="mb-2"><h6 align="left" >Visa application and processing</h6></li>
-                                <li class="mb-2"><h6 align="left" >Document preparation and submission</h6></li>
-                                <li class="mb-2"><h6 align="left" >Interview preparation and coaching</h6></li>
-                                <li class="mb-2"><h6 align="left" >Fast-track processing options available</h6></li>
-                                <!-- <li class="mb-2"><h6 align="left" >Healthcare and insurance guidance</h6></li>  -->
-                            </ul>
-                            </div><div class="col-md-5">
-                            <img src="img/travel/family.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
-                            <h6>Visit the family</h6>
-                        </div>
-                        <div class="col-md-5">
-                            <img src="img/travel/visitvisa-1.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
-                            <h6>Travel with your love ones</h6>
-                        </div>
+                                 <div class="row p-3">
+                                    <div class="col-md-12">
+                                   <img src="img/travel/coach-1.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li><p class="mb-3">Interview preparation and coaching</p></li>
+                                 </div>
+                                 <div class="col-md-12">
+                                   <img src="img/travel/application.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li><p class="mb-3">Fast-track processing options available</p></li>
+                                 </div>
+                                 <!-- <div class="col-md-12">
+                                   <img src="img/travel/scenic.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                  <li><p class="mb-3">Scenic escapes to nature</p></li>
+                                 </div>
+                                 <div class="col-md-12">
+                                   <img src="img/travel/beach.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                  <li><p>Relaxing beach getaways</p></li>
+                                 </div> -->
+                                 </div>
+                            </div>
                             </div>
 
                             </div>
@@ -509,7 +527,7 @@
                         </div>
                         <div class="blog-content border border-top-0 rounded-bottom p-4">
                             <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                            <a href="#" class="h4">Organizing Tours for Churches and Holidays</a><br>
+                            <a href="#tourModal" data-bs-toggle="modal" class="h4">Organizing Tours for Churches and Holidays</a><br>
                            <div class="row rounded-bottom">
                             <div class="col-6 text-start px-0">
                             <a href="#tourModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
@@ -524,7 +542,7 @@
                     <div class="modal-dialog modal-lg">
                         <div class="modal-content">
                             <div class="modal-header">
-                                <h3 class="text-center mb-0">ORGANIZATION OF TOURS FOR CHURCHES AND HOLIDAYS</h3>
+                                <h3 class="text-center mb-0">TOURS FOR CHURCHES AND HOLIDAYS</h3>
                                 <button type="button" class="close float-right" aria-label="Close" data-bs-dismiss="modal">
                                   <span aria-hidden="true">&#xD7;</span>
                                 </button>
@@ -533,41 +551,42 @@
                                 <div class="row p-2">
                                 <div class="col-md-6 p-3">
                                 <img src="img/travel/tourism-2.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                <small class="text-capitalize text-center">tours for churches and holidays</small>
                                 <div class="text-center mt-3"><h4 class="section-title mb-2">SERVICES</h4></div>
                                 
                                 <p>Our organization specializes in creating customized tours for churches and holidaymakers, combining faith, culture, and fun. Our expert team will handle every detail, ensuring a stress-free and enriching journey.</p>
-                                 <p>Are you a church group or holidaymaker looking for a unique and meaningful travel experience? Look no further! We provide you with;</p>
+                                 <p style="font-style: italic;">Are you a church group or holidaymaker looking for a unique and meaningful travel experience? Look no further! At Bellas Prestige Travel Consult, We provide you with:</p>
                                  
-                                 <h4 class="text-uppercase p-2 mb-2">Church Tour</h4>
+                                 <h4 class="text-uppercase p-2 mb-2">1. Church Tour</h4>
                                  <div class="row p-3">
                                  <div class="col-md-12">
-                                   <img src="img/travel/tourism-1.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
-                                 <li>Pilgrimages to holy sites</li>
+                                   <img src="img/travel/tourism-1.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li><p class="mb-3">Pilgrimages to holy sites</p></li>
                                  </div>
                                  <div class="col-md-12 mb-3">
-                                   <img src="img/travel/retreat.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
-                                 <li>Spiritual retreats and conferences</li>
+                                   <img src="img/travel/retreat.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li><p class="mb-3">Spiritual retreats and conferences</p></li>
                                  </div>
                                  </div>      
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-6 mt-3">
                                 <div class="col-md-12">
-                                   <img src="img/travel/community.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                   <img src="img/travel/community.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
                                  <li>Community service projects</li>
                                  </div>
-                              <h4 class="text-uppercase p-2 mb-2">Holiday Tours</h4>
+                              <h4 class="text-uppercase p-2 mt-5">2. Holiday Tours</h4>
                                  <div class="row p-3">
                                  <div class="col-md-12">
-                                   <img src="img/travel/tourism-1.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
-                                 <li>Pilgrimages to holy sites</li>
+                                   <img src="img/travel/cultural-1.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                 <li><p class="mb-3">Cultural city breaks</p></li>
                                  </div>
                                  <div class="col-md-12">
-                                   <img src="img/travel/retreat.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
-                                 <li>Spiritual retreats and conferences</li>
+                                   <img src="img/travel/scenic.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                  <li><p class="mb-3">Scenic escapes to nature</p></li>
                                  </div>
                                  <div class="col-md-12">
-                                   <img src="img/travel/community.jpg" style="width: 80%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
-                                 <li>Community service projects</li>
+                                   <img src="img/travel/beach.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded"> 
+                                  <li><p>Relaxing beach getaways</p></li>
                                  </div>
                                  </div>
                             </div>
@@ -586,7 +605,7 @@
                     <div class="blog-item">
                         <div class="blog-img">
                             <div class="blog-img-inner">
-                                <img class="img-fluid w-100 rounded-top" src="img/travel/airbnb-2.png" alt="Image">
+                                <img class="img-fluid w-100 rounded-top" src="img/travel/shortstay-2.png" alt="Image">
                                 <div class="blog-icon">
                                     <a href="contact.php" class="btn btn-sm btn-primary rounded-pill py-2 px-4 my-auto">Contact Us</a>
                                 </div>
@@ -594,7 +613,7 @@
                         </div>
                         <div class="blog-content border border-top-0 rounded-bottom p-4">
                             <!-- <p class="mb-3">Posted By: Royal Hamblin </p> -->
-                            <a href="#" class="h4 mb-2">Air BnB (Short Stay)</a><br>
+                            <a href="#airModal" data-bs-toggle="modal" class="h4 mb-2">Air BnB (Short Stay)</a><br>
                             <div class="row rounded-bottom">
                             <div class="col-6 text-start px-0">
                             <a href="#airModal" data-bs-toggle="modal" class="btn btn-sm btn-primary rounded-pill py-2 px-4">View More...</a>
@@ -617,23 +636,31 @@
                             
                             <div class="modal-body p-0 bg-alt">
                                 <div class="row p-2">
-                                <div class="col-md-6 p-3" align="justify">
-                                <img src="img/travel/airbnb-2.png" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
-                                 <span><h6>Are you looking for a quick get-away or a short stay abroad? We've got you covered! Our short stay abroad services offer:</h6></span>
+                                <div class="col-md-6 p-3">
+                                <img src="img/travel/shortstay-2.jpeg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                <small class="text-capitalize text-center">airBnB (short stay)</small><br>
+                                 <div class="text-center mt-3"><h4 class="section-title mb-2">SERVICES</h4></div>
+                                 <span>Are you looking for a quick get-away or a short stay abroad? We've got you covered! Our short stay abroad services offer:</span>
                                  <div class="p-3">
                                  <img src="img/travel/activities.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
                                 <li>Accommodation, flights, and activities included</li> 
                             </div>
                         </div>
-                            <div class="col-md-5 mt-3">
-                                <img src="img/travel/shortstay.png" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
-                            <li>3-14 day trips to popular destinations</li>
+                            <div class="col-md-6 mt-3">
+                                <div class="p-3">
+                                <img src="img/travel/shortstay-1.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                                 <li>3-14 day trips to popular destinations</li>
+                            </div>
 
+                            <div class="p-3">
                             <img src="img/travel/guidance.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
                             <li>Expert guidance and support</li>
+                        </div>
 
-                            <img src="img/travel/shortstay-3.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
+                            <div class="p-3">
+                            <img src="img/travel/itinerary.jpg" style="width: 100%; font-style: italic; " id="airlineImage" class="loaded-image mx-auto img-fluid mb-2 rounded">
                                <li>Flexible itineraries to suit your needs</li> 
+                           </div>
                             </div>
                         
                             </div>
