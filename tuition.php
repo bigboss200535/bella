@@ -34,10 +34,20 @@
                     <h5 class="section-title px-3">Our Tuition</h5>
                     <div class="row">
                         <h4></h4>
-                        <div class="col-lg-6 col-md-6" align="justify">
-                        <p class="mb-2">Welcome to Bellas Prestige Tuition! We are thrilled to help you pass your IELTS, OET, GMAT, PTE, GRE, LIFE SKILLS.
+                        <div class="col-lg-6 col-md-6" align="left">
+                        <p class="mb-2">Are you looking to improve your English language skills or prepare for a standardized test? Look no further!
                         </p>
-                        <p class="mb-0">Our dedicated team of experts are committed to providing top-notch service and guidance every step of the way. We have a well trained teachers, who are readily available to teach any student who is ready to sit for any of the examination to pass and to come out with flying colours. We have also partnered with special organisations to help, support, train and teach our students who are ready to sit for their examinations. </p>
+                        <p class="mb-0" style="font-style: italic;">Our expert tutors provide personalized coaching for: </p>
+                        <p class="mb-0">
+                            <ul>
+                                <li>IELTS (Academic and General)</li>
+                                <li>OET (Occupational English Test)</li>
+                                <li>PTE (Pearson Test of English)</li>
+                                <li>GRE (Graduate Record Examination)</li>
+                                <li>GMAT (Graduate Management Admission Test)</li>
+                                <li>Life Skills (Speaking, Listening, Reading, Writing)</li>
+                            </ul>
+                        </p>
                         <!-- <h6>Contact us through our email, and our expert team will guide you in all the prerequisites.</h6> -->
                         <div class="row">
                         <div class="col-lg-12 col-md-6 mt-3">
@@ -77,7 +87,33 @@
                                         <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
                                     </div>
                                 </div>
+                                
                             </div>
+                            <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                            <h5 class="mb-0" style="font-style: italic;">Our Tuition Services include:</h5>
+                                <p class="mb-2">
+                                    <ul>
+                                    <li><p class="mb-0" align="left" style="font-size: 14px;">Flexible scheduling to suit your needs</p></li>
+                                    <li><p class="mb-0" align="left" style="font-size: 14px;">Expert tutors with years of experience</p></li>
+                                    <li><p class="mb-0" align="left" style="font-size: 14px;">Personalized feedback and guidance</p></li>
+                                    <li><p class="mb-0" align="left" style="font-size: 14px;">Interactive and engaging lessons</p></li>
+                                    <li><p class="mb-0" align="left" style="font-size: 14px;">Regular progress assessments</p></li>
+                                    </ul>
+                                </p>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <h5 class="mb-0" style="font-style: italic;">We also conduct</h5>
+                                <p class="mb-2">
+                                    <ul>
+                                        <li><p class="mb-0" align="left" style="font-size: 14px;">Mock tests and practice exams</p></li>
+                                        <li><p class="mb-0" align="left" style="font-size: 14px;">Language proficiency assessments</p></li>
+                                        <li><p class="mb-0" align="left" style="font-size: 14px;">Study materials and resources</p></li>
+                                        <li><p class="mb-0" align="left" style="font-size: 14px;">Career guidance and counselling</p></li>
+                                    </ul>
+                                </p>
+                            </div>
+                        </div>
                         </div>
                 </div> 
             </div>
