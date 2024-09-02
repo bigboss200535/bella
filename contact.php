@@ -125,7 +125,7 @@
                                     </div>
                                 </div>
                                 <div class="col-12">
-                                    <button class="btn btn-gold w-100 py-3" type="submit">Send Message</button>
+                                    <button class="btn btn-gold w-100 py-3" type="submit">Submit</button>
                                 </div>
                                 <div class="col-12">
                                     <div id="form_message" class="mt-3"></div>
@@ -168,7 +168,7 @@
                         var formData = {
                             name: $("#name").val(),
                             email: $("#email").val(),
-                            subject: $("#subject").val(),
+                            services: $("#services").val(),
                             message: $("#message").val(),
                             telephone: $("#telephone").val()
                             };
@@ -184,6 +184,9 @@
                                 $("#form_message").html('<div class="alert alert-success">' + response.message + '</div>');
                                 if(response.status === 'success') {
                                     $("#contact_form_submission")[0].reset();  // Reset form fields
+                                }
+                                else if (response.status=== 'error'){
+                                    $("#form_message").html('<div class="alert alert-danger">' + response.message + '</div>');
                                 }
                             },
                             error: function(xhr, status, error) {

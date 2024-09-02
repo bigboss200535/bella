@@ -20,16 +20,18 @@ $response = array(
 );
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $services = $_POST['services'];
-    $message = $_POST['message'];
-    $telephone = $_POST['telephone'];
+    $s_name = $_POST['s_name'];
+    $s_email = $_POST['s_email'];
+    $s_contact = $_POST['s_contact'];
+    $job_type = $_POST['job_type'];
+    $region = $_POST['region'];
+    $religion = $_POST['religion'];
+    $remarks = $_POST['remarks'];
 
-    if (empty($name) || empty($email) || empty($services) || empty($message)) {
+    if (empty($s_name) || empty($s_email) || empty($s_contact) || empty($job_type)|| empty($region) || empty($religion)) {
         $response['status'] = 'error';
         $response['message'] = 'All fields are required.';
-    } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    } elseif (!filter_var($s_email, FILTER_VALIDATE_EMAIL)) {
         $response['status'] = 'error';
         $response['message'] = 'Invalid email format.';
     } else {
@@ -40,25 +42,27 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
                 // Configure PHPMailer
                 $mail = new PHPMailer(true);
+
                 try {
                     //Server settings
                     $mail->isSMTP();
                     $mail->Host = 'smtp.gmail.com'; // Specify main and backup SMTP servers
                     $mail->SMTPAuth = true;
-                    $mail->Username = 'bigboss200535@gmail.com'; // SMTP username
+                    $mail->Username = 'nsiladum@gmail.com'; // SMTP username
                     $mail->Password = ''; // SMTP password
                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
                     $mail->Port = 587;
 
                     //Recipients
-                   $mail->setFrom('nsiladum@gmail.com', 'Northern Security Ltd');
+                    $mail->setFrom('nsiladum@gmail.com', 'Northern Security Ltd');
                     $mail->addAddress('alhassan.mohammedga@gmail.com', 'Bella'); // Add a recipient
 
                     // Content
                     $mail->isHTML(true);
-                    $mail->Subject = $name.': '.'Contact From Bella Pretige';
-                    $mail->Body    = nl2br("New Message Received with details as follows. \nName: ".$name." \nTelephone: ".$contact." \nEmail: ".$email." \nMessage: ".$message);
-                    $mail->AltBody = strip_tags($message);
+                    $mail->Subject = $s_name.': '.'Job Application From Bella Pretige';
+                    $mail->Body    = nl2br("New Message Received with details as follows. \nName: ".$s_name." \nTelephone: ".$s_contact." \nEmail: ".$s_email." \nJob Title:".$job_type." \nRegion: ".$region."\nReligion: ".$religion." \nRemark: ".$remarks);
+
+                    $mail->AltBody = strip_tags("New Message Received with details as follows. \nName: ".$s_name." \nTelephone: ".$s_contact." \nEmail: ".$s_email." \nJob Title:".$job_type." \nRegion: ".$region."\nReligion: ".$religion." \nRemark: ".$remarks);
 
                     $mail->send();
                     $response['status'] = 'success';
@@ -67,6 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 } catch (Exception $e) {
                     $response['status'] = 'error';
                     $response['message'] = "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+                    // $response['message'] = "Message could not be sent";
                 }
             }
 } else {
