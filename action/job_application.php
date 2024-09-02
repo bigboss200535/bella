@@ -1,5 +1,6 @@
 <?php 
 // include("connection.php");  
+include("cren.php");  
 
 date_default_timezone_set('Africa/Accra');
 
@@ -46,12 +47,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 try {
                     //Server settings
                     $mail->isSMTP();
-                    $mail->Host = 'webedgetek.com'; // Specify main and backup SMTP servers
+                    $mail->Host = $smtp_host; // Specify main and backup SMTP servers
                     $mail->SMTPAuth = true;
-                    $mail->Username = 'alhassan.mohammed@webedgetek.com'; // SMTP username
-                    $mail->Password = ''; // SMTP password
+                    $mail->Username = $smtp_username; // SMTP username
+                    $mail->Password = $smtp_pass; // SMTP password
                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-                    $mail->Port = 587;
+                    $mail->Port = $port_number;
 
                     //Recipients
                     $mail->setFrom('alhassan.mohammed@webedgetek.com', 'BELLAS PRESTIGE');
@@ -60,9 +61,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     // Content
                     $mail->isHTML(true);
                     $mail->Subject = 'JOB APPLICATION FROM BELLAS PRESTIGE WEBSITE';
-                    $mail->Body    = nl2br("A new application have been received. Bellow is the details of the applicant. \nName: ".$s_name." \nTelephone: ".$s_contact." \nEmail: ".$s_email." \nJob Title:".$job_type." \nRegion: ".$region."\nReligion: ".$religion." \nRemark: ".$remarks);
+                    $mail->Body    = nl2br("A new application have been received. Bellow is the details of the applicant. \nName: ".$s_name." \nTelephone: ".$s_contact." \nEmail: ".$s_email." \nJob Title:".$job_type." \nRegion: ".$region."\nReligion: ".$religion." \nRemark: ".$remarks."\nDate of Submission: <b>".$date"</b>");
 
-                    $mail->AltBody = strip_tags("A new application have been received. Bellow is the details of the applicant. \nName: ".$s_name." \nTelephone: ".$s_contact." \nEmail: ".$s_email." \nJob Title:".$job_type." \nRegion: ".$region."\nReligion: ".$religion." \nRemark: ".$remarks);
+                    $mail->AltBody = strip_tags("A new application have been received. Bellow is the details of the applicant. \nName: ".$s_name." \nTelephone: ".$s_contact." \nEmail: ".$s_email." \nJob Title:".$job_type." \nRegion: ".$region."\nReligion: ".$religion." \nRemark: ".$remarks."\nDate of Submission: <b>".$date"</b>");
 
                     $mail->send();
                     $response['status'] = 'success';

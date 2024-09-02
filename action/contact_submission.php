@@ -1,5 +1,6 @@
 <?php 
 // include("connection.php");  
+include("cren.php"); 
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
@@ -25,6 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $service = $_POST['service'];
     $message = $_POST['message'];
     $telephone = $_POST['telephone'];
+    $date = date('Y-m-d');
 
     if (empty($name) || empty($email) || empty($service) || empty($message)) {
         $response['status'] = 'error';
@@ -43,12 +45,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 try {
                     //Server settings
                     $mail->isSMTP();
-                    $mail->Host = 'webedgetek.com'; // Specify main and backup SMTP servers
+                    $mail->Host = $smtp_host; // Specify main and backup SMTP servers
                     $mail->SMTPAuth = true;
-                    $mail->Username = 'alhassan.mohammed@webedgetek.com'; // SMTP username
-                    $mail->Password = ''; // SMTP password
+                    $mail->Username = $smtp_username; // SMTP username
+                    $mail->Password = $smtp_pass; // SMTP password
                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-                    $mail->Port = 587;
+                    $mail->Port = $port_number;
 
                     //Recipients
                     $mail->setFrom('alhassan.mohammed@webedgetek.com', 'BELLAS PRESTIGE');
@@ -57,9 +59,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     // Content
                     $mail->isHTML(true);
                     $mail->Subject = 'CONTACT FROM BELLAS PRESTIGE '.;
-                    $mail->Body    = nl2br("<b>BELLAS PRESTIGE CONTACT FORM </b> \nThis mail is received from the contact form of Bellas Prestige. \n The details is as follows. \nName: <b>".$name."</b> \nTelephone: <b>".$telephone."</b> \nEmail: <b>".$email."</b> \nMessage: <b>".$message."</b>\n \n\n\nSystem Generated Email\ninfo@webedgetek.com ");
+                    $mail->Body    = nl2br("<b>BELLAS PRESTIGE CONTACT FORM </b> \nThis mail is received from the contact form of Bellas Prestige. \n The details is as follows. \nName: <b>".$name."</b> \nTelephone: <b>".$telephone."</b> \nDate of Submission: <b>".$date"</b>\nEmail: <b>".$email."</b> \nMessage: <b>".$message."</b>\n \n\n\nSystem Generated Email\ninfo@webedgetek.com ");
 
-                    $mail->AltBody = strip_tags("<b>BELLAS PRESTIGE CONTACT FORM </b> \nThis mail is received from the contact form of Bellas Prestige. \n The details is as follows. \nName: <b>".$name."</b> \nTelephone: <b>".$telephone."</b> \nEmail: <b>".$email."</b> \nMessage: <b>".$message."</b> System Generated Email\ninfo@webedgetek.com ");
+                    $mail->AltBody = strip_tags("<b>BELLAS PRESTIGE CONTACT FORM </b> \nThis mail is received from the contact form of Bellas Prestige. \n The details is as follows. \nName: <b>".$name."</b> \nTelephone: <b>".$telephone."</b> \nDate of Submission: <b>".$date"</b> \nEmail: <b>".$email."</b> \nMessage: <b>".$message."</b> System Generated Email\ninfo@webedgetek.com ");
 
                     $mail->send();
                     $response['status'] = 'success';
