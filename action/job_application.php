@@ -1,5 +1,7 @@
 <?php 
-include("connection.php");  
+// include("connection.php");  
+
+date_default_timezone_set('Africa/Accra');
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
@@ -7,8 +9,6 @@ use PHPMailer\PHPMailer\Exception;
 require '../include/PHPMailer/src/Exception.php';
 require '../include/PHPMailer/src/PHPMailer.php';
 require '../include/PHPMailer/src/SMTP.php';
-
-date_default_timezone_set('Africa/Accra');
 
 // Set response header to JSON
 header('Content-Type: application/json');
@@ -46,23 +46,23 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 try {
                     //Server settings
                     $mail->isSMTP();
-                    $mail->Host = 'smtp.gmail.com'; // Specify main and backup SMTP servers
+                    $mail->Host = 'webedgetek.com'; // Specify main and backup SMTP servers
                     $mail->SMTPAuth = true;
-                    $mail->Username = 'nsiladum@gmail.com'; // SMTP username
+                    $mail->Username = 'alhassan.mohammed@webedgetek.com'; // SMTP username
                     $mail->Password = ''; // SMTP password
                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
                     $mail->Port = 587;
 
                     //Recipients
-                    $mail->setFrom('nsiladum@gmail.com', 'Northern Security Ltd');
-                    $mail->addAddress('alhassan.mohammedga@gmail.com', 'Bella'); // Add a recipient
+                    $mail->setFrom('alhassan.mohammed@webedgetek.com', 'BELLAS PRESTIGE');
+                    $mail->addAddress('alhassan.mohammed@webedgetek.com', 'JOB APPLICATION'); // Add a recipient
 
                     // Content
                     $mail->isHTML(true);
-                    $mail->Subject = $s_name.': '.'Job Application From Bella Pretige';
-                    $mail->Body    = nl2br("New Message Received with details as follows. \nName: ".$s_name." \nTelephone: ".$s_contact." \nEmail: ".$s_email." \nJob Title:".$job_type." \nRegion: ".$region."\nReligion: ".$religion." \nRemark: ".$remarks);
+                    $mail->Subject = 'JOB APPLICATION FROM BELLAS PRESTIGE WEBSITE';
+                    $mail->Body    = nl2br("A new application have been received. Bellow is the details of the applicant. \nName: ".$s_name." \nTelephone: ".$s_contact." \nEmail: ".$s_email." \nJob Title:".$job_type." \nRegion: ".$region."\nReligion: ".$religion." \nRemark: ".$remarks);
 
-                    $mail->AltBody = strip_tags("New Message Received with details as follows. \nName: ".$s_name." \nTelephone: ".$s_contact." \nEmail: ".$s_email." \nJob Title:".$job_type." \nRegion: ".$region."\nReligion: ".$religion." \nRemark: ".$remarks);
+                    $mail->AltBody = strip_tags("A new application have been received. Bellow is the details of the applicant. \nName: ".$s_name." \nTelephone: ".$s_contact." \nEmail: ".$s_email." \nJob Title:".$job_type." \nRegion: ".$region."\nReligion: ".$religion." \nRemark: ".$remarks);
 
                     $mail->send();
                     $response['status'] = 'success';

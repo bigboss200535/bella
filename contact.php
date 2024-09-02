@@ -86,7 +86,7 @@
                                 <div class="col-md-6">
                                     <div class="form-floating">
                                         <!-- <input type="text" class="form-control border-0" id="subject" maxlength="150" name="subject" placeholder="Your Email" autocomplete="off"> -->
-                                        <select class="form-select border-0" id="service" name="services">
+                                        <select class="form-select border-0" id="service" name="service">
                                             <option selected disabled>-select-</option>
                                             <option value="Domestic/House Help">Domestic/House Help</option>
                                             <option value="Domestic/Commercial Cleaner">Domestic/Commercial Cleaner</option>
@@ -168,7 +168,7 @@
                         var formData = {
                             name: $("#name").val(),
                             email: $("#email").val(),
-                            services: $("#services").val(),
+                            service: $("#service").val(),
                             message: $("#message").val(),
                             telephone: $("#telephone").val()
                             };
@@ -191,7 +191,8 @@
                             },
                             error: function(xhr, status, error) {
                                 // Handle error
-                                $("#form_message").html('<div class="alert alert-danger">An error occurred. Please try again.</div>');
+                                $("#form_message").html('<div class="alert alert-danger">An error occurred. Please try again.' + response.message + '</div>');
+                                 $("#contact_form_submission")[0].reset();
                             }
                         });
                     });

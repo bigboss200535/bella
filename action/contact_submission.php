@@ -1,5 +1,5 @@
 <?php 
-include("connection.php");  
+// include("connection.php");  
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
@@ -20,13 +20,13 @@ $response = array(
 );
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $name = $_POST['name'];
+    $name = strtoupper($_POST['name']);
     $email = $_POST['email'];
-    $services = $_POST['services'];
+    $service = $_POST['service'];
     $message = $_POST['message'];
     $telephone = $_POST['telephone'];
 
-    if (empty($name) || empty($email) || empty($services) || empty($message)) {
+    if (empty($name) || empty($email) || empty($service) || empty($message)) {
         $response['status'] = 'error';
         $response['message'] = 'All fields are required.';
     } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -43,22 +43,23 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 try {
                     //Server settings
                     $mail->isSMTP();
-                    $mail->Host = 'smtp.gmail.com'; // Specify main and backup SMTP servers
+                    $mail->Host = 'webedgetek.com'; // Specify main and backup SMTP servers
                     $mail->SMTPAuth = true;
-                    $mail->Username = 'bigboss200535@gmail.com'; // SMTP username
+                    $mail->Username = 'alhassan.mohammed@webedgetek.com'; // SMTP username
                     $mail->Password = ''; // SMTP password
                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
                     $mail->Port = 587;
 
                     //Recipients
-                   $mail->setFrom('nsiladum@gmail.com', 'Northern Security Ltd');
-                    $mail->addAddress('alhassan.mohammedga@gmail.com', 'Bella'); // Add a recipient
+                    $mail->setFrom('alhassan.mohammed@webedgetek.com', 'BELLAS PRESTIGE');
+                    $mail->addAddress('alhassan.mohammed@webedgetek.com', 'CONTACT FORM'); // Add a recipient
 
                     // Content
                     $mail->isHTML(true);
-                    $mail->Subject = $name.': '.'Contact From Bella Pretige';
-                    $mail->Body    = nl2br("New Message Received with details as follows. \nName: ".$name." \nTelephone: ".$contact." \nEmail: ".$email." \nMessage: ".$message);
-                    $mail->AltBody = strip_tags($message);
+                    $mail->Subject = 'CONTACT FROM BELLAS PRESTIGE '.;
+                    $mail->Body    = nl2br("<b>BELLAS PRESTIGE CONTACT FORM </b> \nThis mail is received from the contact form of Bellas Prestige. \n The details is as follows. \nName: <b>".$name."</b> \nTelephone: <b>".$telephone."</b> \nEmail: <b>".$email."</b> \nMessage: <b>".$message."</b>\n \n\n\nSystem Generated Email\ninfo@webedgetek.com ");
+
+                    $mail->AltBody = strip_tags("<b>BELLAS PRESTIGE CONTACT FORM </b> \nThis mail is received from the contact form of Bellas Prestige. \n The details is as follows. \nName: <b>".$name."</b> \nTelephone: <b>".$telephone."</b> \nEmail: <b>".$email."</b> \nMessage: <b>".$message."</b> System Generated Email\ninfo@webedgetek.com ");
 
                     $mail->send();
                     $response['status'] = 'success';
