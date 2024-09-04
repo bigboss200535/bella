@@ -65,7 +65,7 @@
                             <h4 class="mb-2" style="color: goldenrod;">Working Hours</h4>
                             <div class="footer-bank-card">
                                 <b class="text-white">MONDAY - FRIDAY</b> <br><span class="mt-4">9:00 AM - 6:00 PM</span><br><br>
-                                <b class="text-white">SATURDAY</b> <br><span>10:00 AM - 2:00 PM</span>
+                                <b class="text-white">SATURDAY</b> <br><span>10:00 AM - 3:00 PM</span>
                             </div>
                         </div>
                     </div>
