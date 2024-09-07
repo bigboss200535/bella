@@ -75,13 +75,54 @@
                 <h3 class="section-about-title">Our Vision</h3>
                 <p>The company values excellence, integrity, and customer satisfaction, striving to build long-term relationships with its clients.</p>
             </div>
-            <div class="col-lg-8">
+            <h1 class="text-center">Kumasi Office</h1>
+            <div class="row">
+            <div class="col-lg-6">
             <div class="h-80" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
                 
-                <img src="img/about/kumasi-1.png" class="img-fluid w-100 h-80 shadow" alt="">
+                <img src="img/about/kumasi3.jpg" class="img-fluid w-100 h-80 shadow rounded" alt="">
                 <h3 class="section-about-title"></h3>
             </div>
         </div>
+        <div class="col-lg-6">
+            <div class="h-80" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
+                
+                <img src="img/about/kumasi1.png" class="img-fluid w-100 h-80 shadow rounded" alt="">
+                <h3 class="section-about-title"></h3>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="h-80" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
+                
+                <img src="img/about/kumasi2.png" class="img-fluid w-100 h-80 shadow rounded" alt="">
+                <h3 class="section-about-title"></h3>
+            </div>
+        </div>
+    </div>
+    <h1 class="text-center">Accra Office</h1>
+            <div class="row">
+            <div class="col-lg-6">
+            <div class="h-80" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
+                
+                <img src="img/about/accra1.jpg" class="img-fluid shadow rounded" alt="" style="height: 20%; width: 1000%;">
+                <h3 class="section-about-title"></h3>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="h-80" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
+                
+                <img src="img/about/accra2.jpg" class="img-fluid w-100 h-80 shadow rounded" alt="">
+                <h3 class="section-about-title"></h3>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="h-80" style="border: 50px solid; border-color: transparent #DAA520 transparent #DAA520;">
+                
+                <img src="img/about/accra3.png" class="img-fluid w-100 h-80 shadow rounded" alt="">
+                <h3 class="section-about-title"></h3>
+            </div>
+        </div>
+    </div>
         </div>
         
         <!-- <div class="row">
