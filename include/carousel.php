@@ -17,7 +17,7 @@
                 </p>
                 <div class="d-flex align-items-center justify-content-center">
                     <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="travel.php">Discover Now...</a>
-                    <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Apply for our service</a>
+                    <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="register.php">Apply for our service</a>
                 </div>
             </div>
         </div>
@@ -32,7 +32,7 @@
             </p>
             <div class="d-flex align-items-center justify-content-center">
                 <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4" href="homecare.php">Discover Now...</a>
-                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Apply for our service</a>
+                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="register.php">Apply for our service</a>
             </div>
         </div>
     </div>
@@ -47,7 +47,7 @@
             </p>
             <div class="d-flex align-items-center justify-content-center">
                 <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4" href="property.php">Discover Now...</a>
-                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Apply for our service</a>
+                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="register.php">Apply for our service</a>
             </div>
         </div>
     </div>
@@ -62,7 +62,7 @@
             </p>
             <div class="d-flex align-items-center justify-content-center">
                 <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4" href="tuition.php">Discover Now...</a>
-                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Apply for our service</a>
+                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="register.php">Apply for our service</a>
             </div>
         </div>
     </div>
