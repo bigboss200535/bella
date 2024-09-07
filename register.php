@@ -28,15 +28,13 @@
         <!-- Contact Start -->
         <div class="container-fluid contact bg-light py-5">
             <div class="container py-5">
-                <div class="mx-auto text-center mb-5" style="max-width: 900px;">
+                <div class="mx-auto text-center mb-5">
                     <h5 class="section-title px-3">Register</h5>
-                    <h1 class="mb-0">Contact For Any Query</h1>
+                    <h1 class="mb-0">Apply for any of our services here</h1>
                 </div>
-                <div class="row g-5 align-items-center">
-                   
-                    <div class="col-lg-8">
-                        <h3 class="mb-2">Send us a message</h3>
-                        <p class="mb-4">Kindly leave us a message and we will get back to you in no time. You can also reach us on any of our contact numbers.
+                <div class="row g-5 align-items-center shadow rounded col-lg-12 col-md-6"> 
+                    <div class="">
+                        <p class="mb-4">Fill the form below if you would want to apply for any of our services and we will quickly contact you in no time.
                         <form method="post" id="contact_form_submission">
                             <div class="row g-3">
                                 <div class="col-md-6">
@@ -59,8 +57,36 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control border-0" id="subject" maxlength="150" name="subject" placeholder="Your Email" autocomplete="off">
-                                        <label for="subject">Subject</label>
+                                        <select class="form-select border-0" id="service" name="service">
+                                            <option selected disabled>-select-</option>
+                                            <option value="Domestic/House Help">Domestic/House Help</option>
+                                            <option value="Domestic/Commercial Cleaner">Domestic/Commercial Cleaner</option>
+                                            <option value="Caregiver">Care Giver</option>
+                                            <option value="Nanny Care">Nanny Care</option>
+                                            <option value="Cook/Chef">Cook/Chef</option>
+                                            <option value="IELTS Tuition">IELTS Tuition</option>
+                                            <option value="OET Tuition">OET Tuition</option>
+                                            <option value="GMAT Tuition">GMAT Tuition</option>
+                                            <option value="GRE Tuition">GRE Tuition</option>
+                                            <option value="LIFE SKILLS Tuition">LIFE SKILLS Tuition</option>
+                                            <option value="PTE Tuition">PTE Tuition</option>
+                                            <!-- <option value="PTE Tuition">PTE Tuition</option> -->
+                                            <option value="Document Processing">Document Processing</option>
+                                            <option value="Hotel Reservations">Hotel Reservations</option>
+                                            <option value="Airline Ticketing">Airline Ticketing</option>
+                                            <option value="Study Abroad">Study Abroad</option>
+                                            <option value="Holiday Visa">Holiday Visa</option>
+                                            <option value="Work Permit">Work Permit</option>
+                                            <option value="Settlement Visa">Settlement Visa</option>
+                                            <option value="Visit Visa">Visit Visa</option>
+                                            <option value="AirBnB">AirBnB (Short Stay)</option>
+                                            <option value="Property Sale">Property Sale</option>
+                                            <option value="House Construction">House Construction</option>
+                                            <option value="Property Letting">Property Letting</option>
+                                            <option value="Property Management">Property Management</option>
+                                            <option value="Lands">Lands</option>
+                                        </select>
+                                        <label for="subject">Select Service</label>
                                     </div>
                                 </div>
                                 <div class="col-12">

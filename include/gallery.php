@@ -14,7 +14,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="d-flex py-2 mx-3 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#GalleryTab-2">
-                            <span class="text-dark" style="width: 150px;">Travel & Tour</span>
+                            <span class="text-dark" style="width: 150px;">Travel & Consult</span>
                         </a>
                     </li>
                     <li class="nav-item">
@@ -24,7 +24,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#GalleryTab-4">
-                            <span class="text-dark" style="width: 150px;">Estate & Properties</span>
+                            <span class="text-dark" style="width: 150px;">Properties</span>
                         </a>
                     </li>
                     <!-- <li class="nav-item">

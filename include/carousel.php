@@ -17,7 +17,7 @@
                 </p>
                 <div class="d-flex align-items-center justify-content-center">
                     <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="travel.php">Discover Now...</a>
-                    <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Contact Us</a>
+                    <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Apply for our service</a>
                 </div>
             </div>
         </div>
@@ -32,7 +32,7 @@
             </p>
             <div class="d-flex align-items-center justify-content-center">
                 <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4" href="homecare.php">Discover Now...</a>
-                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Contact Us</a>
+                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Apply for our service</a>
             </div>
         </div>
     </div>
@@ -43,11 +43,11 @@
         <div class="p-3" style="max-width: 900px;">
             <h4 class="text-white text-uppercase fw-bold mb-2" style="letter-spacing: 3px;">Own a property</h4>
             <h1 class="display-2 text-capitalize text-white mb-2">Are you yearning for property acquisition?</h1>
-            <p class="mb-5 fs-5">With Bellas Prestige Limited, you can acquire Estate houses, Sell and Buy lands, Rent Houses and Rooms, Sell and Buy Houses.We also quarantee you a rent loan and pay later with flexible terms. 
+            <p class="mb-5 fs-5">With Bellas Prestige Property services, you can acquire Estate houses, Sell and Buy lands, Rent Houses and Rooms, Sell and Buy Houses.We also quarantee you a rent loan and pay later with flexible terms. 
             </p>
             <div class="d-flex align-items-center justify-content-center">
                 <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4" href="property.php">Discover Now...</a>
-                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Contact Us</a>
+                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Apply for our service</a>
             </div>
         </div>
     </div>
@@ -62,7 +62,7 @@
             </p>
             <div class="d-flex align-items-center justify-content-center">
                 <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4" href="tuition.php">Discover Now...</a>
-                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Contact Us</a>
+                <a class="btn-hover-bg btn btn-gold rounded-pill text-white py-2 px-4 m-3" href="contact.php">Apply for our service</a>
             </div>
         </div>
     </div>

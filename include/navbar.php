@@ -13,8 +13,8 @@
                         <a href="index.php" class="nav-item nav-link" style="font-size: 14px;">Home</a>
                         <a href="about.php" class="nav-item nav-link" style="font-size: 14px;">About</a>
                         <a href="services.php" class="nav-item nav-link" style="font-size: 14px;">Services</a>
-                        <a href="contact.php" class="nav-item nav-link" style="font-size: 14px;">Contact</a>
                         <a href="jobapplication.php" class="nav-item nav-link" style="font-size: 14px;">Apply for a job</a>
+                        <a href="contact.php" class="nav-item nav-link" style="font-size: 14px;">Contact</a>
                         <div class="nav-item dropdown">
                             <a href="#" id="navLinks" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"  style="font-size: 14px;">Explore</a>
                             <div class="dropdown-menu m-0">
@@ -26,6 +26,6 @@
                         </div>
                       
                     </div>
-                    <a href="contact.php" class="btn btn-gold rounded-pill py-2 px-4 ms-lg-4">Contact Now</a>
+                    <a href="register.php" style="font-size: 12px;" class="btn btn-primary rounded-pill py-2 px-3 ms-lg-4">Apply for our any service</a>
                 </div>
             </nav>

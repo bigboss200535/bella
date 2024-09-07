@@ -15,11 +15,11 @@
         <!-- Header Start -->
         <div class="container-fluid bg-travel">
             <div class="container text-center py-5" style="max-width: 900px;">
-                <h3 class="text-white display-3 mb-4">Travel Consult</h1>
+                <h3 class="text-white display-3 mb-4">Travel & Consult</h1>
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <!-- <li class="breadcrumb-item"><a href="#">Pages</a></li> -->
-                    <li class="breadcrumb-item active text-white">Travel Consult</li>
+                    <li class="breadcrumb-item active text-white">Travel & Consult</li>
                 </ol>    
             </div>
         </div>
@@ -33,7 +33,7 @@
                     <h1 class="mb-4">Why choose us</h1>
                     <div class="row">
                     <div class="col-md-6" align="justify">
-                        Bellas Prestige Travel Consult is a company that aims to provide exceptional services that meet the unique needs of its clients, ensuring their satisfaction and success. 
+                        Bellas Prestige Travel & Consult is a company that aims to provide exceptional services that meet the unique needs of its clients, ensuring their satisfaction and success. 
                         <p class="mt-3">The company offers personalized travel and tour services, such as, Travel Documents Processing, Study Abroad, Work Permit, Visit Visa, Holidays Visa, Settlement Visa, Hotel Reservations, Airline Ticketing, Organizing of tours for churches and Holidayers, Airbnb (short stays).</p>
                 </div>
                <div class="col-lg-6 col-md-6">
@@ -52,7 +52,7 @@
     </div>
     <!-- end of why choose us -->
     <div class="text-center">
-        <h3 class="section-title text-center mb-3">&nbsp Our Travel Consult Services &nbsp</h3>
+        <h3 class="section-title text-center mb-3">&nbsp Our Travel & Consult Services &nbsp</h3>
     </div>
             <div class="row g-4 justify-content-center">
                 <!-- Start of Travel Abroad processing -->
