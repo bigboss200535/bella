@@ -26,6 +26,6 @@
                         </div>
                       
                     </div>
-                    <a href="register.php" style="font-size: 12px;" class="btn btn-primary rounded-pill py-2 px-3 ms-lg-4">Apply for our any service</a>
+                    <a href="register.php" style="font-size: 12px;" class="btn btn-primary rounded-pill py-2 px-3 ms-lg-4">Apply for our service</a>
                 </div>
             </nav>
