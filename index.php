@@ -2,7 +2,7 @@
 
 	date_default_timezone_set('Africa/Accra');
 	$current_date = date('Y-m-d');
-	$expiry_date = date('2024-09-06');
+	$expiry_date = date('2024-09-09');
 
 	//include('include/head.php');
 
