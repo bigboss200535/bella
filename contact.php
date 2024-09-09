@@ -98,7 +98,6 @@
                                             <option value="GRE Tuition">GRE Tuition</option>
                                             <option value="LIFE SKILLS Tuition">LIFE SKILLS Tuition</option>
                                             <option value="PTE Tuition">PTE Tuition</option>
-                                            <!-- <option value="PTE Tuition">PTE Tuition</option> -->
                                             <option value="Document Processing">Document Processing</option>
                                             <option value="Hotel Reservations">Hotel Reservations</option>
                                             <option value="Airline Ticketing">Airline Ticketing</option>
@@ -113,6 +112,7 @@
                                             <option value="Property Letting">Property Letting</option>
                                             <option value="Property Management">Property Management</option>
                                             <option value="Lands">Lands</option>
+                                            <option value="Rent Loan">Rent Loan</option>
                                         </select>
                                         <label for="subject">Select Service</label>
                                     </div>

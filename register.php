@@ -85,6 +85,7 @@
                                             <option value="Property Letting">Property Letting</option>
                                             <option value="Property Management">Property Management</option>
                                             <option value="Lands">Lands</option>
+                                            <option value="Rent Loan">Rent Loan</option>
                                         </select>
                                         <label for="subject">Select Service</label>
                                     </div>
