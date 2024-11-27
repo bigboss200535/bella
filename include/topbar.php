@@ -14,6 +14,9 @@
                         <a class="btn btn-sm btn-outline-primary btn-sm-square rounded-circle me-2" href="">
                             <i class="fab fa-instagram fw-normal"></i>
                         </a>
+                        <a class="btn btn-sm btn-outline-primary btn-sm-square rounded-circle me-2" href="">
+                            <i class="fab fa-tiktok fw-normal"></i>
+                        </a>
                     </div>
                 </div>
                 <div class="col-lg-4 text-center text-lg-end">

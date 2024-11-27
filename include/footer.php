@@ -69,6 +69,13 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-6 col-lg-6 col-xl-4">
+                        <div class="footer-item">
+                            <video width="400" height="224" autoplay loop muted>
+                                <source src="img/work.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
